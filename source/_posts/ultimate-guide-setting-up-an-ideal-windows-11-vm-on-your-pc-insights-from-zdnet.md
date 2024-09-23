@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Setting Up an Ideal Windows 11 VM on Your PC - Insights From ZDNet"
-date: 2024-09-17 13:34:37
-updated: 2024-09-20 10:42:25
+date: 2024-09-16T16:18:59.365Z
+updated: 2024-09-23T16:16:16.629Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,19 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -82,6 +95,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,11 +135,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +193,34 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-raw-footage-to-polished-perfection-an-essential-youtube-video-editing-guide-for-2024/"><u>[New] From Raw Footage to Polished Perfection An Essential Youtube Video Editing Guide for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-analyzing-face-editing-tools-polaroid-cube-vs-gopro-hero-series/"><u>[Updated] Analyzing Face-Editing Tools Polaroid Cube Vs. GoPro Hero Series</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-social-media-blend-easy-twitch-to-facebook-integration/"><u>[Updated] Social Media Blend Easy Twitch to Facebook Integration</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-key-to-viral-instagram-posts/"><u>[Updated] The Key to Viral Instagram Posts</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/aggiornamento-schermata-teams-passaggi-per-modificare-il-sfondo-nei-prodotti-di-microsoft-guida/"><u>Aggiornamento Schermata Teams - Passaggi Per Modificare Il Sfondo Nei Prodotti Di Microsoft (Guida)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/conquered-by-creatives-from-wmm-to-a-stellar-vimeo-presence/"><u>Conquered By Creatives From WMM to a Stellar Vimeo Presence</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/converter-gratuito-de-archivo-wav-a-formato-flac-en-linea-movavi/"><u>Converter Gratuito De Archivo WAV a Formato FLAC en Línea - Movavi</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/free-online-conversion-of-movswf-files-by-movavi/"><u>Free Online Conversion of MOV/SWF Files by Movavi</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/gratuite-convertisseur-en-ligne-flac-vers-avi-avec-movavi-facile-et-rapide/"><u>Gratuite: Convertisseur en Ligne FLAC Vers AVI Avec Movavi - Facile Et Rapide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-s17-pro-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo S17 Pro?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-a15-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy A15 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/mastering-image-enhancement-for-breathtaking-results/"><u>Mastering Image Enhancement for Breathtaking Results</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/movavi-mp3-m2p/"><u>Movavi MP3 대상화: 원탁과 일정 없이 바이너리 아이마지네이트를 무료로 M2P 변환</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/movavi-m4v-swf/"><u>Movavi 제공: M4V를 SWF로 쉽게 전환하는 방법, 웹 기능으로 접근</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/movavimpempg/"><u>Movaviで効率的な無料MPEとMPGのスムーズな変換方法 – オンラインツール</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/mp4-format-explained-comprehensive-guide-to-understanding-and-working-with-mp4-files/"><u>MP4 Format Explained: Comprehensive Guide to Understanding and Working with .mp4 Files</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-gamer-era-starts-djis-mavic-air-versus-spark-battle/"><u>New Gamer Era Starts DJI’s Mavic Air Versus Spark Battle</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/profille-movavi-video-konverter-guaranteed-secure-purchase-og-rabatte/"><u>Profille Movavi Video Konverter - Guaranteed Secure Purchase Og Rabatte</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/transforma-sus-videos-ts-en-formato-webm-libremente-en-la-web-por-medio-de-herramientas-de-conversion-gratuitas-como-movavi/"><u>Transforma Sus Videos TS en Formato WebM Libremente en La Web Por Medio De Herramientas De Conversión Gratuitas Como Movavi</u></a></li>
+</ul></div>
+

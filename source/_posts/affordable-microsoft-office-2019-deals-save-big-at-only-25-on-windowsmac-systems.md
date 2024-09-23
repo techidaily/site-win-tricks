@@ -1,7 +1,7 @@
 ---
 title: "Affordable Microsoft Office 2019 Deals: Save Big at Only $25 on Windows/Mac Systems!"
-date: 2024-09-17 23:29:12
-updated: 2024-09-20 12:22:31
+date: 2024-09-16T16:27:40.407Z
+updated: 2024-09-23T16:22:54.911Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +95,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,11 +135,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +193,27 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-serenity-in-gaming-10-stress-busters/"><u>[Updated] Serenity in Gaming 10 Stress Busters</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/complete-tutorial-capturing-video-and-sound-with-quicktime-screen-record-on-a-mac/"><u>Complete Tutorial: Capturing Video & Sound with QuickTime Screen Record on a Mac</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/conversione-on-line-gratuita-da-aac-a-3gp-con-movavi/"><u>Conversione On-Line Gratuita Da AAC a 3GP Con Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosis-and-repair-making-your-external-device-work-again-on-pcmac-systems/"><u>Diagnosis and Repair: Making Your External Device Work Again on PC/Mac Systems</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/grabacion-digital-libre-online-convertidor-mp4-a-mp3-sin-costo-por-adobe-premiere-movavi/"><u>Grabación Digital Libre Online: Convertidor MP4 a MP3 Sin Costo Por Adobe Premiere - Movavi</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-nokia-c12-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Nokia C12 FRP Without Computer</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/minden-legjobb-atlagot-kifejezesu-atalakito-mkv-mp4-atlalakitasuton-windowsmac-online-tippekonzert/"><u>Minden Legjobb Átlagot Kifejezésű Átalakító: MKV MP4 Átlalakításúton Windows/Mac Online Tippekonzert</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/online-gratuite-vob-in-m2ts-omzetting-met-movavi-persoonlijke-instructies-en-tips-inbegripend/"><u>Online Gratuite VOB-in-M2TS Omzetting Met Movavi: Persoonlijke Instructies en Tips Inbegripend!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overhauling-epsons-error-0x97/"><u>Overhauling Epson's Error 0X97</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-closing-your-chatgpt-profile/"><u>Step-by-Step Guide: Closing Your ChatGPT Profile</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/step-by-step-instructions-for-crafting-dynamic-visual-impact-with-imovie-effects/"><u>Step-by-Step Instructions for Crafting Dynamic Visual Impact with iMovie Effects</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/top-20-free-video-transcoding-tools-for-pc-compatible-with-windows-10-8-and-7/"><u>Top 20 Free Video Transcoding Tools for PC: Compatible with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-11-preferred-free-solutions-to-automatically-upgrade-your-software/"><u>Unveiling 11 Preferred Free Solutions to Automatically Upgrade Your Software</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Ambitious Plan: Equipping 2.5 Million ASEAN Individuals with Essential AI Proficiency - Insights From ZDNet"
-date: 2024-09-18 19:58:33
-updated: 2024-09-20 12:22:30
+date: 2024-09-19T16:40:10.528Z
+updated: 2024-09-23T16:18:13.189Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -115,11 +129,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +187,34 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-revolutionizing-gameplay-with-innovative-file-logging-tools-for-2024/"><u>[New] Revolutionizing Gameplay with Innovative File Logging Tools for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-tenfold-video-recording-tricks-on-your-windows-11-system/"><u>[Updated] In 2024, Tenfold Video Recording Tricks on Your Windows 11 System</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-how-can-i-share-videos-to-instagram/"><u>2024 Approved How Can I Share Videos to Instagram?</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/converter-gratuito-de-archivo-wav-a-formato-flac-en-linea-movavi/"><u>Converter Gratuito De Archivo WAV a Formato FLAC en Línea - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-hidden-touchpad-in-device-manager/"><u>Discover Hidden Touchpad in Device Manager!</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/echovideo-capture-toolkit-for-fb/"><u>EchoVideo Capture Toolkit for FB</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/estrategias-educacionais-vantajosas-melhorar-a-experiencia-na-sala-tradicional-e-no-ensino-a-distancia-10-dicas-essenciais/"><u>Estratégias Educacionais Vantajosas: Melhorar a Experiência Na Sala Tradicional E No Ensino À Distância – 10 Dicas Essenciais</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/free-online-conversion-of-movswf-files-by-movavi/"><u>Free Online Conversion of MOV/SWF Files by Movavi</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/gratuite-convertisseur-en-ligne-flac-vers-avi-avec-movavi-facile-et-rapide/"><u>Gratuite: Convertisseur en Ligne FLAC Vers AVI Avec Movavi - Facile Et Rapide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-ensure-visibility-of-all-user-responses-in-the-youtube-comment-section/"><u>How to Ensure Visibility of All User Responses in the YouTube Comment Section</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-color-coding-mastery-the-most-essential-lightroom-luts-you-need-to-know/"><u>In 2024, Color Coding Mastery The Most Essential Lightroom LUTs You Need to Know</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/movavi-m4v-swf/"><u>Movavi 제공: M4V를 SWF로 쉽게 전환하는 방법, 웹 기능으로 접근</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/mp4-format-explained-comprehensive-guide-to-understanding-and-working-with-mp4-files/"><u>MP4 Format Explained: Comprehensive Guide to Understanding and Working with .mp4 Files</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/online-converter-von-mpeg-zu-m4v-videodateien-kostenlos-anbieten-movavis-seo-optimierter-dienst/"><u>Online Converter Von MPEG Zu M4V Videodateien Kostenlos Anbieten – Movavi's SEO-Optimierter Dienst</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-pros-of-google-play-pass-exceeding-its-cons/"><u>The Pros of Google Play Pass Exceeding Its Cons</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-20-free-camera-software-programs-for-ios-movavi/"><u>Top 20 Free Camera Software Programs for iOS - Movavi</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/transmision-instantanea-y-libre-de-m4a-a-formato-wav-con-garantia-de-mantener-la-fidelidad-original/"><u>Transmisión Instantánea Y Libre De M4A a Formato WAV Con Garantía De Mantener La Fidelidad Original</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/trasforma-file-3gpp-a-video-3gp-online-gratuitamente-tramite-lutilita-di-movavi/"><u>Trasforma File 3GPP a Video 3GP Online Gratuitamente Tramite L'utilità Di Movavi</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upgrade-your-pc-graphics-amds-hd-6950-update-now/"><u>Upgrade Your PC Graphics: AMD's HD 6950 Update Now!</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/gif-m4v-movavi/"><u>무료 GIF 제작을 위한 M4V 효과 강화: Movavi의 시각 자산 관리 도구</u></a></li>
+</ul></div>
+

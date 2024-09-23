@@ -1,7 +1,7 @@
 ---
 title: Microsoft to Introduce Costly Updates for Windows 11 Users – Insight Into the New Payment Model and Estimated Charges
-date: 2024-09-17 10:25:30
-updated: 2024-09-20 11:39:59
+date: 2024-09-16T16:19:21.407Z
+updated: 2024-09-23T16:30:14.507Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -124,6 +145,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +187,27 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-vanishing-in-the-crowd-how-to-peruse-instagram-stories-on-various-platforms-anonymously/"><u>[New] 2024 Approved Vanishing in the Crowd How to Peruse Instagram Stories on Various Platforms Anonymously</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hacky-podcast-transmission-tactic/"><u>[New] Hacky Podcast Transmission Tactic</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-copypaste-dilemma-sudden-vid-deletion/"><u>2024 Approved Copypaste Dilemma Sudden Vid Deletion</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1726220690734-dpx-movavi/"><u>簡便線上DPX免費轉檔服務 - Movavi</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/convertir-des-gif-vers-des-fichiers-swf-gratuitement-avec-la-solution-web-de-movavi-guide-detaille/"><u>Convertir Des GIF Vers Des Fichiers SWF Gratuitement Avec La Solution Web De Movavi - Guide Détaillé</u></a></li>
+<li><a href="https://fox-info.techidaily.com/creating-your-first-home-theater-disc-with-mac-for-2024/"><u>Creating Your First Home Theater Disc with Mac for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/free-online-converter-change-your-gifs-into-mp4-videos-use-movavi/"><u>Free Online Converter: Change Your GIFs Into MP4 Videos - Use Movavi</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/movavimpempg/"><u>Movaviで効率的な無料MPEとMPGのスムーズな変換方法 – オンラインツール</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-best-solarmovie-alternatives-watch-movies-online/"><u>New Best SolarMovie Alternatives-Watch Movies Online</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-vlog-like-a-pro-10-essential-editing-apps-for-ios-and-android-for-2024/"><u>New Vlog Like a Pro 10 Essential Editing Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/profille-movavi-video-konverter-guaranteed-secure-purchase-og-rabatte/"><u>Profille Movavi Video Konverter - Guaranteed Secure Purchase Og Rabatte</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/transform-audio-convert-asf-to-wav-streamingly-no-costs-involved-movavi/"><u>Transform Audio: Convert ASF to WAV Streamingly, No Costs Involved - Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-realme-gt-5-pro-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Realme GT 5 Pro to Gmail | Dr.fone</u></a></li>
+</ul></div>
+

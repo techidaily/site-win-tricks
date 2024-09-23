@@ -1,7 +1,7 @@
 ---
 title: "Brace Yourself, Managers: Microsoft’s Latest Plan Is Causing Stir and Discontent"
-date: 2024-09-18 13:58:13
-updated: 2024-09-20 12:36:18
+date: 2024-09-19T16:34:03.327Z
+updated: 2024-09-23T16:17:49.459Z
 tags:
   - microsoft
 categories:
@@ -105,11 +105,41 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-cutting-edge-techniques-for-youtube-video-production-with-sony-vegas/"><u>[New] In 2024, Cutting-Edge Techniques for YouTube Video Production with Sony Vegas</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-maximize-fun-choose-from-heres-top-5-chrome-extensions-for-facebook-vids/"><u>[Updated] Maximize Fun Choose From Here's Top 5 Chrome Extensions for Facebook Vids</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-probing-into-asuss-proart-pa-329q-professional-4k-display-review-insights/"><u>[Updated] Probing Into Asus's ProArt PA 329Q – Professional 4K Display Review Insights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-selection-of-top-5-best-android-photo-apps/"><u>[Updated] The Ultimate Selection of Top 5 Best Android Photo Apps</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/convertisseur-de-fichiers-audio-gratuit-m4v-en-format-aac-avec-movavi/"><u>Convertisseur De Fichiers Audio Gratuit : M4V en Format AAC Avec Movavi</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-samsung-galaxy-a54-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Samsung Galaxy A54 5G FRP</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/grabacion-digital-libre-online-convertidor-mp4-a-mp3-sin-costo-por-adobe-premiere-movavi/"><u>Grabación Digital Libre Online: Convertidor MP4 a MP3 Sin Costo Por Adobe Premiere - Movavi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-oppo-find-x6-pro-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Oppo Find X6 Pro to Roku | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Realme GT 3? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-most-effective-windows-to-do-apps/"><u>Navigating the Most Effective Windows To-Do Apps</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/online-gratuite-vob-in-m2ts-omzetting-met-movavi-persoonlijke-instructies-en-tips-inbegripend/"><u>Online Gratuite VOB-in-M2TS Omzetting Met Movavi: Persoonlijke Instructies en Tips Inbegripend!</u></a></li>
+<li><a href="https://facebook.techidaily.com/subtle-social-sweep-hiding-your-facebook-footprints/"><u>Subtle Social Sweep: Hiding Your Facebook Footprints</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/top-20-free-video-transcoding-tools-for-pc-compatible-with-windows-10-8-and-7/"><u>Top 20 Free Video Transcoding Tools for PC: Compatible with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/tout-sur-la-transformation-vob-avi-gratuite-en-lignes-via-movavi-details-et-etapes-etape-par-etape/"><u>Tout Sur La Transformation VOB-AVI Gratuite en Lignes via Movavi : Détails Et Étapes Étape Par Étape</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Rebuilding Your Keyboard Layout with Microsoft PowerToys: A Step-by-Step Guide by ZDNet"
-date: 2024-09-18 15:16:40
-updated: 2024-09-20 11:38:52
+date: 2024-09-20T16:24:09.943Z
+updated: 2024-09-23T16:08:59.403Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,19 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -121,9 +141,23 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +193,33 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-step-by-step-guide-to-brighter-youtube-video-editing/"><u>[New] 2024 Approved Step-by-Step Guide to Brighter YouTube Video Editing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-tailored-for-tech-savvy-audiences-unveil-the-youtuber-who-resonates-with-you-through-six-quizzes/"><u>[New] 2024 Approved Tailored for Tech-Savvy Audiences Unveil the YouTuber Who Resonates with You Through Six Quizzes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-much-can-you-earn-on-youtube-via-ad-revenue/"><u>[Updated] 2024 Approved How Much Can You Earn on YouTube via Ad Revenue?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-alpine-adventure-2022s-spectacular-snowboard-cross-olympic-moments/"><u>[Updated] Alpine Adventure 2022'S Spectacular Snowboard Cross Olympic Moments</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-broadcast-your-online-meeting-via-youtube-google-meet-steps/"><u>[Updated] How To Broadcast Your Online Meeting via YouTube - Google Meet Steps</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/aggiornamento-schermata-teams-passaggi-per-modificare-il-sfondo-nei-prodotti-di-microsoft-guida/"><u>Aggiornamento Schermata Teams - Passaggi Per Modificare Il Sfondo Nei Prodotti Di Microsoft (Guida)</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/converter-gratuito-de-archivo-wav-a-formato-flac-en-linea-movavi/"><u>Converter Gratuito De Archivo WAV a Formato FLAC en Línea - Movavi</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/decrease-window-panel-size-in-win-10/"><u>Decrease Window Panel Size in WIN 10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976294784-download-updated-drivers-for-your-eveo-bluetooth-adapter-today/"><u>Download Updated Drivers for Your Eveo Bluetooth Adapter Today</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/free-online-conversion-of-movswf-files-by-movavi/"><u>Free Online Conversion of MOV/SWF Files by Movavi</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-z-fold-5-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy Z Fold 5 Phone FRP Lock</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/movavi-mp3-m2p/"><u>Movavi MP3 대상화: 원탁과 일정 없이 바이너리 아이마지네이트를 무료로 M2P 변환</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/movavi-m4v-swf/"><u>Movavi 제공: M4V를 SWF로 쉽게 전환하는 방법, 웹 기능으로 접근</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/movavimpempg/"><u>Movaviで効率的な無料MPEとMPGのスムーズな変換方法 – オンラインツール</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/mp4-format-explained-comprehensive-guide-to-understanding-and-working-with-mp4-files/"><u>MP4 Format Explained: Comprehensive Guide to Understanding and Working with .mp4 Files</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/optimal-variety-premium-webcam-stands-and-mounts/"><u>Optimal Variety Premium Webcam Stands & Mounts</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/profille-movavi-video-konverter-guaranteed-secure-purchase-og-rabatte/"><u>Profille Movavi Video Konverter - Guaranteed Secure Purchase Og Rabatte</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/transforma-sus-videos-ts-en-formato-webm-libremente-en-la-web-por-medio-de-herramientas-de-conversion-gratuitas-como-movavi/"><u>Transforma Sus Videos TS en Formato WebM Libremente en La Web Por Medio De Herramientas De Conversión Gratuitas Como Movavi</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-infinix-note-30-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Infinix Note 30 without Him Knowing | Dr.fone</u></a></li>
+</ul></div>
+

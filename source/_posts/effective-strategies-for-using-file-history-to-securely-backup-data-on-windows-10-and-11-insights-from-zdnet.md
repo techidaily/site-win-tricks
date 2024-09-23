@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Using File History to Securely Backup Data on Windows 10 & 11 - Insights From ZDNet
-date: 2024-09-17 13:57:32
-updated: 2024-09-20 12:36:40
+date: 2024-09-18T16:03:23.957Z
+updated: 2024-09-23T16:01:28.547Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -125,6 +146,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Conclusion**
 
 Don't trash your old Windows 10 PCs! There are many ways to give them a long, useful life after Microsoft retires them. With ChromeOS Flex and Linux, I've got former Windows PCs more over 10 years old that remain productive machines. Old doesn't mean useless. You just need to be a bit creative.
@@ -159,11 +187,29 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-best-practices-for-adding-content-enhancements-cards-for-2024/"><u>[Updated] Best Practices for Adding Content Enhancements (Cards) for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-infinix-hot-40-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Infinix Hot 40 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-finding-the-most-skilled-film-capturers/"><u>2024 Approved Finding the Most Skilled Film Capturers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-greening-the-grid-paving-the-way-for-sustainable-metropolises/"><u>2024 Approved Greening the Grid Paving the Way for Sustainable Metropolises</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-laptop-editing-beyond-inshot-tools/"><u>2024 Approved Laptop Editing Beyond Inshot Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-pun-picture-studio-chucklecrafts/"><u>2024 Approved Pun Picture Studio ChuckleCrafts</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/convertisseur-de-fichiers-audio-gratuit-m4v-en-format-aac-avec-movavi/"><u>Convertisseur De Fichiers Audio Gratuit : M4V en Format AAC Avec Movavi</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/gebruik-de-veilige-en-eenvoudige-online-konverter-van-movavi-mod-naar-mp4-gratis-geoptimaliseerd/"><u>Gebruik De Veilige en Eenvoudige Online-Konverter Van Movavi: MOD Naar MP4 Gratis Geoptimaliseerd</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/guida-rapida-alla-conversione-dei-file-video-da-m4v-a-mp4-e-piu-formati-con-movavi/"><u>Guida Rapida Alla Conversione Dei File Video: Da M4V a MP4 E Più Formati Con Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-yuva-3-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Yuva 3 Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-superb-culmination-for-vr-journeys/"><u>In 2024, Superb Culmination for VR Journeys</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/mov-conversion-from-tod-quick-and-easy-online-upgrade-with-movavi/"><u>MOV Conversion From TOD - Quick & Easy Online Upgrade with Movavi</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/top-12-high-definition-video-converter-software-and-tools-compared-windows-mac-and-online-options-by-movavi/"><u>Top 12 High-Definition Video Converter Software & Tools Compared: Windows, Mac & Online Options by Movavi</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/tout-sur-la-transformation-vob-avi-gratuite-en-lignes-via-movavi-details-et-etapes-etape-par-etape/"><u>Tout Sur La Transformation VOB-AVI Gratuite en Lignes via Movavi : Détails Et Étapes Étape Par Étape</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1726226768932-jpeg-movavi/"><u>온라인 공간에서 무료 사용자 지정 JPEG 형식 바꾸기 - MOVAVI</u></a></li>
+</ul></div>
+

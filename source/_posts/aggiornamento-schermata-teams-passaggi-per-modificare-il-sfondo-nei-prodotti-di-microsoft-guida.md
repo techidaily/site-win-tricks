@@ -1,7 +1,7 @@
 ---
 title: Aggiornamento Schermata Teams - Passaggi Per Modificare Il Sfondo Nei Prodotti Di Microsoft (Guida)
-date: 2024-09-13T21:51:26.880Z
-updated: 2024-09-19T00:43:26.621Z
+date: 2024-09-19T16:03:58.786Z
+updated: 2024-09-23T16:00:20.350Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49b75551b82236c5ce76daa3d
@@ -222,18 +222,18 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
@@ -261,6 +261,13 @@ Si vous êtes un joueur de nuit ou si vos heures de sommeil varient considérabl
 
 Pour ce faire, retournez à Windows Update, cliquez sur **Advanced options** et assurez-vous que l'interrupteur sous **We'll show a reminder when we're going to restart** est activé.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Réglez les paramètres de vos effets visuels
 
 Les interfaces utilisateur graphiques (IUG) de Windows 10 regorgent d'effets visuels fantaisistes. Néanmoins, ces jolis graphiques d'arrière-plan, dont la plupart sont activés par défaut, peuvent affecter la puissance de traitement disponible de votre PC lorsqu'un jeu est en cours d'exécution au premier plan. Ainsi, une façon d'optimiser Windows 10 pour les performances de jeu est de sacrifier certains, voire tous, ces paramètres.
@@ -285,6 +292,13 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver les notifications
 
 Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent nuire à votre champ de vision pendant le jeu. Suivez les étapes suivantes pour désactiver toutes les notifications avant de jouer :
@@ -305,6 +319,13 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Régler le centre de contrôle AMD/ATI
 
 Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disent qu'elles rivalisent même avec leur concurrent NVIDIA. Modifiez ces paramètres pour optimiser les jeux de Windows 10.
@@ -314,10 +335,10 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Réduire la résolution dans un jeu
@@ -338,13 +359,6 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
 ### Optez pour un SSD
@@ -354,6 +368,13 @@ Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ?
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU/CPU
 
@@ -416,13 +437,6 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
@@ -431,6 +445,19 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
@@ -438,6 +465,13 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Empêchez votre ordinateur portable de surchauffer
 
@@ -482,13 +516,6 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)[À propos de la version Windows](https://www.gecata.com/)
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 
 
@@ -580,18 +607,17 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-audiovisual-innovators-best-portable-devices-for-editors/"><u>[Updated] In 2024, Audiovisual Innovators Best Portable Devices for Editors</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-streamlining-your-gaming-playback/"><u>[Updated] Streamlining Your Gaming Playback</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-guide-to-screen-and-video-recording/"><u>[Updated] The Ultimate Guide to Screen and Video Recording</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-democracy-dynamics-leading-electoral-simulators/"><u>2024 Approved Democracy Dynamics Leading Electoral Simulators</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/create-enchanting-image-presentations-with-melody-complimentary-downloads-for-customizable-music-slideshows/"><u>Create Enchanting Image Presentations With Melody: Complimentary Downloads for Customizable Music Slideshows</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-cracking-the-code-to-niche-celeb-content-creators-on-insta/"><u>[Updated] Cracking the Code to Niche Celeb Content Creators on Insta</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-top-tips-for-capturing-clear-facetime-dialogues-on-screen/"><u>[Updated] In 2024, Top Tips for Capturing Clear FaceTime Dialogues on Screen</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-the-anatomy-of-apple-m1-chip-redefining-tech/"><u>2024 Approved The Anatomy of Apple M1 Chip, Redefining Tech</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-realme-11x-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme 11X 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-trends-in-tech-you-cant-afford-to-ignore-insights-for-the-wise/"><u>Essential Trends in Tech You Can't Afford to Ignore – Insights for the Wise</u></a></li>
 <li><a href="https://win-tricks.techidaily.com/estrategias-educacionais-vantajosas-melhorar-a-experiencia-na-sala-tradicional-e-no-ensino-a-distancia-10-dicas-essenciais/"><u>Estratégias Educacionais Vantajosas: Melhorar a Experiência Na Sala Tradicional E No Ensino À Distância – 10 Dicas Essenciais</u></a></li>
 <li><a href="https://win-tricks.techidaily.com/free-online-conversion-of-movswf-files-by-movavi/"><u>Free Online Conversion of MOV/SWF Files by Movavi</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/gratuite-convertisseur-en-ligne-flac-vers-avi-avec-movavi-facile-et-rapide/"><u>Gratuite: Convertisseur en Ligne FLAC Vers AVI Avec Movavi - Facile Et Rapide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-simplifying-color-grading-a-comprehensive-look-at-luts/"><u>In 2024, Simplifying Color Grading A Comprehensive Look at LUTs</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-ultimate-checklist-for-capturing-live-conversations/"><u>In 2024, The Ultimate Checklist for Capturing Live Conversations</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-the-challenge-of-unrecognized-iphones-in-itunes-and-finder/"><u>Overcoming the Challenge of Unrecognized iPhones in iTunes and Finder</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ray-tracing-explained-the-key-to-photorealism-in-visual-media/"><u>Ray Tracing Explained: The Key to Photorealism in Visual Media</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/preserve-your-memories-how-to-burn-videos-to-dvds-on-windows-and-mac-for-2024/"><u>Preserve Your Memories How to Burn Videos to DVDs on Windows and Mac for 2024</u></a></li>
 <li><a href="https://win-tricks.techidaily.com/trasforma-file-3gpp-a-video-3gp-online-gratuitamente-tramite-lutilita-di-movavi/"><u>Trasforma File 3GPP a Video 3GP Online Gratuitamente Tramite L'utilità Di Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-solutions-for-the-missing-msstdfmtdll-error-on-your-computer/"><u>Troubleshooting and Solutions for the Missing Msstdfmt.dll Error on Your Computer</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/gif-m4v-movavi/"><u>무료 GIF 제작을 위한 M4V 효과 강화: Movavi의 시각 자산 관리 도구</u></a></li>
 </ul></div>
 

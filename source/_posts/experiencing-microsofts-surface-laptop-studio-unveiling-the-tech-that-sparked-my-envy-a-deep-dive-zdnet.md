@@ -1,7 +1,7 @@
 ---
 title: "Experiencing Microsoft's Surface Laptop Studio: Unveiling the Tech That Sparked My Envy - A Deep Dive | ZDNet"
-date: 2024-09-17 21:48:13
-updated: 2024-09-20 11:22:14
+date: 2024-09-18T16:38:03.567Z
+updated: 2024-09-23T16:26:52.203Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,11 +129,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +187,26 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-heavy-lift-airborne-titans-drone-leaders-guide/"><u>[Updated] In 2024, Heavy-Lift Airborne Titans - Drone Leaders Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-virtual-journey-logging-top-6-methods-for-minecraft-recordings/"><u>2024 Approved Virtual Journey Logging Top 6 Methods for Minecraft Recordings</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-poco-c55-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-in-depth-reviews-at-toms-hardware-your-gadget-hub/"><u>Discover In-Depth Reviews at Tom's Hardware - Your Gadget Hub</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/efficient-video-editing-techniques-for-instagram-mac-edition/"><u>Efficient Video Editing Techniques for Instagram, Mac Edition</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/flv-webm-movavi/"><u>FLV 파일을 WebM로 원격적으로 변환하는 편리한 Movavi 도구</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/gebruik-de-veilige-en-eenvoudige-online-konverter-van-movavi-mod-naar-mp4-gratis-geoptimaliseerd/"><u>Gebruik De Veilige en Eenvoudige Online-Konverter Van Movavi: MOD Naar MP4 Gratis Geoptimaliseerd</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratis-online-converter-para-amv-e-avi-em-video-movavi/"><u>Gratis Online Converter Para AMV E Avi Em Video - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/learn-how-to-download-torrents-like-a-boss-a-step-by-step-guide/"><u>Learn How to Download Torrents Like a Boss - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/mov-conversion-from-tod-quick-and-easy-online-upgrade-with-movavi/"><u>MOV Conversion From TOD - Quick & Easy Online Upgrade with Movavi</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/reset-password-quickly-regaining-access-post-hack-for-2024/"><u>Reset Password Quickly Regaining Access Post-Hack for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1726226768932-jpeg-movavi/"><u>온라인 공간에서 무료 사용자 지정 JPEG 형식 바꾸기 - MOVAVI</u></a></li>
+</ul></div>
+

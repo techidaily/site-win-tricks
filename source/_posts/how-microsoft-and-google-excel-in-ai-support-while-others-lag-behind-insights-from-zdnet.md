@@ -1,7 +1,7 @@
 ---
 title: "How Microsoft & Google Excel in AI Support, While Others Lag Behind: Insights From ZDNet"
-date: 2024-09-19 15:31:41
-updated: 2024-09-20 10:42:52
+date: 2024-09-19T16:37:18.427Z
+updated: 2024-09-23T16:35:30.988Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -121,6 +142,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
@@ -159,11 +187,28 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-how-to-enhance-audibility-with-adjusted-obs-settings/"><u>[New] 2024 Approved How to Enhance Audibility with Adjusted OBS Settings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-creative-product-launches/"><u>[New] Creative Product Launches</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-direct-from-google-meet-securely-live-stream-on-youtube/"><u>[New] Direct From Google Meet Securely Live Stream on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-updated-review-sonys-blu-ray-and-hd-masterpiece/"><u>[New] The Updated Review Sony's Blu-Ray and HD Masterpiece</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-from-instagram-video-to-mp3-sound-for-2024/"><u>[Updated] From Instagram Video to Mp3 Sound for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-exclusive-5-ios-backdrop-change-programs-for-apple-devices/"><u>[Updated] In 2024, Exclusive 5 iOS Backdrop Change Programs for Apple Devices</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1726220690734-dpx-movavi/"><u>簡便線上DPX免費轉檔服務 - Movavi</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/convertir-des-gif-vers-des-fichiers-swf-gratuitement-avec-la-solution-web-de-movavi-guide-detaille/"><u>Convertir Des GIF Vers Des Fichiers SWF Gratuitement Avec La Solution Web De Movavi - Guide Détaillé</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-vivo-s18e-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Vivo S18e in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/evaluating-the-benefits-of-moving-to-ios-17-what-users-need-to-know/"><u>Evaluating the Benefits of Moving to iOS 17: What Users Need to Know</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/flv-webm-movavi/"><u>FLV 파일을 WebM로 원격적으로 변환하는 편리한 Movavi 도구</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/free-online-converter-change-your-gifs-into-mp4-videos-use-movavi/"><u>Free Online Converter: Change Your GIFs Into MP4 Videos - Use Movavi</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/mov-conversion-from-tod-quick-and-easy-online-upgrade-with-movavi/"><u>MOV Conversion From TOD - Quick & Easy Online Upgrade with Movavi</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/transform-audio-convert-asf-to-wav-streamingly-no-costs-involved-movavi/"><u>Transform Audio: Convert ASF to WAV Streamingly, No Costs Involved - Movavi</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Outage Alert: Microsoft 365 Disrupted Services Impacting Millions – Inside the Incident | TechNews"
-date: 2024-09-18 11:59:20
-updated: 2024-09-20 12:24:48
+date: 2024-09-18T16:03:53.349Z
+updated: 2024-09-23T16:34:04.144Z
 tags:
   - microsoft
 categories:
@@ -52,6 +52,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **2\. Install Linux**
 
@@ -115,15 +122,36 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +187,31 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-demystifying-video-seo-on-youtube-as-a-novice/"><u>[New] 2024 Approved Demystifying Video SEO on YouTube as a Novice</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-elite-10-survival-skirmishes/"><u>[New] In 2024, Elite 10 Survival Skirmishes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-beyond-borders-blurring-techniques-for-global-audienes-for-2024/"><u>[Updated] Beyond Borders Blurring Techniques for Global Audienes for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-essential-techniques-for-green-screen-shooting-excellence/"><u>[Updated] Essential Techniques for Green Screen Shooting Excellence</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effortless-solutions-to-common-setbacks-in-using-apple-pay/"><u>Effortless Solutions to Common Setbacks in Using Apple Pay</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/estrategias-educacionais-vantajosas-melhorar-a-experiencia-na-sala-tradicional-e-no-ensino-a-distancia-10-dicas-essenciais/"><u>Estratégias Educacionais Vantajosas: Melhorar a Experiência Na Sala Tradicional E No Ensino À Distância – 10 Dicas Essenciais</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/gratuite-convertisseur-en-ligne-flac-vers-avi-avec-movavi-facile-et-rapide/"><u>Gratuite: Convertisseur en Ligne FLAC Vers AVI Avec Movavi - Facile Et Rapide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-samsung-galaxy-m14-4g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Samsung Galaxy M14 4G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/mov-file-converter-convert-mov-to-mp4-in-minutes-free-service/"><u>MOV File Converter: Convert MOV to MP4 in Minutes - Free Service</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/neutralizing-visual-instability-surface-pro-7-guide/"><u>Neutralizing Visual Instability: Surface Pro 7 Guide</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/online-converter-von-mpeg-zu-m4v-videodateien-kostenlos-anbieten-movavis-seo-optimierter-dienst/"><u>Online Converter Von MPEG Zu M4V Videodateien Kostenlos Anbieten – Movavi's SEO-Optimierter Dienst</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/transformacion-gratuita-de-imagenes-png-a-formato-jpeg-en-linea-con-facilidad-guia-de-movavi/"><u>Transformación Gratuita De Imágenes PNG a Formato JPEG en Línea Con Facilidad: Guía De Movavi</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/transmision-instantanea-y-libre-de-m4a-a-formato-wav-con-garantia-de-mantener-la-fidelidad-original/"><u>Transmisión Instantánea Y Libre De M4A a Formato WAV Con Garantía De Mantener La Fidelidad Original</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/trasforma-file-3gpp-a-video-3gp-online-gratuitamente-tramite-lutilita-di-movavi/"><u>Trasforma File 3GPP a Video 3GP Online Gratuitamente Tramite L'utilità Di Movavi</u></a></li>
+<li><a href="https://windows11.techidaily.com/unfreezing-wow-update-windows-troubleshooting-guide/"><u>Unfreezing WoW Update: Windows Troubleshooting Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-excellence-of-the-midland-gxt1000vp4-a-peak-into-crystal-clear-communication/"><u>Unveiling the Excellence of the Midland GXT1000VP4: A Peak Into Crystal Clear Communication</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/gif-m4v-movavi/"><u>무료 GIF 제작을 위한 M4V 효과 강화: Movavi의 시각 자산 관리 도구</u></a></li>
+</ul></div>
+

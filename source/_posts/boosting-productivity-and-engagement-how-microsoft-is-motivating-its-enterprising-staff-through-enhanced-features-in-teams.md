@@ -1,7 +1,7 @@
 ---
 title: "Boosting Productivity and Engagement: How Microsoft Is Motivating Its Enterprising Staff Through Enhanced Features in Teams."
-date: 2024-09-17 10:59:30
-updated: 2024-09-20 10:23:11
+date: 2024-09-19T16:10:42.908Z
+updated: 2024-09-23T16:07:14.606Z
 tags:
   - microsoft
 categories:
@@ -52,6 +52,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **2\. Install Linux**
 
@@ -115,15 +122,36 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +187,34 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-vintage-track-simulators-the-quintet/"><u>[New] In 2024, Vintage Track Simulators The Quintet</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-newcomers-journey-to-prosperity-via-periscope/"><u>[New] Newcomer's Journey to Prosperity via Periscope</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-accelerated-content-acquisition-with-funimate/"><u>[Updated] In 2024, Accelerated Content Acquisition with Funimate</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/conversione-on-line-gratuita-da-aac-a-3gp-con-movavi/"><u>Conversione On-Line Gratuita Da AAC a 3GP Con Movavi</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/convertisseur-de-fichiers-audio-gratuit-m4v-en-format-aac-avec-movavi/"><u>Convertisseur De Fichiers Audio Gratuit : M4V en Format AAC Avec Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-advancements-understanding-googles-novel-palm-2-and-its-impact-on-future-of-ai-based-linguistic-processing/"><u>Decoding the Advancements: Understanding Google's Novel PaLM 2 and Its Impact on Future of AI-Based Linguistic Processing</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/grabacion-digital-libre-online-convertidor-mp4-a-mp3-sin-costo-por-adobe-premiere-movavi/"><u>Grabación Digital Libre Online: Convertidor MP4 a MP3 Sin Costo Por Adobe Premiere - Movavi</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/guida-rapida-alla-conversione-dei-file-video-da-m4v-a-mp4-e-piu-formati-con-movavi/"><u>Guida Rapida Alla Conversione Dei File Video: Da M4V a MP4 E Più Formati Con Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-installation-of-new-epson-drivers-for-windows-users/"><u>Hassle-Free Installation of New Epson Drivers for Windows Users</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-apple-iphone-11-pro-max-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass Apple iPhone 11 Pro Max Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/minden-legjobb-atlagot-kifejezesu-atalakito-mkv-mp4-atlalakitasuton-windowsmac-online-tippekonzert/"><u>Minden Legjobb Átlagot Kifejezésű Átalakító: MKV MP4 Átlalakításúton Windows/Mac Online Tippekonzert</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/online-gratuite-vob-in-m2ts-omzetting-met-movavi-persoonlijke-instructies-en-tips-inbegripend/"><u>Online Gratuite VOB-in-M2TS Omzetting Met Movavi: Persoonlijke Instructies en Tips Inbegripend!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quick-guide-effortlessly-transferring-media-to-your-zen-music-device/"><u>Quick Guide: Effortlessly Transferring Media to Your Zen Music Device</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/step-by-step-instructions-for-crafting-dynamic-visual-impact-with-imovie-effects/"><u>Step-by-Step Instructions for Crafting Dynamic Visual Impact with iMovie Effects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-restore-lost-ethernet-signal-win/"><u>Steps to Restore Lost Ethernet Signal Win</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/top-12-high-definition-video-converter-software-and-tools-compared-windows-mac-and-online-options-by-movavi/"><u>Top 12 High-Definition Video Converter Software & Tools Compared: Windows, Mac & Online Options by Movavi</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/top-20-free-video-transcoding-tools-for-pc-compatible-with-windows-10-8-and-7/"><u>Top 20 Free Video Transcoding Tools for PC: Compatible with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/tout-sur-la-transformation-vob-avi-gratuite-en-lignes-via-movavi-details-et-etapes-etape-par-etape/"><u>Tout Sur La Transformation VOB-AVI Gratuite en Lignes via Movavi : Détails Et Étapes Étape Par Étape</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-exploring-tools-to-integrate-special-mask-effects-into-your-content-read-the-following-article-to-master-some-tools-experts-in-mask-tracking-for-202/"><u>Updated Exploring Tools to Integrate Special Mask Effects Into Your Content. Read the Following Article to Master some Tools Experts in Mask Tracking for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/writing-poetry-with-ai-mastering-the-art-using-chatgpt/"><u>Writing Poetry with AI: Mastering the Art Using ChatGPT</u></a></li>
+</ul></div>
+

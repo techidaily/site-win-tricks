@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Black Friday Bargains: Get More with Your Gift Cards | ZDNet Insights"
-date: 2024-09-17 10:52:56
-updated: 2024-09-20 12:42:57
+date: 2024-09-22T16:42:55.646Z
+updated: 2024-09-23T16:26:47.113Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -124,6 +145,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +187,31 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-driving-income-through-youtube-shorts-crucial-elements-and-earnings-potential/"><u>[New] 2024 Approved Driving Income Through YouTube Shorts Crucial Elements and Earnings Potential</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-best-practices-in-youtube-keyword-selection-for-2024/"><u>[New] Best Practices in YouTube Keyword Selection for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-expert-tips-on-angling-videos-unlocking-full-potential-with-vlc/"><u>[New] In 2024, Expert Tips on Angling Videos Unlocking Full Potential with VLC</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/best-5-video-webcams-equipped-with-microphones/"><u>Best 5 Video Webcams Equipped With Microphones</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/estrategias-educacionais-vantajosas-melhorar-a-experiencia-na-sala-tradicional-e-no-ensino-a-distancia-10-dicas-essenciais/"><u>Estratégias Educacionais Vantajosas: Melhorar a Experiência Na Sala Tradicional E No Ensino À Distância – 10 Dicas Essenciais</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/gratuite-convertisseur-en-ligne-flac-vers-avi-avec-movavi-facile-et-rapide/"><u>Gratuite: Convertisseur en Ligne FLAC Vers AVI Avec Movavi - Facile Et Rapide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-vivo-s17t-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo S17t Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/mov-file-converter-convert-mov-to-mp4-in-minutes-free-service/"><u>MOV File Converter: Convert MOV to MP4 in Minutes - Free Service</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/online-converter-von-mpeg-zu-m4v-videodateien-kostenlos-anbieten-movavis-seo-optimierter-dienst/"><u>Online Converter Von MPEG Zu M4V Videodateien Kostenlos Anbieten – Movavi's SEO-Optimierter Dienst</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/recover-deleted-items-on-iphone-after-a-factory-reset-tips-and-tricks/"><u>Recover Deleted Items on iPhone After a Factory Reset - Tips & Tricks</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/the-ultimate-ranking-of-2024s-best-voice-transcription-programs-expert-insights-from-movavi/"><u>The Ultimate Ranking of 2024'S Best Voice Transcription Programs – Expert Insights From Movavi</u></a></li>
+<li><a href="https://fox-links.techidaily.com/top-8-innovative-affordable-online-srt-services-exposed/"><u>Top 8 Innovative, Affordable Online SRT Services Exposed</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/transformacion-gratuita-de-imagenes-png-a-formato-jpeg-en-linea-con-facilidad-guia-de-movavi/"><u>Transformación Gratuita De Imágenes PNG a Formato JPEG en Línea Con Facilidad: Guía De Movavi</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/transmision-instantanea-y-libre-de-m4a-a-formato-wav-con-garantia-de-mantener-la-fidelidad-original/"><u>Transmisión Instantánea Y Libre De M4A a Formato WAV Con Garantía De Mantener La Fidelidad Original</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/trasforma-file-3gpp-a-video-3gp-online-gratuitamente-tramite-lutilita-di-movavi/"><u>Trasforma File 3GPP a Video 3GP Online Gratuitamente Tramite L'utilità Di Movavi</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/gif-m4v-movavi/"><u>무료 GIF 제작을 위한 M4V 효과 강화: Movavi의 시각 자산 관리 도구</u></a></li>
+</ul></div>
+

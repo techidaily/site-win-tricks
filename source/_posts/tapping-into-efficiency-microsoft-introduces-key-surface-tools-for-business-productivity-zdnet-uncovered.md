@@ -1,7 +1,7 @@
 ---
 title: "Tapping Into Efficiency: Microsoft Introduces Key Surface Tools for Business Productivity - ZDNET Uncovered"
-date: 2024-09-18 17:35:23
-updated: 2024-09-20 11:57:56
+date: 2024-09-21T16:11:48.548Z
+updated: 2024-09-23T16:12:21.462Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,11 +129,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +187,33 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ow-to-render-and-upload-your-youtube-video-faster/"><u>[New] How to Render and Upload Your YouTube Video Faster?</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-streamlining-skype-calls-with-advanced-zoom-use/"><u>[New] Streamlining Skype Calls with Advanced Zoom Use</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-10-soothing-games-to-ease-anxiety-for-2024/"><u>[New] Top 10 Soothing Games to Ease Anxiety for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-10plus-leading-web-based-screen-capture-tools-for-2024/"><u>[Updated] 10+ Leading Web-Based Screen Capture Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-discovering-your-youtube-unique-slot-for-2024/"><u>[Updated] Discovering Your YouTube Unique Slot for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-realme-c67-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Realme C67 5G</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-jumpstart-your-channel-key-hashtags-for-6-figure-impact/"><u>2024 Approved Jumpstart Your Channel Key Hashtags for 6-Figure Impact</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/conversione-on-line-gratuita-da-aac-a-3gp-con-movavi/"><u>Conversione On-Line Gratuita Da AAC a 3GP Con Movavi</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/effortless-hd-video-editing-with-movavi-free-download-and-conversion-software/"><u>Effortless HD Video Editing with Movavi - Free Download and Conversion Software</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/grabacion-digital-libre-online-convertidor-mp4-a-mp3-sin-costo-por-adobe-premiere-movavi/"><u>Grabación Digital Libre Online: Convertidor MP4 a MP3 Sin Costo Por Adobe Premiere - Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-honor-90-lite-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Honor 90 Lite?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ice-racing-royalty-olympians-highlights-2022-for-2024/"><u>Ice Racing Royalty Olympians' Highlights, 2022 for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-overcoming-obstacles-in-iphone-xs-facial-detection-system/"><u>In 2024, Overcoming Obstacles in iPhone X’s Facial Detection System</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/minden-legjobb-atlagot-kifejezesu-atalakito-mkv-mp4-atlalakitasuton-windowsmac-online-tippekonzert/"><u>Minden Legjobb Átlagot Kifejezésű Átalakító: MKV MP4 Átlalakításúton Windows/Mac Online Tippekonzert</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/movavi-pef/"><u>Movavi提供: PEFファイルを自由翼切り替えプログラムで簡単に変換!</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/online-gratuite-vob-in-m2ts-omzetting-met-movavi-persoonlijke-instructies-en-tips-inbegripend/"><u>Online Gratuite VOB-in-M2TS Omzetting Met Movavi: Persoonlijke Instructies en Tips Inbegripend!</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/step-by-step-instructions-for-crafting-dynamic-visual-impact-with-imovie-effects/"><u>Step-by-Step Instructions for Crafting Dynamic Visual Impact with iMovie Effects</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/titre-convertissez-vos-fichiers-rmvb-au-format-mp3-sans-frais-movavi/"><u>Titre: Convertissez Vos Fichiers RMVB Au Format MP3 Sans Frais - Movavi</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/top-20-free-video-transcoding-tools-for-pc-compatible-with-windows-10-8-and-7/"><u>Top 20 Free Video Transcoding Tools for PC: Compatible with Windows 10, 8 & 7</u></a></li>
+</ul></div>
+

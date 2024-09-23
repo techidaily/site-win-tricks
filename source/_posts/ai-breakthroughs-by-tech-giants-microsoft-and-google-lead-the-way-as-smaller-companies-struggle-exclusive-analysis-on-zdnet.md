@@ -1,7 +1,7 @@
 ---
 title: "AI Breakthroughs by Tech Giants: Microsoft and Google Lead the Way as Smaller Companies Struggle | Exclusive Analysis on ZDNET"
-date: 2024-09-17 18:42:26
-updated: 2024-09-20 12:44:14
+date: 2024-09-18T16:28:31.402Z
+updated: 2024-09-23T16:08:43.847Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -121,9 +135,23 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +187,28 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-master-the-art-of-striking-gopro-time-lapse-videos/"><u>[New] In 2024, Master the Art of Striking GoPro Time-Lapse Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-insta-followers-footprints-trail-blazing-techniques/"><u>[New] Insta Followers Footprints Trail-Blazing Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-advanced-subtitle-editing-unlocking-potential-with-macos-for-2024/"><u>[Updated] Advanced Subtitle Editing Unlocking Potential with MacOS for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-insights-choosing-the-best-platforms-for-watching-cricket-live/"><u>[Updated] Expert Insights Choosing the Best Platforms for Watching Cricket LIVE</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-innovating-content-tips-for-facebook-slide-show-makers-for-2024/"><u>[Updated] Innovating Content Tips for Facebook Slide Show Makers for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/conversione-on-line-gratuita-da-aac-a-3gp-con-movavi/"><u>Conversione On-Line Gratuita Da AAC a 3GP Con Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/create-stunning-slideshows-with-our-easy-to-use-slidemaker-shop-today/"><u>Create Stunning Slideshows with Our Easy-to-Use SlideMaker: Shop Today!</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/effortless-hd-video-editing-with-movavi-free-download-and-conversion-software/"><u>Effortless HD Video Editing with Movavi - Free Download and Conversion Software</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-mastering-laptop-screen-recording-a-dell-guide/"><u>In 2024, Mastering Laptop Screen Recording A Dell Guide</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/minden-legjobb-atlagot-kifejezesu-atalakito-mkv-mp4-atlalakitasuton-windowsmac-online-tippekonzert/"><u>Minden Legjobb Átlagot Kifejezésű Átalakító: MKV MP4 Átlalakításúton Windows/Mac Online Tippekonzert</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/movavi-pef/"><u>Movavi提供: PEFファイルを自由翼切り替えプログラムで簡単に変換!</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/step-by-step-instructions-for-crafting-dynamic-visual-impact-with-imovie-effects/"><u>Step-by-Step Instructions for Crafting Dynamic Visual Impact with iMovie Effects</u></a></li>
+<li><a href="https://win-answers.techidaily.com/this-title-implies-expertise-expert-tips-and-reassures-users-they-can-get-the-game-running-again-which-is-a-primary-concern-when-facing-launch-issues/"><u>This Title Implies Expertise (Expert Tips) and Reassures Users They Can Get the Game Running Again, Which Is a Primary Concern when Facing Launch Issues</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/titre-convertissez-vos-fichiers-rmvb-au-format-mp3-sans-frais-movavi/"><u>Titre: Convertissez Vos Fichiers RMVB Au Format MP3 Sans Frais - Movavi</u></a></li>
+</ul></div>
+

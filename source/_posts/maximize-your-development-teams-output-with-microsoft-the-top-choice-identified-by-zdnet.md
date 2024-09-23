@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your Development Team’s Output with Microsoft: The Top Choice Identified by ZDNet"
-date: 2024-09-18 23:11:59
-updated: 2024-09-20 11:51:38
+date: 2024-09-18T16:14:58.768Z
+updated: 2024-09-23T16:40:00.008Z
 tags:
   - microsoft
 categories:
@@ -52,6 +52,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **2\. Install Linux**
 
@@ -115,15 +122,42 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +193,28 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/mb-video-marketing-success-factors/"><u>[New] SMB Video Marketing Success Factors</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-epochs-epic-journey-best-free-mmo-games-roundup/"><u>[Updated] 2024 Approved Epoch's Epic Journey Best Free MMO Games Roundup</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leading-sites-unveiled-acquiring-personalized-ringtone-files-from-youtube/"><u>[Updated] Leading Sites Unveiled Acquiring Personalized Ringtone Files From Youtube</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-locate-hidden-watch-video-preview-for-2024/"><u>[Updated] Locate Hidden Watch Video Preview for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-non-vimeo-powerhouses-for-video-content-creation/"><u>[Updated] Non-Vimeo Powerhouses for Video Content Creation</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/aggiornamento-schermata-teams-passaggi-per-modificare-il-sfondo-nei-prodotti-di-microsoft-guida/"><u>Aggiornamento Schermata Teams - Passaggi Per Modificare Il Sfondo Nei Prodotti Di Microsoft (Guida)</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/choosing-a-more-useful-foreign-language-german-or-french/"><u>Choosing a More Useful Foreign Language: German or French</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-failures-qt-platform-support-error-at-launch/"><u>Correcting Failures: 'Qt Platform Support' Error at Launch</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/movavi-mp3-m2p/"><u>Movavi MP3 대상화: 원탁과 일정 없이 바이너리 아이마지네이트를 무료로 M2P 변환</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/movavimpempg/"><u>Movaviで効率的な無料MPEとMPGのスムーズな変換方法 – オンラインツール</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/profille-movavi-video-konverter-guaranteed-secure-purchase-og-rabatte/"><u>Profille Movavi Video Konverter - Guaranteed Secure Purchase Og Rabatte</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/transforma-sus-videos-ts-en-formato-webm-libremente-en-la-web-por-medio-de-herramientas-de-conversion-gratuitas-como-movavi/"><u>Transforma Sus Videos TS en Formato WebM Libremente en La Web Por Medio De Herramientas De Conversión Gratuitas Como Movavi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-dictation-issues-a-step-by-step-guide/"><u>Troubleshooting iPhone Dictation Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oppo-a18-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Oppo A18 Hard Reset | Dr.fone</u></a></li>
+</ul></div>
+
