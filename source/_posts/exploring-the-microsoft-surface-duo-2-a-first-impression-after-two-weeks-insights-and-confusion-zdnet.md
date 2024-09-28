@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Microsoft Surface Duo 2: A First Impression After Two Weeks - Insights & Confusion | ZDNet"
-date: 2024-09-22T16:33:29.883Z
-updated: 2024-09-23T16:24:25.647Z
+date: 2024-09-24T01:08:24.205Z
+updated: 2024-09-27T19:57:58.304Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -91,10 +84,16 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +129,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,15 +147,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -194,5 +206,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-secrets-to-excellent-1080p-content-on-fb/"><u>[New] Secrets to Excellent 1080P Content on FB</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-360-video-stitching-tips-how-to-stitch-gopro-clips-into-360-videos/"><u>[Updated] 2024 Approved 360 Video Stitching Tips How to Stitch GoPro Clips Into 360 Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-top-30-camcorders-directly-at-your-eyes/"><u>[Updated] Top 30 Camcorders Directly At Your Eyes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/44cm54plusplus5zyo6ycy6kgm5lit44gu44ot44oh44kq44kv44oq44od44ox44ks5lplusd566h44gz44kl44gf44kb44gu5yq55p6c55qe44gq5oml5rov44cn/"><u>「現在進行中のビデオクリップを保管するための効果的な手法」</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-motorola-moto-g24-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Motorola Moto G24 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/best-practices-for-flipbook-security-ensure-the-integrity-of-your-e-publishing-with-flipbuildercom/"><u>Best Practices for Flipbook Security - Ensure the Integrity of Your E-Publishing with FlipBuilder.com</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/convertisseur-de-fichiers-audio-gratuit-m4v-en-format-aac-avec-movavi/"><u>Convertisseur De Fichiers Audio Gratuit : M4V en Format AAC Avec Movavi</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/creating-durable-hard-cover-flipbooks-step-by-step-tutorial-on-flipbuildercom/"><u>Creating Durable Hard Cover Flipbooks: Step-by-Step Tutorial on FlipBuilder.com</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/gebruik-de-veilige-en-eenvoudige-online-konverter-van-movavi-mod-naar-mp4-gratis-geoptimaliseerd/"><u>Gebruik De Veilige en Eenvoudige Online-Konverter Van Movavi: MOD Naar MP4 Gratis Geoptimaliseerd</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/guida-rapida-alla-conversione-dei-file-video-da-m4v-a-mp4-e-piu-formati-con-movavi/"><u>Guida Rapida Alla Conversione Dei File Video: Da M4V a MP4 E Più Formati Con Movavi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/top-12-high-definition-video-converter-software-and-tools-compared-windows-mac-and-online-options-by-movavi/"><u>Top 12 High-Definition Video Converter Software & Tools Compared: Windows, Mac & Online Options by Movavi</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/top-6-simple-minecraft-house-ideas/"><u>Top 6 Simple Minecraft House Ideas</u></a></li>
+<li><a href="https://win11.techidaily.com/top-strategies-for-a-smoothly-running-google-drive-in-windows/"><u>Top Strategies for a Smoothly Running Google Drive in Windows</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/tout-sur-la-transformation-vob-avi-gratuite-en-lignes-via-movavi-details-et-etapes-etape-par-etape/"><u>Tout Sur La Transformation VOB-AVI Gratuite en Lignes via Movavi : Détails Et Étapes Étape Par Étape</u></a></li>
+</ul></div>
 

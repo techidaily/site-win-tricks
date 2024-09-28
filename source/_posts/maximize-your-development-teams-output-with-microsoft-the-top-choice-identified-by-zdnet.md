@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your Development Team’s Output with Microsoft: The Top Choice Identified by ZDNet"
-date: 2024-09-18T16:14:58.768Z
-updated: 2024-09-23T16:40:00.008Z
+date: 2024-09-23T16:01:44.859Z
+updated: 2024-09-27T23:11:04.088Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -122,19 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -142,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -153,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -200,5 +194,26 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-a-step-by-step-framework-for-iconic-podcast-visuals/"><u>[Updated] A Step-by-Step Framework for Iconic Podcast Visuals</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-prime-valorant-video-thumbnails-on-youtube-for-2024/"><u>[Updated] Crafting Prime Valorant Video Thumbnails on YouTube for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-easier-cinematography-perfecting-fade-effects/"><u>[Updated] In 2024, Easier Cinematography Perfecting Fade Effects</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206559286-african-americans/"><u>African Americans:</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-init-no-more-hurdles/"><u>Direct3D Init: No More Hurdles</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/discover-the-best-5-courseware-choices-similar-to-coursera-for-enhanced-e-learning/"><u>Discover the Best 5 Courseware Choices Similar to Coursera for Enhanced E-Learning</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/download-ispe-video-collection-in-multiple-formats-mp4-avi-wmv-compatible-with-macos-and-windows/"><u>Download ISPE Video Collection in Multiple Formats (MP4, AVI, WMV) - Compatible with macOS & Windows</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/download-tennistv-matches-the-ultimate-guide-to-saving-your-favorite-tennis-games/"><u>Download Tennistv Matches: The Ultimate Guide to Saving Your Favorite Tennis Games</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/effective-techniques-for-recording-and-sharing-your-gotomeeting-webinars/"><u>Effective Techniques for Recording & Sharing Your GoToMeeting Webinars</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/efficient-techniques-for-converting-tunein-streams-into-various-audio-formats-like-mp3-aac-and-wav/"><u>Efficient Techniques for Converting TuneIn Streams Into Various Audio Formats Like MP3, AAC & WAV</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/expert-tips-for-accessing-archived-video-content-showcasing-elite-baseball-star-slide-balls-at-their-peak-performance/"><u>Expert Tips for Accessing Archived Video Content Showcasing Elite Baseball Star Slide Balls at Their Peak Performance</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/free-video-downloads-from-123moviesto-convert-and-save-in-mp4avi-formats/"><u>Free Video Downloads From 123movies.to: Convert & Save in MP4/AVI Formats</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/get-official-anime-series-in-mp4-format-direct-downloads-from-trusted-websites/"><u>Get Official Anime Series in MP4 Format: Direct Downloads From Trusted Websites</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/highpoint-artist-suite-evaluation-for-2024/"><u>Highpoint Artist Suite Evaluation for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-retrieve-and-save-learnerorg-vod-lessons-for-offline-viewing/"><u>How to Retrieve and Save Learner.org VoD Lessons for Offline Viewing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-premium-picks-for-the-ultimate-gopro-experience/"><u>In 2024, Premium Picks for the Ultimate Gopro Experience</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-oppo-reno-8t-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Oppo Reno 8T Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-zte-blade-a73-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On ZTE Blade A73 5G? Fixed | Dr.fone</u></a></li>
+</ul></div>
 

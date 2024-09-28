@@ -1,7 +1,7 @@
 ---
 title: Microsoft to Introduce Costly Updates for Windows 11 Users – Insight Into the New Payment Model and Estimated Charges
-date: 2024-09-16T16:19:21.407Z
-updated: 2024-09-23T16:30:14.507Z
+date: 2024-09-23T20:21:13.896Z
+updated: 2024-09-27T17:29:27.929Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -194,5 +194,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-essential-tech-mac-screenshoting-basics/"><u>[New] Essential Tech Mac Screenshoting Basics</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-breaking-barriers-instagrams-trailblazing-25-stars/"><u>[Updated] 2024 Approved Breaking Barriers Instagram's Trailblazing 25 Stars</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capture-and-keep-your-linkedin-content-with-these-6-powerful-apps/"><u>2024 Approved Capture & Keep Your LinkedIn Content with These 6 Powerful Apps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-from-silence-to-sonata-cropping-and-mixing-music-into-video-content/"><u>2024 Approved From Silence to Sonata Cropping & Mixing Music Into Video Content</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-leading-livestream-tech-for-gaming-enthusiasts/"><u>2024 Approved Leading Livestream Tech For Gaming Enthusiasts</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/boosting-productivity-and-engagement-how-microsoft-is-motivating-its-enterprising-staff-through-enhanced-features-in-teams/"><u>Boosting Productivity and Engagement: How Microsoft Is Motivating Its Enterprising Staff Through Enhanced Features in Teams.</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/experiencing-microsofts-surface-laptop-studio-unveiling-the-tech-that-sparked-my-envy-a-deep-dive-zdnet/"><u>Experiencing Microsoft's Surface Laptop Studio: Unveiling the Tech That Sparked My Envy - A Deep Dive | ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hdr-lighting-insight-does-it-merit-creation/"><u>In 2024, HDR Lighting Insight Does It Merit Creation?</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/maximize-your-development-teams-output-with-microsoft-the-top-choice-identified-by-zdnet/"><u>Maximize Your Development Team’s Output with Microsoft: The Top Choice Identified by ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/microsofts-ambitious-plan-equipping-25-million-asean-individuals-with-essential-ai-proficiency-insights-from-zdnet/"><u>Microsoft's Ambitious Plan: Equipping 2.5 Million ASEAN Individuals with Essential AI Proficiency - Insights From ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/navigating-the-legality-of-your-windows-os-licensing-what-every-user-needs-to-know/"><u>Navigating the Legality of Your Windows OS Licensing: What Every User Needs to Know</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-5-best-free-m4a-editor-software/"><u>New In 2024, Top 5 Best Free M4A Editor Software</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/outage-alert-microsoft-365-disrupted-services-impacting-millions-inside-the-incident-technews/"><u>Outage Alert: Microsoft 365 Disrupted Services Impacting Millions – Inside the Incident | TechNews</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-transforming-avi-videos-into-gifs-with-speed/"><u>Quick Guide: Transforming AVI Videos Into GIFs with Speed</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/the-evolved-all-in-one-masterpiece-dive-into-the-enhanced-capabilities-of-microsoft-surface-studio-2plus-reviewed-by-zdnet/"><u>The Evolved All-in-One Masterpiece: Dive Into the Enhanced Capabilities of Microsoft Surface Studio 2+ Reviewed by ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/top-rated-black-friday-bargains-get-more-with-your-gift-cards-zdnet-insights/"><u>Top-Rated Black Friday Bargains: Get More with Your Gift Cards | ZDNet Insights</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/transforma-tu-mmf-en-una-solucion-de-almacenamiento-en-linea-gratuita-tutorial-detallado-utilizando-movavi/"><u>Transforma Tu MMF en Una Solución De Almacenamiento en Línea Gratuita: Tutorial Detallado Utilizando Movavi</u></a></li>
+</ul></div>
 

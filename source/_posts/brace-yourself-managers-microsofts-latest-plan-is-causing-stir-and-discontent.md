@@ -1,7 +1,7 @@
 ---
 title: "Brace Yourself, Managers: Microsoft’s Latest Plan Is Causing Stir and Discontent"
-date: 2024-09-19T16:34:03.327Z
-updated: 2024-09-23T16:17:49.459Z
+date: 2024-09-23T04:34:24.135Z
+updated: 2024-09-27T23:15:51.631Z
 tags:
   - microsoft
 categories:
@@ -112,18 +112,33 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-terranomes-uncovering-treasure-in-virtual-landscapes/"><u>[New] Top Terranomes Uncovering Treasure in Virtual Landscapes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-crafting-full-sphere-videos-on-iphone-ideal-for-facebook/"><u>[Updated] Crafting Full-Sphere Videos on iPhone, Ideal for Facebook</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-cutting-out-background-sounds-freepaid-options-for-clear-videos/"><u>2024 Approved Cutting Out Background Sounds - Free/Paid Options for Clear Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/boost-your-pcs-performance-quickly-terminate-sluggish-programs-with-this-hidden-windows-11-feature-insights-from-zdnet/"><u>Boost Your PC's Performance: Quickly Terminate Sluggish Programs with This Hidden Windows 11 Feature - Insights From ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/bridging-the-gap-in-file-exchange-mastering-the-art-of-sending-files-between-windows-and-android-with-googles-quick-share-feature-tech-tips-by-zdnet/"><u>Bridging the Gap in File Exchange: Mastering the Art of Sending Files Between Windows and Android with Google's Quick Share Feature | Tech Tips by ZDNET</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/discovering-latest-fb-watches-a-step-by-step-guide/"><u>Discovering Latest FB Watches A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722972922297-get-the-latest-brother-mfc-7360n-drivers-and-easy-compatibility-with-windows-1087/"><u>Get the Latest Brother MFC-7360N Drivers & Easy Compatibility with Windows 10/8/7</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-hardware-errors-and-stop-machine-check-bluescreens-in-windows-11/"><u>How to Resolve Hardware Errors and Stop Machine Check Bluescreens in Windows 11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-cropping-like-a-pro-advanced-techniques-for-avidemux-users/"><u>New Cropping Like a Pro Advanced Techniques for Avidemux Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-nightmare-discover-these-9-fixes-for-continuous-crashing-in-ark-scorched-earth/"><u>PC Gaming Nightmare? Discover These 9 Fixes for Continuous Crashing in ARK: Scorched Earth</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/top-rated-mini-computers-the-ultimate-list-by-tech-experts-insights-from-zdnet/"><u>Top-Rated Mini Computers : The Ultimate List by Tech Experts - Insights From ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/unlocking-advanced-control-a-step-by-step-guide-to-activating-god-mode-on-windows-11-discover-the-benefits/"><u>Unlocking Advanced Control: A Step-by-Step Guide to Activating God Mode on Windows 11 - Discover the Benefits!</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/upgrading-avoided-smart-alternatives-to-windows-11-you-should-know-about/"><u>Upgrading Avoided: Smart Alternatives to Windows 11 You Should Know About</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/urgent-alert-windows-11-versions-21h2-and-22h2-hit-eol-upgrade-immediately-to-avoid-risks-zdnet/"><u>Urgent Alert: Windows 11 Versions 21H2 & 22H2 Hit EOL - Upgrade Immediately to Avoid Risks! [ZDNet]</u></a></li>
+<li><a href="https://techtrends.techidaily.com/voice-assisted-living-showdown-can-alexa-outperform-google-assistant/"><u>Voice-Assisted Living Showdown: Can Alexa Outperform Google Assistant?</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/why-winamp-wont-become-open-source-unveiling-its-new-direction-and-motivations/"><u>Why Winamp Won't Become Open Source: Unveiling Its New Direction & Motivations</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/windows-11-23h2-update-unveiled-surprisingly-charming-for-users-tech-zdnet/"><u>Windows 11 23H2 Update Unveiled - Surprisingly Charming for Users | Tech-ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/windows-copilot-goes-solo-discover-how-microsofts-latest-app-revolutionizes-user-experience-digitaldaily/"><u>Windows Copilot Goes Solo! Discover How Microsoft’s Latest App Revolutionizes User Experience | DigitalDaily</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

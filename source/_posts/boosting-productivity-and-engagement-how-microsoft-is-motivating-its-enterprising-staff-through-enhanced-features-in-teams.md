@@ -1,7 +1,7 @@
 ---
 title: "Boosting Productivity and Engagement: How Microsoft Is Motivating Its Enterprising Staff Through Enhanced Features in Teams."
-date: 2024-09-19T16:10:42.908Z
-updated: 2024-09-23T16:07:14.606Z
+date: 2024-09-24T18:08:25.727Z
+updated: 2024-09-28T01:19:32.604Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +130,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,22 +149,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -194,5 +200,23 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-elite-drones-awaiting-purchase/"><u>[New] 2024 Approved Elite Drones Awaiting Purchase</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-boosting-social-reach-top-facebook-video-engagement-techniques/"><u>[New] Boosting Social Reach Top Facebook Video Engagement Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-iphone-camera-roll-synergy-with-snapchat-sharing-for-2024/"><u>[New] IPhone Camera Roll Synergy with Snapchat Sharing for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/umpstart-to-partner-elevation-secure-10k-views-in-minutes/"><u>[New] Jumpstart to Partner Elevation Secure 10K Views in Minutes</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/activate-bing-chats-new-dark-mode-feature-a-step-by-step-guide/"><u>Activate Bing Chat's New Dark Mode Feature – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/empowering-innovation-microsofts-new-strategy-to-energize-staff-through-improved-teams-collaboration-tools/"><u>Empowering Innovation: Microsoft's New Strategy to Energize Staff Through Improved Teams Collaboration Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expand-horizons-freshest-wins11-apps-and-games-for-2024/"><u>Expand Horizons Freshest Wins11 Apps & Games for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/future-proof-your-workflow-office-2016-and-201-the-last-update-for-microsofts-backend-services-read-more-on-zdnet/"><u>Future-Proof Your Workflow: Office 2016 and 201 The Last Update for Microsoft's Backend Services - Read More on ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-microsoft-and-google-excel-in-ai-support-while-others-lag-behind-insights-from-zdnet/"><u>How Microsoft & Google Excel in AI Support, While Others Lag Behind: Insights From ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-microsoft-struggles-with-past-mobile-blunders-even-after-a-full-ten-years-explored-by-zdnet/"><u>How Microsoft Struggles with Past Mobile Blunders Even After a Full Ten Years - Explored by ZDNet</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-microphones-for-social-media-influencers/"><u>Ideal Microphones for Social Media Influencers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exquisite-visual-enhancement-implementing-filters-on-videos-pc-and-mobile/"><u>In 2024, Exquisite Visual Enhancement Implementing Filters on Videos (PC & Mobile)</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/microsoft-expands-iot-offerings-as-google-withdraws-from-market-insights-by-zdnet/"><u>Microsoft Expands IoT Offerings as Google Withdraws From Market - Insights by ZDNet</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/movavi-raw-to-jpeg/"><u>Movavi RAW to JPEG免費在線轉換器 - 完美的解決方案!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-complimentary-languages-course-tools/"><u>Top 5 Complimentary Languages Course Tools</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/unlocking-value-on-a-budget-my-experience-with-the-affordable-surface-pro-11-insights-from-a-microsoft-guru-zdnet/"><u>Unlocking Value on a Budget: My Experience with the Affordable Surface Pro 11 - Insights From a Microsoft Guru | ZDNet</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Web Browsing in Numbers: Identifying Leading Browsers Today"
-date: 2024-09-21T16:27:48.433Z
-updated: 2024-09-23T16:08:52.420Z
+date: 2024-09-22T02:58:46.598Z
+updated: 2024-09-28T02:36:52.584Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,22 +142,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -194,5 +194,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-decoding-the-secrets-of-masterful-windows-10-use/"><u>[New] Decoding the Secrets of Masterful WINDOWS 10 Use</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-maximizing-instagram-video-exposure/"><u>[New] In 2024, Maximizing Instagram Video Exposure</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-harness-the-potential-of-instagram-videos-for-brand-growth/"><u>[Updated] Harness the Potential of Instagram Videos for Brand Growth</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1-how-to-convert-your-ehow-videos-into-mp4-format-on-pc-and-mac-with-ehow-downloader/"><u>1. How to Convert Your eHow Videos Into MP4 Format on PC & MAC with EHow Downloader</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-8plus-free-easy-to-use-downloader-apps-for-instagrams-creative-videos/"><u>2024 Approved 8+ Free, Easy-to-Use Downloader Apps for Instagram's Creative Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-streamlined-method-for-crafting-mobile-focused-youtube-channels/"><u>2024 Approved Streamlined Method for Crafting Mobile-Focused YouTube Channels</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-cinematic-journey-crafting-youtube-trailers-in-filmora/"><u>2024 Approved The Cinematic Journey Crafting YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/convert-and-download-videos-in-multiple-formats-mp4-mov-avi-etc/"><u>Convert and Download Videos in Multiple Formats (MP4, MOV, AVI, Etc.)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/detailed-guide-to-optimal-full-screen-displaying/"><u>Detailed Guide to Optimal Full Screen Displaying</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/harnessing-power-of-luts-for-advanced-obs-studio-output/"><u>Harnessing Power of LUTs for Advanced OBS Studio Output</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On OnePlus Open? | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/mytubeanywhere-universal-mac-and-windows-app-for-downloading-videos-and-tunes/"><u>MyTubeAnywhere: Universal Mac & Windows App for Downloading Videos & Tunes</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/step-by-step-guide-converting-tele-task-educational-content-into-mp4mov-video-formats/"><u>Step-by-Step Guide: Converting Tele-TASK Educational Content Into MP4/MOV Video Formats</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/step-by-step-guide-downloading-content-from-tvppl/"><u>Step-by-Step Guide: Downloading Content From TVP.PL</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/step-by-step-tutorial-transforming-your-e-lectures-from-elephorg-to-high-quality-mp4-on-windowsmacos/"><u>Step-by-Step Tutorial: Transforming Your E-Lectures From Eleph.org to High-Quality MP4 on Windows/MacOS</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/ultimate-guide-streaming-spotify-tracks-with-vlc-media-player/"><u>Ultimate Guide: Streaming Spotify Tracks with VLC Media Player</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/ultimate-walkthrough-enjoy-unlimited-music-from-spotify-on-your-roku-device/"><u>Ultimate Walkthrough: Enjoy Unlimited Music From Spotify on Your Roku Device!</u></a></li>
+</ul></div>
 

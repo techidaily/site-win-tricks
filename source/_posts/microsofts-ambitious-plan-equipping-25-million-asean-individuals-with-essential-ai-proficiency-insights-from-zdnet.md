@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Ambitious Plan: Equipping 2.5 Million ASEAN Individuals with Essential AI Proficiency - Insights From ZDNet"
-date: 2024-09-19T16:40:10.528Z
-updated: 2024-09-23T16:18:13.189Z
+date: 2024-09-23T00:19:47.243Z
+updated: 2024-09-27T19:57:04.190Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -194,5 +194,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-skyrocket-to-success-mastering-seo-for-youtubers-and-beyond/"><u>[New] Skyrocket to Success Mastering SEO for YouTubers and Beyond</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-earning-potential-unlocked-profitable-strategies-for-youtube-on-fb/"><u>[Updated] 2024 Approved Earning Potential Unlocked Profitable Strategies for YouTube on FB</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-apple-iphone-xs-max-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from Apple iPhone XS Max or iPad?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-realme-v30-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Realme V30 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-save-clips-from-ringtv-as-high-quality-files-choose-between-mp4-wmv-mov-or-avi-for-perfect-playback/"><u>How to Save Clips From RingTV as High-Quality Files: Choose Between MP4, WMV, MOV, or AVI for Perfect Playback</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-save-czechoslovak-television-videos-as-different-file-types-including-mp4-avi-flv-and-mov/"><u>How to Save CzechoSlovak Television Videos as Different File Types Including MP4, AVI, FLV, and MOV</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y55s-5g-2023-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y55s 5G (2023) to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/immersive-tech-the-best-vr-gadgets-rated-for-2024/"><u>Immersive Tech The Best VR Gadgets Rated for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-honor-80-pro-straight-screen-edition-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Honor 80 Pro Straight Screen Edition Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/missing-webpage-alert-how-allavsoft-can-recover-lost-content-and-improve-site-navigation/"><u>Missing Webpage Alert: How Allavsoft Can Recover Lost Content & Improve Site Navigation</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/mp3-conversion-tutorial-for-punjabi-tracks-on-mac-osx-and-microsoft-windows-systems/"><u>MP3 Conversion Tutorial for Punjabi Tracks on Mac OSX & Microsoft Windows Systems</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/quick-download-pro-how-to-easily-transfer-videos-from-tinypic-into-popular-file-types-such-as-mp4-mov-and-avi/"><u>Quick Download Pro: How to Easily Transfer Videos From TinyPic Into Popular File Types Such as MP4, MOV, and AVI</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/quickly-save-streaming-content-with-ripit-the-ultimate-tool-for-mac-users/"><u>Quickly Save Streaming Content with RipIt - The Ultimate Tool for Mac Users</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/step-by-step-tutorial-save-brazilian-mediathek-streams-as-mp4-files-on-desktopslaptops/"><u>Step-by-Step Tutorial: Save Brazilian Mediathek Streams as MP4 Files on Desktops/Laptops</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/stream-and-save-securely-download-tv-series-and-films-using-watch-episodestvs-reliable-downloader-tool/"><u>Stream and Save - Securely Download TV Series & Films Using Watch-Episodes.TV's Reliable Downloader Tool</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/ultimate-winxdvd-mastery-step-by-step-installation-and-usage-tutorial/"><u>Ultimate WinXDVD Mastery: Step-by-Step Installation & Usage Tutorial</u></a></li>
+</ul></div>
 

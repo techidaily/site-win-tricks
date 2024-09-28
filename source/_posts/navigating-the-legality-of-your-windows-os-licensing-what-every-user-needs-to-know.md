@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Legality of Your Windows OS Licensing: What Every User Needs to Know"
-date: 2024-09-19T16:10:18.156Z
-updated: 2024-09-23T16:00:18.516Z
+date: 2024-09-20T23:44:24.407Z
+updated: 2024-09-28T07:17:14.510Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,22 +129,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -194,5 +194,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-introduction-to-effective-telegram-promotion-for-rookies/"><u>[New] In 2024, Introduction to Effective Telegram Promotion for Rookies</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unveiling-iphone-features-producing-and-modifying-videos-at-a-tranquil-pace-for-2024/"><u>[New] Unveiling iPhone Features Producing and Modifying Videos at a Tranquil Pace for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-launchpad-essentials-your-first-steps-in-streaming/"><u>[Updated] Launchpad Essentials Your First Steps in Streaming</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-visual-voyage-from-vimeo-footage-to-animated-artistry-for-2024/"><u>[Updated] Visual Voyage From Vimeo Footage to Animated Artistry for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/affordable-microsoft-office-2019-deals-save-big-at-only-25-on-windowsmac-systems/"><u>Affordable Microsoft Office 2019 Deals: Save Big at Only $25 on Windows/Mac Systems!</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/effective-strategies-for-using-file-history-to-securely-backup-data-on-windows-10-and-11-insights-from-zdnet/"><u>Effective Strategies for Using File History to Securely Backup Data on Windows 10 & 11 - Insights From ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/exploring-the-microsoft-surface-duo-2-a-first-impression-after-two-weeks-insights-and-confusion-zdnet/"><u>Exploring the Microsoft Surface Duo 2: A First Impression After Two Weeks - Insights & Confusion | ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/get-microsoft-project-and-visio-professional-licenses-at-only-20-each-exclusive-offer-on-zdnet/"><u>Get Microsoft Project and Visio Professional Licenses at Only $20 Each - Exclusive Offer on ZDNet!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-anonymizing-faces-a-compendium-of-photographic-shielders/"><u>In 2024, Anonymizing Faces A Compendium of Photographic Shielders</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/mastering-excel-formula-creation-with-chatgpt-tips-and-techniques/"><u>Mastering Excel Formula Creation with ChatGPT - Tips & Techniques</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/microsoft-to-introduce-costly-updates-for-windows-11-users-insight-into-the-new-payment-model-and-estimated-charges/"><u>Microsoft to Introduce Costly Updates for Windows 11 Users – Insight Into the New Payment Model and Estimated Charges</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/photoshop-shake-reduction-is-it-really-useful-for-2024/"><u>Photoshop Shake Reduction - Is It Really Useful for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-tips-for-flawless-green-screen-cinematography-for-2024/"><u>Top Tips for Flawless Green-Screen Cinematography for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/web-browsing-in-numbers-identifying-leading-browsers-today/"><u>Web Browsing in Numbers: Identifying Leading Browsers Today</u></a></li>
+</ul></div>
 
