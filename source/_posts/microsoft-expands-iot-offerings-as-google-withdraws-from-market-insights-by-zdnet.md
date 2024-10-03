@@ -1,7 +1,7 @@
 ---
 title: Microsoft Expands IoT Offerings as Google Withdraws From Market - Insights by ZDNet
-date: 2024-09-27T03:51:28.688Z
-updated: 2024-09-27T20:43:46.496Z
+date: 2024-09-28T04:40:15.473Z
+updated: 2024-10-03T11:07:21.332Z
 tags:
   - microsoft
 categories:
@@ -114,31 +114,37 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-best-8-evidenced-tools-for-video-propagation-for-2024/"><u>[New] Best 8 Evidenced Tools for Video Propagation for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-mastering-transition-logic-pro-xs-audio-fade-technique-for-2024/"><u>[Updated] Mastering Transition Logic Pro X's Audio Fade Technique for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-peeling-back-layers-what-hides-beneath-each-snapchat-emoji/"><u>[Updated] Peeling Back Layers What Hides Beneath Each Snapchat Emoji?</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-educator-elite-selective-learning-yt-channels/"><u>2024 Approved Educator Elite Selective Learning YT Channels</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/4khevc-videos-konvertieren-und-lesematerial-bearbeiten-ideale-tools/"><u>4K/HEVC Videos Konvertieren Und Lesematerial Bearbeiten - Ideale Tools</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/conversione-on-line-gratuita-da-aac-a-3gp-con-movavi/"><u>Conversione On-Line Gratuita Da AAC a 3GP Con Movavi</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/cyberlink-screen-recorder-review-and-the-best-alternative/"><u>Cyberlink Screen Recorder Review and the Best Alternative</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/grabacion-digital-libre-online-convertidor-mp4-a-mp3-sin-costo-por-adobe-premiere-movavi/"><u>Grabación Digital Libre Online: Convertidor MP4 a MP3 Sin Costo Por Adobe Premiere - Movavi</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/minden-legjobb-atlagot-kifejezesu-atalakito-mkv-mp4-atlalakitasuton-windowsmac-online-tippekonzert/"><u>Minden Legjobb Átlagot Kifejezésű Átalakító: MKV MP4 Átlalakításúton Windows/Mac Online Tippekonzert</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/step-by-step-instructions-for-crafting-dynamic-visual-impact-with-imovie-effects/"><u>Step-by-Step Instructions for Crafting Dynamic Visual Impact with iMovie Effects</u></a></li>
-<li><a href="https://article-tips.techidaily.com/the-first-steps-in-starting-a-review-channel-for-tech-gadgets/"><u>The First Steps in Starting a Review Channel for Tech Gadgets</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/titre-convertissez-vos-fichiers-rmvb-au-format-mp3-sans-frais-movavi/"><u>Titre: Convertissez Vos Fichiers RMVB Au Format MP3 Sans Frais - Movavi</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/top-20-free-video-transcoding-tools-for-pc-compatible-with-windows-10-8-and-7/"><u>Top 20 Free Video Transcoding Tools for PC: Compatible with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-ace-your-marketing-game-top-5-youtube-techniques-unveiled/"><u>[New] 2024 Approved Ace Your Marketing Game Top 5 YouTube Techniques Unveiled</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-unlocking-visual-magic-diy-animation-and-fx-crafts/"><u>[New] 2024 Approved Unlocking Visual Magic DIY Animation and FX Crafts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-step-by-step-guide-to-using-instagram-filters-and-icons/"><u>[New] In 2024, Step-by-Step Guide to Using Instagram Filters and Icons</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unparalleled-window-watchers-top-video-player-picks/"><u>[New] Unparalleled Window Watchers Top Video Player Picks</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-activate-magnification-features-in-flipbooks-on-flipbuildercom/"><u>How to Activate Magnification Features in Flipbooks on FlipBuilder.com</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-enable-multilingual-support-for-your-ebooks-with-flipbuilder-a-comprehensive-guide/"><u>How To Enable Multilingual Support For Your eBooks With FlipBuilder: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-preserve-your-preferences-for-future-flipbook-creations-on-flipbuildercom/"><u>How to Preserve Your Preferences for Future FlipBook Creations on FlipBuilder.com</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-set-up-a-download-link-for-your-e-book-on-flipbuilder-a-comprehensive-guide/"><u>How to Set Up a Download Link for Your E-Book on FlipBuilder: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-switch-flash-content-from-english-to-your-native-tongue-on-flipbuildercom/"><u>How to Switch Flash Content From English to Your Native Tongue on FlipBuilder.com</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-update-your-flipbook-title-and-font-in-windows-using-flipbuilder-a-comprehensive-guide/"><u>How to Update Your FlipBook Title & Font in Windows Using FlipBuilder - A Comprehensive Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-advanced-video-editing-free-high-quality-pp-templates/"><u>In 2024, Advanced Video Editing FREE High-Quality PP Templates</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-s17t-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Vivo S17t Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-vivo-y100-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Vivo Y100 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-laptop-with-these-8-stylish-skins/"><u>In 2024, Transform Your Laptop with These 8 Stylish Skins</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/mastering-image-editing-boosting-contrast-levels-in-flip-image-expert-software/"><u>Mastering Image Editing: Boosting Contrast Levels in Flip Image Expert Software</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/online-accessibility-of-helping-resources-enhancing-user-engagement-with-flipbuilder-technology/"><u>Online Accessibility of Helping Resources: Enhancing User Engagement with FlipBuilder Technology</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/perfect-balance-in-flipping-books-adjusting-width-to-height-ratios-with-ease-on-flipbuilder/"><u>Perfect Balance in Flipping Books: Adjusting Width-to-Height Ratios with Ease on FlipBuilder</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-virality-vortex-mastering-content-circulation-on-social-media/"><u>The Virality Vortex Mastering Content Circulation on Social Media</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-best-11-free-voice-changer-apps-for-ios-and-android/"><u>Updated In 2024, Best 11 FREE Voice Changer Apps for iOS and Android</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

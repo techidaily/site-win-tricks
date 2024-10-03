@@ -1,7 +1,7 @@
 ---
 title: Mirillis Privacy Standards & User Consent Guidelines
-date: 2024-09-24T06:15:31.577Z
-updated: 2024-09-28T06:43:23.005Z
+date: 2024-09-26T22:56:25.922Z
+updated: 2024-10-02T19:20:35.911Z
 tags:
   - product
 categories:
@@ -45,10 +45,10 @@ Please read this information carefully before using Mirillis websites or/and cre
  \- On mirillis.com we carry out the so-called "soft" profiling. This means that we collect statistics about traffic on our websites, as well as data that enable us to use marketing activities (eg Google AdWords remarketing).  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What personal information is collected and when
@@ -58,10 +58,10 @@ Mirillis Ltd. does not collect any personal information, this means no informati
 We use Google Analytics, Google AdWords Conversion tracker, other Google services and Mirillis services that place cookies on a browser across the website. Mirillis services and other 3rd party services help us increase the website's usability for our visitors and customers. Cookies are set and read by Google services and Mirillis website. You can opt out of Google tracking by visiting this page. You can learn more about Google's practices at <http://google.com/policies/privacy>. You can revoke any authorization consent provided to our API client using this link <https://security.google.com/settings/security/permissions>.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How we may use personal information
@@ -73,10 +73,10 @@ Your e-mail address (collected during product purchase or forum registration pro
 We take all possible measures to protect our customers and website users information.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Questions
@@ -84,10 +84,16 @@ We take all possible measures to protect our customers and website users informa
 If you have any questions regarding Privacy Policy please feel free to [contact us.](https://tools.techidaily.com/mirillis/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### General
@@ -109,21 +115,21 @@ This Privacy Policy may be changed from time to time, please check our privacy p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-harness-the-power-of-zoom-on-your-windows-10-pc/"><u>2024 Approved Harness the Power of Zoom on Your Windows 10 PC</u></a></li>
-<li><a href="https://fox-that.techidaily.com/essential-clues-for-identifying-an-iphone-affected-by-water/"><u>Essential Clues for Identifying an iPhone Affected by Water</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-infinix-smart-8-plus-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Infinix Smart 8 Plus Pattern Lock Screen</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-to-save-czechoslovak-television-videos-as-different-file-types-including-mp4-avi-flv-and-mov/"><u>How to Save CzechoSlovak Television Videos as Different File Types Including MP4, AVI, FLV, and MOV</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabled-apple-iphone-11-pro-how-to-unlock-a-disabled-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 11 Pro How to Unlock a Disabled Apple iPhone 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-xiaomi-redmi-note-12r-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Xiaomi Redmi Note 12R and Browser | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/missing-webpage-alert-how-allavsoft-can-recover-lost-content-and-improve-site-navigation/"><u>Missing Webpage Alert: How Allavsoft Can Recover Lost Content & Improve Site Navigation</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/mp3-conversion-tutorial-for-punjabi-tracks-on-mac-osx-and-microsoft-windows-systems/"><u>MP3 Conversion Tutorial for Punjabi Tracks on Mac OSX & Microsoft Windows Systems</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/quick-download-pro-how-to-easily-transfer-videos-from-tinypic-into-popular-file-types-such-as-mp4-mov-and-avi/"><u>Quick Download Pro: How to Easily Transfer Videos From TinyPic Into Popular File Types Such as MP4, MOV, and AVI</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-setup-get-your-acer-bluetooth-connectivity-going-with-our-easy-to-install-drivers/"><u>Quick Setup: Get Your Acer Bluetooth Connectivity Going with Our Easy-to-Install Drivers</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/quickly-save-streaming-content-with-ripit-the-ultimate-tool-for-mac-users/"><u>Quickly Save Streaming Content with RipIt - The Ultimate Tool for Mac Users</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/slow-mo-to-fast-mo-10-best-free-video-speed-editor-apps-for-ios-and-android-for-2024/"><u>Slow Mo to Fast Mo 10 Best Free Video Speed Editor Apps for iOS and Android for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/step-by-step-tutorial-save-brazilian-mediathek-streams-as-mp4-files-on-desktopslaptops/"><u>Step-by-Step Tutorial: Save Brazilian Mediathek Streams as MP4 Files on Desktops/Laptops</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/stream-and-save-securely-download-tv-series-and-films-using-watch-episodestvs-reliable-downloader-tool/"><u>Stream and Save - Securely Download TV Series & Films Using Watch-Episodes.TV's Reliable Downloader Tool</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ultimate-setup-logitech-driving-force-gt-wheel-installation-manual-for-all-windows-users-781011/"><u>Ultimate Setup: Logitech Driving Force GT Wheel Installation Manual for All Windows Users (7/8/10/11)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-leading-free-switch-game-reproducers/"><u>[New] In 2024, Leading Free Switch Game Reproducers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-mastering-virtual-console-with-top-5-ps3-emulators/"><u>2024 Approved Mastering Virtual Console with Top 5 PS3 Emulators</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/choosing-your-ideal-tablet-amazon-fire-vs-ipad/"><u>Choosing Your Ideal Tablet: Amazon Fire Vs. IPad</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/crafting-compelling-gopro-livestreams-on-facebook-and-periscope-for-2024/"><u>Crafting Compelling GoPro Livestreams on Facebook & Periscope for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-new-horizons-in-health-and-wellness-facebook-campaigns-for-2024/"><u>Exploring New Horizons in Health & Wellness Facebook Campaigns for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-vivo-y200e-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo Y200e 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-15-pro-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 15 Pro with iTunes</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/maximize-your-development-teams-output-with-microsoft-the-top-choice-identified-by-zdnet/"><u>Maximize Your Development Team’s Output with Microsoft: The Top Choice Identified by ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/microsoft-to-introduce-costly-updates-for-windows-11-users-insight-into-the-new-payment-model-and-estimated-charges/"><u>Microsoft to Introduce Costly Updates for Windows 11 Users – Insight Into the New Payment Model and Estimated Charges</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/microsofts-ambitious-plan-equipping-25-million-asean-individuals-with-essential-ai-proficiency-insights-from-zdnet/"><u>Microsoft's Ambitious Plan: Equipping 2.5 Million ASEAN Individuals with Essential AI Proficiency - Insights From ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/navigating-the-legality-of-your-windows-os-licensing-what-every-user-needs-to-know/"><u>Navigating the Legality of Your Windows OS Licensing: What Every User Needs to Know</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/outage-alert-microsoft-365-disrupted-services-impacting-millions-inside-the-incident-technews/"><u>Outage Alert: Microsoft 365 Disrupted Services Impacting Millions – Inside the Incident | TechNews</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/quickly-create-a-youtube-animation-for-your-subscribe-button-with-filmora-for-2024/"><u>Quickly Create a YouTube Animation for Your Subscribe Button with Filmora for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/the-evolved-all-in-one-masterpiece-dive-into-the-enhanced-capabilities-of-microsoft-surface-studio-2plus-reviewed-by-zdnet/"><u>The Evolved All-in-One Masterpiece: Dive Into the Enhanced Capabilities of Microsoft Surface Studio 2+ Reviewed by ZDNet</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/tiny-mansions-crafting-ornate-japanese-spaces-for-2024/"><u>Tiny Mansions Crafting Ornate Japanese Spaces for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/web-browsing-in-numbers-identifying-leading-browsers-today/"><u>Web Browsing in Numbers: Identifying Leading Browsers Today</u></a></li>
 </ul></div>
 

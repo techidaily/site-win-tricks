@@ -1,7 +1,7 @@
 ---
 title: "AI Breakthroughs by Tech Giants: Microsoft and Google Lead the Way as Smaller Companies Struggle | Exclusive Analysis on ZDNET"
-date: 2024-09-25T07:03:01.537Z
-updated: 2024-09-27T18:12:18.969Z
+date: 2024-09-30T18:27:09.706Z
+updated: 2024-10-03T03:19:39.969Z
 tags:
   - microsoft
 categories:
@@ -64,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,16 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevate-video-playback-with-youtubes-latest-feature-av1/"><u>[New] In 2024, Elevate Video Playback with YouTube's Latest Feature - AV1</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-enhancing-your-viewing-experience-facebook-and-roku-synergy-for-2024/"><u>[Updated] Enhancing Your Viewing Experience Facebook & Roku Synergy for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/boost-performance-on-windows-11-with-a-stealthy-trick-to-swiftly-close-lagging-applications-insights-from-zdnet/"><u>Boost Performance on Windows 11 with a Stealthy Trick to Swiftly Close Lagging Applications | Insights From ZDNET</u></a></li>
-<li><a href="https://discover-help.techidaily.com/diagnosing-and-repairing-malfunctioning-nvidia-shadowplay-on-your-pc/"><u>Diagnosing and Repairing Malfunctioning NVIDIA ShadowPlay on Your PC</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-to-prevent-intrusive-promotions-in-windows-11-start-interface-a-step-by-step-guide-by-zdnet/"><u>How to Prevent Intrusive Promotions in Windows 11 Start Interface - A Step-by-Step Guide by ZDNET</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-harmony-haven-gather-download-and-dissect-audio/"><u>In 2024, Harmony Haven Gather, Download & Dissect Audio</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/microsoft-silently-ends-hopes-for-windows-11-prolonged-support-devastates-fans-techspot/"><u>Microsoft Silently Ends Hopes for Windows 11 Prolonged Support, Devastates Fans | TechSpot</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/prepare-for-the-future-microsoft-announces-paid-updates-for-windows-11-what-you-can-expect/"><u>Prepare for the Future: Microsoft Announces Paid Updates for Windows 11 - What You Can Expect</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/seamless-photo-transfer-moving-images-from-android-to-a-windows-pc-expert-guide/"><u>Seamless Photo Transfer: Moving Images From Android to a Windows PC - Expert Guide</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/securing-snapshots-across-android-and-mac-platforms/"><u>Securing Snapshots Across Android and Mac Platforms</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/unraveling-the-mystery-how-premiere-and-after-effects-differ-in-video-production-for-2024/"><u>Unraveling the Mystery How Premiere and After Effects Differ in Video Production for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-spectrum-perfection-color-grading-basics/"><u>[New] In 2024, Spectrum Perfection Color Grading Basics</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-synchronized-screenscapes-youtube-clips-in-tv-loops/"><u>[Updated] Synchronized Screenscapes YouTube Clips in TV Loops</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1-ultimate-guide-streamlining-your-documents-using-apowerpdfs-page-management-features/"><u>1. Ultimate Guide: Streamlining Your Documents Using ApowerPDF's Page Management Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-seamless-soundscapes-youtube-music-integration-tips/"><u>2024 Approved Seamless Soundscapes YouTube Music Integration Tips</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/boosting-views-a-guide-to-effective-facebook-video-advertising-techniques-for-2024/"><u>Boosting Views A Guide to Effective Facebook Video Advertising Techniques for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-the-mysteries-of-invisible-context-options-in-windows-11/"><u>Decoding the Mysteries of Invisible Context Options in Windows 11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/filmmakers-checklist-on-the-go-gear-guide-for-2024/"><u>Filmmaker's Checklist On-the-Go Gear Guide for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/mac-compatible-soundcloud-audio-extractor-download-tunes-easily/"><u>Mac Compatible SoundCloud Audio Extractor - Download Tunes Easily</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/navigating-languages-made-easy-googles-choice-mondly/"><u>Navigating Languages Made Easy: Google's Choice Mondly</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/seamless-steps-migrating-your-mobile-contacts-from-one-device-to-another/"><u>Seamless Steps: Migrating Your Mobile Contacts From One Device to Another</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/top-5-complimentary-pdf-editing-tools-for-windows-pcs-latest-picks-of-2020/"><u>Top 5 Complimentary PDF Editing Tools for Windows PCs: Latest Picks of 2020</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/top-strategies-for-removing-music-tracks-from-your-iphone/"><u>Top Strategies for Removing Music Tracks From Your iPhone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-repairing-the-clock-watchdog-timed-out-issue-to-prevent-bsods-in-windows-11/"><u>Understanding and Repairing the Clock Watchdog Timed Out Issue to Prevent BSODs in Windows 11</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/wirelessly-mirroring-your-android-device-on-windows-11-a-step-by-step-guide/"><u>Wirelessly Mirroring Your Android Device on Windows 11: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

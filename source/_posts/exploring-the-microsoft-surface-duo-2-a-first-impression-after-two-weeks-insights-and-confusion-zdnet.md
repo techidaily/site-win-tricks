@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Microsoft Surface Duo 2: A First Impression After Two Weeks - Insights & Confusion | ZDNet"
-date: 2024-09-24T01:08:24.205Z
-updated: 2024-09-27T19:57:58.304Z
+date: 2024-09-30T01:56:13.655Z
+updated: 2024-10-02T18:42:25.560Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -82,19 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,16 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -159,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -208,20 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-secrets-to-excellent-1080p-content-on-fb/"><u>[New] Secrets to Excellent 1080P Content on FB</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-360-video-stitching-tips-how-to-stitch-gopro-clips-into-360-videos/"><u>[Updated] 2024 Approved 360 Video Stitching Tips How to Stitch GoPro Clips Into 360 Videos</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-top-30-camcorders-directly-at-your-eyes/"><u>[Updated] Top 30 Camcorders Directly At Your Eyes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/44cm54plusplus5zyo6ycy6kgm5lit44gu44ot44oh44kq44kv44oq44od44ox44ks5lplusd566h44gz44kl44gf44kb44gu5yq55p6c55qe44gq5oml5rov44cn/"><u>「現在進行中のビデオクリップを保管するための効果的な手法」</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-motorola-moto-g24-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Motorola Moto G24 Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/best-practices-for-flipbook-security-ensure-the-integrity-of-your-e-publishing-with-flipbuildercom/"><u>Best Practices for Flipbook Security - Ensure the Integrity of Your E-Publishing with FlipBuilder.com</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/convertisseur-de-fichiers-audio-gratuit-m4v-en-format-aac-avec-movavi/"><u>Convertisseur De Fichiers Audio Gratuit : M4V en Format AAC Avec Movavi</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/creating-durable-hard-cover-flipbooks-step-by-step-tutorial-on-flipbuildercom/"><u>Creating Durable Hard Cover Flipbooks: Step-by-Step Tutorial on FlipBuilder.com</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/gebruik-de-veilige-en-eenvoudige-online-konverter-van-movavi-mod-naar-mp4-gratis-geoptimaliseerd/"><u>Gebruik De Veilige en Eenvoudige Online-Konverter Van Movavi: MOD Naar MP4 Gratis Geoptimaliseerd</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/guida-rapida-alla-conversione-dei-file-video-da-m4v-a-mp4-e-piu-formati-con-movavi/"><u>Guida Rapida Alla Conversione Dei File Video: Da M4V a MP4 E Più Formati Con Movavi</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/top-12-high-definition-video-converter-software-and-tools-compared-windows-mac-and-online-options-by-movavi/"><u>Top 12 High-Definition Video Converter Software & Tools Compared: Windows, Mac & Online Options by Movavi</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/top-6-simple-minecraft-house-ideas/"><u>Top 6 Simple Minecraft House Ideas</u></a></li>
-<li><a href="https://win11.techidaily.com/top-strategies-for-a-smoothly-running-google-drive-in-windows/"><u>Top Strategies for a Smoothly Running Google Drive in Windows</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/tout-sur-la-transformation-vob-avi-gratuite-en-lignes-via-movavi-details-et-etapes-etape-par-etape/"><u>Tout Sur La Transformation VOB-AVI Gratuite en Lignes via Movavi : Détails Et Étapes Étape Par Étape</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-elevate-your-storytelling-on-snapchat-with-top-tips/"><u>[New] Elevate Your Storytelling on Snapchat with Top Tips</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-deciphering-the-codex-of-meta-and-omni-worlds/"><u>[Updated] In 2024, Deciphering the Codex of Meta and Omni Worlds</u></a></li>
+<li><a href="https://win-dash.techidaily.com/44co6i2s6yeo6kgm5yuv44cp44ky44o844og5lit44gu44k344o844oz44ks6kiy6yyy44gz44kl44gf44kb44gu5ysq56ea44gq44ki44ox44oq44o744k944ov44oi57s55lul/"><u>『荒野行動』ゲーム中のシーンを記録するための優秀なアプリ・ソフト紹介</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1-how-to-convert-your-ehow-videos-into-mp4-format-on-pc-and-mac-with-ehow-downloader/"><u>1. How to Convert Your eHow Videos Into MP4 Format on PC & MAC with EHow Downloader</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-a-clearer-sight-youtube-watching-tweets-at-1080p/"><u>2024 Approved A Clearer Sight YouTube, Watching Tweets at 1080P</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-visionary-voices-top-10-most-engaged-internet-creators/"><u>2024 Approved Visionary Voices Top 10 Most Engaged Internet Creators</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/convert-and-download-videos-in-multiple-formats-mp4-mov-avi-etc/"><u>Convert and Download Videos in Multiple Formats (MP4, MOV, AVI, Etc.)</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/discover-the-best-5-courseware-choices-similar-to-coursera-for-enhanced-e-learning/"><u>Discover the Best 5 Courseware Choices Similar to Coursera for Enhanced E-Learning</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/elevate-your-igtv-presence-strategies-for-perfecting-video-lengths-and-widths-for-2024/"><u>Elevate Your IGTV Presence Strategies for Perfecting Video Lengths and Widths for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/step-by-step-tutorial-transforming-your-e-lectures-from-elephorg-to-high-quality-mp4-on-windowsmacos/"><u>Step-by-Step Tutorial: Transforming Your E-Lectures From Eleph.org to High-Quality MP4 on Windows/MacOS</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-infinix-smart-8-plus-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Infinix Smart 8 Plus Phone Hassle-Free</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/ultimate-guide-streaming-spotify-tracks-with-vlc-media-player/"><u>Ultimate Guide: Streaming Spotify Tracks with VLC Media Player</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-solution-for-eliminating-stutter-and-improving-performance-in-avatar-frontiers-of-pandora/"><u>Ultimate Solution for Eliminating Stutter and Improving Performance in 'Avatar: Frontiers of Pandora'</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/ultimate-walkthrough-enjoy-unlimited-music-from-spotify-on-your-roku-device/"><u>Ultimate Walkthrough: Enjoy Unlimited Music From Spotify on Your Roku Device!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/windows-11-woes-intensify-for-microsoft-as-launch-deadline-looms-expert-analysis-by-zdnet/"><u>Windows 11 Woes Intensify for Microsoft as Launch Deadline Looms – Expert Analysis by ZDNET</u></a></li>
 </ul></div>
 

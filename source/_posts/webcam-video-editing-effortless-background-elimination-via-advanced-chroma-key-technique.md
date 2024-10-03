@@ -1,7 +1,7 @@
 ---
 title: "Webcam Video Editing: Effortless Background Elimination via Advanced Chroma Key Technique"
-date: 2024-09-24T06:40:45.612Z
-updated: 2024-09-27T16:59:15.704Z
+date: 2024-09-25T21:24:40.399Z
+updated: 2024-10-03T01:42:06.019Z
 tags:
   - product
 categories:
@@ -16,16 +16,22 @@ thumbnail: https://thmb.techidaily.com/16d13254afac9149dce0a2e443b3fbb7f20249bb6
   
  Share this tutorial:
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Introduction 
 
  With Action! You can easily add to your video picture from webcam with automatic background removal using Chroma Key option. Follow this tutorial to learn about using Chroma Key and Alpha mask to create outstanding recordings with webcams!
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Enable Webcam recording
 
@@ -33,22 +39,22 @@ thumbnail: https://thmb.techidaily.com/16d13254afac9149dce0a2e443b3fbb7f20249bb6
 
 ![Mirillis Action! - Webcam settings](https://mirillis.com/res/old/gfx/tutorials/webcams/mirillis_action_webcam_settings.jpg "Action! Webcam Settings") 
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Use Webcam Settings button to show Webcam Settings window. 
 
 ![Mirillis Action! - Select Webcam](https://mirillis.com/res/old/gfx/tutorials/chroma-key/2mirillis-action-webcam-preview-enabled.jpg "Select webcam device to be added to desktop recording") 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enable and adjust Chroma Key
@@ -62,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/16d13254afac9149dce0a2e443b3fbb7f20249bb6
 ![Mirillis Action! - Adjust webcam settings](https://mirillis.com/res/old/gfx/tutorials/chroma-key/3mirillis-action-webcam-preview.jpg "Adjust webcam size and position") 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enable Alpha mask
@@ -91,19 +97,20 @@ thumbnail: https://thmb.techidaily.com/16d13254afac9149dce0a2e443b3fbb7f20249bb6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-total-environmental-immersion-in-media-creation-for-2024/"><u>[New] Total Environmental Immersion in Media Creation for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-universal-iptv-broadcasting-for-2024/"><u>[New] Universal IPTV Broadcasting for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-amplify-video-speeds-the-ultimate-tiktok-guide/"><u>[Updated] Amplify Video Speeds The Ultimate TikTok Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-top-8-platforms-for-linux-video-buffs-for-2024/"><u>[Updated] Top 8 Platforms for Linux Video Buffs for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/act-now-shift-time-unveiling-strategic-moves/"><u>Act Now, Shift Time: Unveiling Strategic Moves</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/brace-yourself-how-the-latest-microsoft-patch-could-escalate-after-hours-stress-insights-from-zdnet/"><u>Brace Yourself: How the Latest Microsoft Patch Could Escalate After-Hours Stress - Insights From ZDNet</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-microsoft-and-google-excel-in-ai-support-while-others-lag-behind-insights-from-zdnet/"><u>How Microsoft & Google Excel in AI Support, While Others Lag Behind: Insights From ZDNet</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/mirillis-privacy-standards-and-user-consent-guidelines/"><u>Mirillis Privacy Standards & User Consent Guidelines</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On OnePlus Ace 3? | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/tapping-into-efficiency-microsoft-introduces-key-surface-tools-for-business-productivity-zdnet-uncovered/"><u>Tapping Into Efficiency: Microsoft Introduces Key Surface Tools for Business Productivity - ZDNET Uncovered</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-nokia-c110-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Nokia C110 Device</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-10-final-cut-pro-plug-ins-for-2024/"><u>Top 10 Final Cut Pro Plug-Ins for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/ultimate-guide-setting-up-an-ideal-windows-11-vm-on-your-pc-insights-from-zdnet/"><u>Ultimate Guide: Setting Up an Ideal Windows 11 VM on Your PC - Insights From ZDNet</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/video-capture-clash-a-rivalry-of-screens-obs-vs-shadowcast-for-2024/"><u>Video Capture Clash A Rivalry of Screens (OBS Vs. ShadowCast) for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-set-up-efficient-live-conversations-on-pc-via-whatsapp-web/"><u>[New] 2024 Approved Set Up Efficient Live Conversations on PC via WhatsApp Web</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-clear-out-your-discord-server-pcandroid/"><u>[New] Clear Out Your Discord Server (PC/Android)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-do-evaluation-blogs-get-payments-for-products-for-2024/"><u>[New] Do Evaluation Blogs Get Payments for Products for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-dial-up-dominance-a-guide-to-visual-podcast-identity/"><u>2024 Approved Dial-Up Dominance A Guide to Visual Podcast Identity</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/affordable-microsoft-office-2019-deals-save-big-at-only-25-on-windowsmac-systems/"><u>Affordable Microsoft Office 2019 Deals: Save Big at Only $25 on Windows/Mac Systems!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/beginning-zoom-video-calls-on-android-devices-for-2024/"><u>Beginning Zoom Video Calls on Android Devices for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/effective-strategies-for-using-file-history-to-securely-backup-data-on-windows-10-and-11-insights-from-zdnet/"><u>Effective Strategies for Using File History to Securely Backup Data on Windows 10 & 11 - Insights From ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/exploring-the-microsoft-surface-duo-2-a-first-impression-after-two-weeks-insights-and-confusion-zdnet/"><u>Exploring the Microsoft Surface Duo 2: A First Impression After Two Weeks - Insights & Confusion | ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/get-microsoft-project-and-visio-professional-licenses-at-only-20-each-exclusive-offer-on-zdnet/"><u>Get Microsoft Project and Visio Professional Licenses at Only $20 Each - Exclusive Offer on ZDNet!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/mastering-excel-formula-creation-with-chatgpt-tips-and-techniques/"><u>Mastering Excel Formula Creation with ChatGPT - Tips & Techniques</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/microsoft-responds-with-significant-privacy-and-security-overhaul-following-harsh-reviews-a-deep-dive-zdnet/"><u>Microsoft Responds with Significant Privacy & Security Overhaul Following Harsh Reviews: A Deep Dive - ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/sam-altman-discusses-future-of-artificial-intelligence-at-microsofts-build-conference-insights-from-tech-leader/"><u>Sam Altman Discusses Future of Artificial Intelligence at Microsoft's Build Conference - Insights From Tech Leader</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-honor-magic-6-frp-by-drfone-android/"><u>The Updated Method to Bypass Honor Magic 6 FRP</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/outuber-enigma-decoded-exciting-questionnaires-leading-to-your-ideal-creator-profile/"><u>The YouTuber Enigma Decoded Exciting Questionnaires Leading to Your Ideal Creator Profile</u></a></li>
 </ul></div>
 

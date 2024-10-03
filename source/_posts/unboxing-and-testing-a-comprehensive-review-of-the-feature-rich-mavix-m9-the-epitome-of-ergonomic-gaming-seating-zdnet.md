@@ -1,7 +1,7 @@
 ---
 title: "Unboxing and Testing: A Comprehensive Review of the Feature-Rich Mavix M9 - The Epitome of Ergonomic Gaming Seating | ZDNET"
-date: 2024-09-26T05:15:45.742Z
-updated: 2024-09-28T03:46:04.859Z
+date: 2024-10-01T09:28:54.456Z
+updated: 2024-10-02T23:32:38.968Z
 tags:
   - office-furniture
 categories:
@@ -51,10 +51,10 @@ Let's take a deep dive into Mavix's take on a high-end gaming chair by examining
 | Assembly required     | Yes                                                                          |
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Design  
@@ -73,13 +73,6 @@ The seat, back, and headrest are designed to be equally well-suited to use at a 
 
 Optional add-ons like the Elemax heating/cooling/massage and FS 360 armrests combine with the default configuration and adjustments to provide a design that's one of the most customizable (both at the time of purchase and once you've got it set up) that I've ever used. This expansive set of variables can be both a blessing and, occasionally, a hindrance, as we'll discuss further on in our review. 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Build quality
 
 The M9 uses a mesh-like material Mavix calls Advanced Tensile Recovery (A.T.R.) Fabric on the lumbar and its M-Breeze fabric everywhere else. The ATR fabric allows air to pass through, aiding the Elemax system's heating and cooling. The M-Breeze material offers less airflow, but still breathes better than the standard leatherette materials it resembles.   
@@ -95,6 +88,13 @@ The frame of the unit is a combination of metal (central gas lift cylinder, back
 **More: [The best office chairs: Treat yourself](https://www.zdnet.com/home-and-office/smart-office/best-office-chair/)**   
   
  Lastly, the M9's locking, in-line skate casters work well on everything from hard floors to dense carpeting, removing any need for the upgraded replacement casters I recommend for many other chairs. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Shipping and setup 
 
@@ -124,6 +124,13 @@ Speaking of oversights, the second speedbump came from a small hex wrench and a 
   
 All told, the clear markings on the hardware card still helped me complete the assembly in about a half-hour. I could have finished faster with help, but I flew solo to simulate a worst-case scenario. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Installing the extras 
 
 While the above section covers the standard setup process, I'll quickly outline the two optional extras Mavix sent along: the Elemax system and its FS 360 arms 
@@ -145,6 +152,13 @@ The add-on is a semi-soft pad that lives within the "Dynamic Variable Lumbar" su
 **More: [The 5 best gaming PCs](https://www.zdnet.com/home-and-office/home-entertainment/best-gaming-pc/)**
 
 The confusion started when I noticed that the Elemax system included two elastic straps that covered the built-in fans providing the unit's heating and cooling airflow. These straps weren't present in the instructional videos or literature. I was left to take my best guess on their purpose. The straps seemed likely to interfere with the airflow of the fans. But, I soldiered on with the installation as close to the instructions as possible. Since the airflow ultimately seemed normal, I moved on, adding one more mystery to the list. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Adjustability 
 
@@ -171,13 +185,6 @@ Michael Gariffo/ZDNET
 I can't wrap up the Adjustability section without talking about one of the most adjustable accessories I've ever seen on a chair: the FS 360 armrests.   
   
  The standard 4D armrests feature the same four adjustments (mentioned above) found on most high-end gaming chairs. Meanwhile, the FS 360 arms replace them with something unlike any other armrests I've used.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Featured reviews
 
@@ -246,13 +253,6 @@ On the other end of the spectrum, companies like Herman Miller and Mavix, both o
 
 The M9 won't revolutionize your workday or gaming sessions, but it will provide a comfortable, ergonomic, well-built seating solution that looks just "gamer-y" enough. If the [$999 price](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMAVIX-M9-Gaming-Chair-Black%2Fdp%2FB09MDWBB99%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cec691aba-067f-4058-b406-c172e22e5afb%7Cdtp&dtb=1) point is affordable to you, I'd absolutely recommend paying the extra $165 for the FS360 arms. With them, I think the Mavix M9 makes an excellent case for being one of the best gaming chairs in the upper mid-range of today's best entries. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Alternatives to consider 
 
 [Secret Lab TITAN Evo 2022 Series $519 at Secret Lab](https://oc.brcclx.com/t?lid=26675287&tid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -297,20 +297,18 @@ A chair from a company better known for its mice and keyboards, the Iskur is exc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-instantly-stream-youtube-content-on-facebook-auto-play-guide/"><u>[New] 2024 Approved Instantly Stream YouTube Content on Facebook Auto-Play Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-top-12-best-idle-games-you-can-find-on-pc/"><u>[New] In 2024, Top 12 Best Idle Games You Can Find on PC</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/1726220690734-dpx-movavi/"><u>簡便線上DPX免費轉檔服務 - Movavi</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/convertir-des-gif-vers-des-fichiers-swf-gratuitement-avec-la-solution-web-de-movavi-guide-detaille/"><u>Convertir Des GIF Vers Des Fichiers SWF Gratuitement Avec La Solution Web De Movavi - Guide Détaillé</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/free-online-converter-change-your-gifs-into-mp4-videos-use-movavi/"><u>Free Online Converter: Change Your GIFs Into MP4 Videos - Use Movavi</u></a></li>
-<li><a href="https://facebook.techidaily.com/googles-annual-summary-of-press-milestones/"><u>Google's Annual Summary of Press Milestones</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/leading-external-blu-ray-dvd-writers-reviewed-2024s-finest-picks/"><u>Leading External Blu-Ray DVD Writers Reviewed: 2024'S Finest Picks</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/movavimpempg/"><u>Movaviで効率的な無料MPEとMPGのスムーズな変換方法 – オンラインツール</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/next-level-content-creation-tools-post-vimeo/"><u>Next-Level Content Creation Tools, Post-Vimeo</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/profille-movavi-video-konverter-guaranteed-secure-purchase-og-rabatte/"><u>Profille Movavi Video Konverter - Guaranteed Secure Purchase Og Rabatte</u></a></li>
-<li><a href="https://techtrends.techidaily.com/riproduzione-dvd-protetta-facilitata-da-programmi-di-copia-liberi-soluzioni-complete-del-2020/"><u>Riproduzione DVD Protetta Facilitata Da Programmi Di Copia Liberi: Soluzioni Complete Del 2020</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/scrutinizing-selfies-on-instagram-validation-necessary-for-2024/"><u>Scrutinizing Selfies on Instagram Validation Necessary for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/transform-audio-convert-asf-to-wav-streamingly-no-costs-involved-movavi/"><u>Transform Audio: Convert ASF to WAV Streamingly, No Costs Involved - Movavi</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/transforma-sus-videos-ts-en-formato-webm-libremente-en-la-web-por-medio-de-herramientas-de-conversion-gratuitas-como-movavi/"><u>Transforma Sus Videos TS en Formato WebM Libremente en La Web Por Medio De Herramientas De Conversión Gratuitas Como Movavi</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/uncovering-stealthy-strategies-the-top-8-secret-methods-for-cable-free-mobile-charging/"><u>Uncovering Stealthy Strategies: The Top 8 Secret Methods for Cable-Free Mobile Charging</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-mastering-instagram-analytics-top-tools-for-enhanced-performance-insights/"><u>[New] 2024 Approved Mastering Instagram Analytics Top Tools for Enhanced Performance Insights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ultimate-photography-journey-with-vsco-editing-tool/"><u>[Updated] 2024 Approved Ultimate Photography Journey with VSCO Editing Tool</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-enhancing-meetings-screen-capture-with-webcam/"><u>[Updated] In 2024, Enhancing Meetings Screen Capture with Webcam</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-palette-primer-compreenasive-guide-to-coloring/"><u>[Updated] The Palette Primer Compreenasive Guide to Coloring</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/best-practices-for-flipbook-security-ensure-the-integrity-of-your-e-publishing-with-flipbuildercom/"><u>Best Practices for Flipbook Security - Ensure the Integrity of Your E-Publishing with FlipBuilder.com</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/convertisseur-de-fichiers-audio-gratuit-m4v-en-format-aac-avec-movavi/"><u>Convertisseur De Fichiers Audio Gratuit : M4V en Format AAC Avec Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-scratch-building-a-lighthearted-image-meme-for-2024/"><u>From Scratch Building a Lighthearted Image Meme for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/gebruik-de-veilige-en-eenvoudige-online-konverter-van-movavi-mod-naar-mp4-gratis-geoptimaliseerd/"><u>Gebruik De Veilige en Eenvoudige Online-Konverter Van Movavi: MOD Naar MP4 Gratis Geoptimaliseerd</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/guida-rapida-alla-conversione-dei-file-video-da-m4v-a-mp4-e-piu-formati-con-movavi/"><u>Guida Rapida Alla Conversione Dei File Video: Da M4V a MP4 E Più Formati Con Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmony-and-hype-perfecting-film-teaser-tunes-for-2024/"><u>Harmony and Hype Perfecting Film Teaser Tunes for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/high-quality-winxdvd-software-zur-dvd-extraktion-verbesserung-der-videoqualitat-and-konvertierung-fur-ios-gerate/"><u>High-Quality WinXDVD Software Zur DVD Extraktion, Verbesserung Der Videoqualität & Konvertierung Für iOS Geräte</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/iphone-ready-syncing-photos-and-videos-from-pc-for-2024/"><u>IPhone-Ready Syncing Photos & Videos From PC for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/top-12-high-definition-video-converter-software-and-tools-compared-windows-mac-and-online-options-by-movavi/"><u>Top 12 High-Definition Video Converter Software & Tools Compared: Windows, Mac & Online Options by Movavi</u></a></li>
 </ul></div>
 

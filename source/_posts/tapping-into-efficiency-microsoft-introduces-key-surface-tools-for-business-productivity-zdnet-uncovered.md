@@ -1,7 +1,7 @@
 ---
 title: "Tapping Into Efficiency: Microsoft Introduces Key Surface Tools for Business Productivity - ZDNET Uncovered"
-date: 2024-09-25T04:00:53.949Z
-updated: 2024-09-27T23:15:41.404Z
+date: 2024-09-29T11:38:07.509Z
+updated: 2024-10-02T17:40:43.892Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +137,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -145,13 +158,6 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,21 +202,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-follower-erosion-how-to-spot-it-on-insta/"><u>[Updated] 2024 Approved Follower Erosion How to Spot It on Insta</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-breaking-down-instagrams-standard-video-cap-solutions/"><u>[Updated] Breaking Down Instagram's Standard Video Cap Solutions</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-content-strategies-for-youtube-success-for-2024/"><u>[Updated] Elevate Your Content Strategies for YouTube Success for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-fusion-of-video-and-melody-adding-music-to-vimeo-projects/"><u>[Updated] Fusion of Video & Melody Adding Music to Vimeo Projects</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-mastering-iphoneipad-premium-podcast-recording-tips/"><u>[Updated] In 2024, Mastering iPhone/iPad Premium Podcast Recording Tips</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-remove-youtube-commercials-in-a-click-techniques-for-every-browser/"><u>[Updated] Remove YouTube Commercials in a Click - Techniques for Every Browser</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/1-how-to-convert-your-ehow-videos-into-mp4-format-on-pc-and-mac-with-ehow-downloader/"><u>1. How to Convert Your eHow Videos Into MP4 Format on PC & MAC with EHow Downloader</u></a></li>
-<li><a href="https://win-able.techidaily.com/compatibility-alert-upgrade-cpu-to-run-vanguard-software-successfully/"><u>Compatibility Alert: Upgrade CPU to Run Vanguard Software Successfully</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/convert-and-download-videos-in-multiple-formats-mp4-mov-avi-etc/"><u>Convert and Download Videos in Multiple Formats (MP4, MOV, AVI, Etc.)</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/discover-the-best-5-courseware-choices-similar-to-coursera-for-enhanced-e-learning/"><u>Discover the Best 5 Courseware Choices Similar to Coursera for Enhanced E-Learning</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/download-ispe-video-collection-in-multiple-formats-mp4-avi-wmv-compatible-with-macos-and-windows/"><u>Download ISPE Video Collection in Multiple Formats (MP4, AVI, WMV) - Compatible with macOS & Windows</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/download-tennistv-matches-the-ultimate-guide-to-saving-your-favorite-tennis-games/"><u>Download Tennistv Matches: The Ultimate Guide to Saving Your Favorite Tennis Games</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/effective-techniques-for-recording-and-sharing-your-gotomeeting-webinars/"><u>Effective Techniques for Recording & Sharing Your GoToMeeting Webinars</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/efficient-techniques-for-converting-tunein-streams-into-various-audio-formats-like-mp3-aac-and-wav/"><u>Efficient Techniques for Converting TuneIn Streams Into Various Audio Formats Like MP3, AAC & WAV</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-honor-x9a-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-send-and-receive-faxes-for-free-a-list-of-7-great-tools/"><u>How To Send and Receive Faxes For Free: A List Of 7 Great Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-outdoor-gadgets-for-making-road-trip-videos-for-2024/"><u>[New] Outdoor Gadgets for Making Road-Trip Videos for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-transform-ordinary-posts-into-masterpieces-top-10-grid-makers/"><u>[New] Transform Ordinary Posts Into Masterpieces Top 10 Grid Makers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-transform-your-channels-with-any-of-the-top-11-budget-friendly-naming-solutions/"><u>[New] Transform Your Channels With Any of the Top 11 Budget-Friendly Naming Solutions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-vlogging-vs-micro-video-which-outperforms-youtubes-shorts-or-tiktoks/"><u>2024 Approved Vlogging Vs. Micro-Video Which Outperforms? YouTubes Shorts or TikToks?</u></a></li>
+<li><a href="https://facebook.techidaily.com/a-curators-guide-to-this-years-most-riveting-podcast-episodes/"><u>A Curator's Guide to This Year's Most Riveting Podcast Episodes</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/brace-yourself-how-the-latest-microsoft-patch-could-escalate-after-hours-stress-insights-from-zdnet/"><u>Brace Yourself: How the Latest Microsoft Patch Could Escalate After-Hours Stress - Insights From ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/empowering-innovation-microsofts-new-strategy-to-energize-staff-through-improved-teams-collaboration-tools/"><u>Empowering Innovation: Microsoft's New Strategy to Energize Staff Through Improved Teams Collaboration Tools</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-microsoft-struggles-with-past-mobile-blunders-even-after-a-full-ten-years-explored-by-zdnet/"><u>How Microsoft Struggles with Past Mobile Blunders Even After a Full Ten Years - Explored by ZDNet</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-harmonious-humans-cutting-out-clamor-from-your-compiled-charts-digitally/"><u>In 2024, Harmonious Humans Cutting Out Clamor From Your Compiled Charts Digitally</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-youtube-integration-a-beginners-guide-to-google-meet/"><u>In 2024, YouTube Integration A Beginner's Guide to Google Meet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/microsoft-expands-iot-offerings-as-google-withdraws-from-market-insights-by-zdnet/"><u>Microsoft Expands IoT Offerings as Google Withdraws From Market - Insights by ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/unlocking-value-on-a-budget-my-experience-with-the-affordable-surface-pro-11-insights-from-a-microsoft-guru-zdnet/"><u>Unlocking Value on a Budget: My Experience with the Affordable Surface Pro 11 - Insights From a Microsoft Guru | ZDNet</u></a></li>
 </ul></div>
 

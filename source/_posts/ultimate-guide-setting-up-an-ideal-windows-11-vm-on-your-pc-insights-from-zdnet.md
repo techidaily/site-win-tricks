@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Setting Up an Ideal Windows 11 VM on Your PC - Insights From ZDNet"
-date: 2024-09-23T01:34:57.600Z
-updated: 2024-09-27T19:20:24.048Z
+date: 2024-09-30T10:50:36.483Z
+updated: 2024-10-03T03:32:50.941Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,16 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -102,6 +89,19 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -135,13 +135,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -149,15 +142,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,24 +202,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-mastering-youtube-channel-building-essentials/"><u>[New] Mastering YouTube Channel-Building Essentials</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-erase-unwanted-boards-from-old-youtube-videos-for-clearer-viewing/"><u>[Updated] 2024 Approved Erase Unwanted Boards From Old YouTube Videos for Clearer Viewing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-financial-forecasting-in-the-world-of-youtube-snippet-creation/"><u>[Updated] 2024 Approved Financial Forecasting in the World of YouTube Snippet Creation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beat-bliss-enjoy-endless-house-music-samples-perfect-for-chill-vibes-and-social-gatherings/"><u>Beat Bliss: Enjoy Endless House Music Samples - Perfect for Chill Vibes & Social Gatherings</u></a></li>
-<li><a href="https://extra-information.techidaily.com/become-a-kinemaster-wizard-essentials-techniques-and-10-top-online-contenders/"><u>Become a KineMaster Wizard Essentials, Techniques & 10 Top Online Contenders</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/convert-and-download-your-favorite-dj-setups-from-beatport-in-various-formats-mp3-wav-flac-for-pc-or-mac/"><u>Convert and Download Your Favorite Dj Setups From Beatport in Various Formats (MP3, WAV, FLAC) for PC or MAC</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/download-full-episodes-of-tv-shows-and-films-from-viki-with-viki-video-downloader/"><u>Download Full Episodes of TV Shows & Films From Viki with Viki Video Downloader</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/download-xvideo-converter-convert-and-save-xvideos-as-mp4-free-software-for-pc-and-mac/"><u>Download XVideo Converter: Convert and Save XVideos as MP4 - Free Software for PC & Mac</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/effortless-conversion-with-3d-buzz-video-downloader-save-your-favorite-videos-as-mp4-wmv-or-avi/"><u>Effortless Conversion with 3D Buzz Video Downloader - Save Your Favorite Videos as MP4, WMV or AVI</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/effortless-video-conversion-transform-zaq1-files-into-popular-formats-like-mp4-avi-and-more-with-zaq1-downloader/"><u>Effortless Video Conversion: Transform ZAQ1 Files Into Popular Formats Like MP4, AVI & More with ZAQ1 Downloader!</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/enhancing-beauty-on-streams-via-color-grading/"><u>Enhancing Beauty on Streams via Color Grading</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/gem-online-video-grabber-seamlessly-save-streams-from-gemonlinetv/"><u>Gem Online Video Grabber: Seamlessly Save Streams From Gemonline.TV</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/get-the-latest-episodes-direct-anime-video-downloads-from-gogoanime/"><u>Get the Latest Episodes! - Direct Anime Video Downloads From Gogoanime</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-update-service-issues-comprehensive-guide/"><u>How to Fix Windows Update Service Issues: Comprehensive Guide</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-to-safely-download-and-watch-hbo-go-movies-and-shows/"><u>How to Safely Download and Watch HBO GO Movies & Shows</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-unlock-full-potential-with-iphone-hdr/"><u>In 2024, How to Unlock Full Potential with iPhone HDR</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/mytubeanywhere-universal-mac-and-windows-app-for-downloading-videos-and-tunes/"><u>MyTubeAnywhere: Universal Mac & Windows App for Downloading Videos & Tunes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-fix-laser-print-nozzle-blockage/"><u>Quick Fix: Laser Print Nozzle Blockage</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/strategies-for-working-around-gpt-cap/"><u>Strategies for Working Around GPT Cap</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-cant-miss-these-buzzing-tiktok-trials/"><u>[New] Can't Miss These Buzzing TikTok Trials</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-color-correction-app/"><u>[Updated] Best Color Correction App</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-elevating-visuals-the-shift-from-sdr-to-hdr-in-editing/"><u>2024 Approved Elevating Visuals The Shift From SDR to HDR in Editing</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-save-clips-from-ringtv-as-high-quality-files-choose-between-mp4-wmv-mov-or-avi-for-perfect-playback/"><u>How to Save Clips From RingTV as High-Quality Files: Choose Between MP4, WMV, MOV, or AVI for Perfect Playback</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-save-czechoslovak-television-videos-as-different-file-types-including-mp4-avi-flv-and-mov/"><u>How to Save CzechoSlovak Television Videos as Different File Types Including MP4, AVI, FLV, and MOV</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Vivo S18 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-6-plus-by-phone-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 6 Plus by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-nokia-c210-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Nokia C210 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/missing-webpage-alert-how-allavsoft-can-recover-lost-content-and-improve-site-navigation/"><u>Missing Webpage Alert: How Allavsoft Can Recover Lost Content & Improve Site Navigation</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/mp3-conversion-tutorial-for-punjabi-tracks-on-mac-osx-and-microsoft-windows-systems/"><u>MP3 Conversion Tutorial for Punjabi Tracks on Mac OSX & Microsoft Windows Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/multiple-approaches-to-steam-reactivation/"><u>Multiple Approaches to Steam Reactivation</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/quick-download-pro-how-to-easily-transfer-videos-from-tinypic-into-popular-file-types-such-as-mp4-mov-and-avi/"><u>Quick Download Pro: How to Easily Transfer Videos From TinyPic Into Popular File Types Such as MP4, MOV, and AVI</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/quickly-save-streaming-content-with-ripit-the-ultimate-tool-for-mac-users/"><u>Quickly Save Streaming Content with RipIt - The Ultimate Tool for Mac Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unified-connection-between-asus-webcam-and-win10/"><u>Unified Connection Between ASUS Webcam and Win10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/video-assisted-teaching-an-insightful-guidebook/"><u>Video-Assisted Teaching An Insightful Guidebook</u></a></li>
 </ul></div>
 

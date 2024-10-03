@@ -1,7 +1,7 @@
 ---
 title: "Boost Your PC's Performance: Quickly Terminate Sluggish Programs with This Hidden Windows 11 Feature - Insights From ZDNet"
-date: 2024-09-25T21:31:16.865Z
-updated: 2024-09-27T23:35:26.002Z
+date: 2024-09-29T03:43:05.976Z
+updated: 2024-10-03T04:44:10.910Z
 tags:
   - windows
 categories:
@@ -33,18 +33,18 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -55,6 +55,13 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
@@ -62,10 +69,10 @@ Double-click the icon, and a window opens with all the available settings. The c
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Search for a command
@@ -80,19 +87,6 @@ When you see the setting or command you want, simply double-click it to launch i
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Create a changeable icon for God Mode
 
 With God Mode, you can't see the icon's name or change the image. Here's another option for creating an icon with a viewable name and modifiable image.
@@ -105,10 +99,10 @@ When done, click Next.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Name the shortcut
@@ -162,18 +156,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-tricks.techidaily.com/flv-webm-movavi/"><u>FLV 파일을 WebM로 원격적으로 변환하는 편리한 Movavi 도구</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/free-online-converter-change-your-gifs-into-mp4-videos-use-movavi/"><u>Free Online Converter: Change Your GIFs Into MP4 Videos - Use Movavi</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-moto-g24-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Moto G24? </u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-realme-c53-by-fonelab-android-recover-music/"><u>How to restore wiped music on Realme C53</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-mini-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 mini To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-improve-engagement-with-skillful-use-of-jump-cuts/"><u>In 2024, Improve Engagement with Skillful Use of Jump Cuts</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-unleash-creativity-with-ezvides-tool-for-capturing-your-desktop/"><u>In 2024, Unleash Creativity with EZvide's Tool for Capturing Your Desktop</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/mov-conversion-from-tod-quick-and-easy-online-upgrade-with-movavi/"><u>MOV Conversion From TOD - Quick & Easy Online Upgrade with Movavi</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revitalize-your-touchpad-experience-with-rapid-synaptics-driver-updates-for-ps2-ports/"><u>Revitalize Your Touchpad Experience with Rapid Synaptics Driver Updates for PS/2 Ports</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/roav-dashcam-c1-by-anker-features-performance-and-benefits-unveiled/"><u>Roav DashCam C1 by Anker: Features, Performance & Benefits Unveiled</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-motorola-moto-g73-5g-by-fonelab-android-recover-data/"><u>Undelete lost data from Motorola Moto G73 5G</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/whats-new-with-psvr2-detailed-breakdown-of-features-and-expected-debut/"><u>What's New with PSVR2? Detailed Breakdown of Features & Expected Debut</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/1726226768932-jpeg-movavi/"><u>온라인 공간에서 무료 사용자 지정 JPEG 형식 바꾸기 - MOVAVI</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-assembling-an-eye-catching-movie-miniature/"><u>[Updated] In 2024, Assembling an Eye-Catching Movie Miniature</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-top-picks-for-novice-gopro-enthusiasts/"><u>[Updated] Top Picks for Novice GoPro Enthusiasts</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1-effective-strategies-for-transforming-wmv-files-into-mp4-format/"><u>1. Effective Strategies for Transforming WMV Files Into MP4 Format</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1-top-substitutes-to-pandora-enhanced-options-for-online-radio-listeners/"><u>1. Top Substitutes to Pandora: Enhanced Options for Online Radio Listeners</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/adding-dates-and-times-in-rtf-and-txt-files-during-flipbook-conversion-flipbuilder-guide/"><u>Adding Dates & Times in RTF and TXT Files During FlipBook Conversion - FlipBuilder Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-motorola-moto-g-stylus-2023-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Motorola Moto G Stylus (2023) Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effektive-strategien-zur-ubertragung-von-dvds-auf-usb-im-jahr-2024-die-fuhrenden-6-methoden/"><u>Effektive Strategien Zur Übertragung Von DVDs Auf USB Im Jahr 2024 - Die Führenden 6 Methoden</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fast-and-furious-yet-flawed-a-deep-dive-into-the-oneplus-8ts-mixed-camera-talent/"><u>Fast & Furious, Yet Flawed? A Deep Dive Into the OnePlus 8T's Mixed Camera Talent</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-best-lenovo-frp-bypass-guide-by-drfone-android/"><u>In 2024, Best Lenovo FRP Bypass Guide</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/step-by-step-strategies-for-excelling-at-deep-clean-inc-3d-on-windows-and-mac-pcs/"><u>Step-by-Step Strategies for Excelling at Deep Clean Inc. 3D on Windows and Mac PCs</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/step-by-step-tutorial-how-to-seamlessly-install-ios-8-on-apple-devices/"><u>Step-by-Step Tutorial: How to Seamlessly Install iOS 8 on Apple Devices</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/the-ultimate-guide-top-notch-alternatives-to-audacity-that-boost-your-recording-game/"><u>The Ultimate Guide: Top-Notch Alternatives to Audacity That Boost Your Recording Game</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/top-methods-for-capturing-your-screen-on-windows-11-not-just-with-game-bar/"><u>Top Methods for Capturing Your Screen on Windows 11, Not Just with Game Bar</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-and-easy-video-looping-top-10-online-tools/"><u>Updated Free and Easy Video Looping Top 10 Online Tools</u></a></li>
 </ul></div>
 

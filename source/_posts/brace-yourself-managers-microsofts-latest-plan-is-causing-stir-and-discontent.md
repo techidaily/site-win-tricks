@@ -1,7 +1,7 @@
 ---
 title: "Brace Yourself, Managers: Microsoft’s Latest Plan Is Causing Stir and Discontent"
-date: 2024-09-23T04:34:24.135Z
-updated: 2024-09-27T23:15:51.631Z
+date: 2024-10-01T21:18:52.127Z
+updated: 2024-10-02T20:47:05.073Z
 tags:
   - microsoft
 categories:
@@ -114,31 +114,31 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-top-terranomes-uncovering-treasure-in-virtual-landscapes/"><u>[New] Top Terranomes Uncovering Treasure in Virtual Landscapes</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-crafting-full-sphere-videos-on-iphone-ideal-for-facebook/"><u>[Updated] Crafting Full-Sphere Videos on iPhone, Ideal for Facebook</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-cutting-out-background-sounds-freepaid-options-for-clear-videos/"><u>2024 Approved Cutting Out Background Sounds - Free/Paid Options for Clear Videos</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/boost-your-pcs-performance-quickly-terminate-sluggish-programs-with-this-hidden-windows-11-feature-insights-from-zdnet/"><u>Boost Your PC's Performance: Quickly Terminate Sluggish Programs with This Hidden Windows 11 Feature - Insights From ZDNet</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/bridging-the-gap-in-file-exchange-mastering-the-art-of-sending-files-between-windows-and-android-with-googles-quick-share-feature-tech-tips-by-zdnet/"><u>Bridging the Gap in File Exchange: Mastering the Art of Sending Files Between Windows and Android with Google's Quick Share Feature | Tech Tips by ZDNET</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/discovering-latest-fb-watches-a-step-by-step-guide/"><u>Discovering Latest FB Watches A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722972922297-get-the-latest-brother-mfc-7360n-drivers-and-easy-compatibility-with-windows-1087/"><u>Get the Latest Brother MFC-7360N Drivers & Easy Compatibility with Windows 10/8/7</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-hardware-errors-and-stop-machine-check-bluescreens-in-windows-11/"><u>How to Resolve Hardware Errors and Stop Machine Check Bluescreens in Windows 11</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-cropping-like-a-pro-advanced-techniques-for-avidemux-users/"><u>New Cropping Like a Pro Advanced Techniques for Avidemux Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-gaming-nightmare-discover-these-9-fixes-for-continuous-crashing-in-ark-scorched-earth/"><u>PC Gaming Nightmare? Discover These 9 Fixes for Continuous Crashing in ARK: Scorched Earth</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/top-rated-mini-computers-the-ultimate-list-by-tech-experts-insights-from-zdnet/"><u>Top-Rated Mini Computers : The Ultimate List by Tech Experts - Insights From ZDNet</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/unlocking-advanced-control-a-step-by-step-guide-to-activating-god-mode-on-windows-11-discover-the-benefits/"><u>Unlocking Advanced Control: A Step-by-Step Guide to Activating God Mode on Windows 11 - Discover the Benefits!</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/upgrading-avoided-smart-alternatives-to-windows-11-you-should-know-about/"><u>Upgrading Avoided: Smart Alternatives to Windows 11 You Should Know About</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/urgent-alert-windows-11-versions-21h2-and-22h2-hit-eol-upgrade-immediately-to-avoid-risks-zdnet/"><u>Urgent Alert: Windows 11 Versions 21H2 & 22H2 Hit EOL - Upgrade Immediately to Avoid Risks! [ZDNet]</u></a></li>
-<li><a href="https://techtrends.techidaily.com/voice-assisted-living-showdown-can-alexa-outperform-google-assistant/"><u>Voice-Assisted Living Showdown: Can Alexa Outperform Google Assistant?</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/why-winamp-wont-become-open-source-unveiling-its-new-direction-and-motivations/"><u>Why Winamp Won't Become Open Source: Unveiling Its New Direction & Motivations</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/windows-11-23h2-update-unveiled-surprisingly-charming-for-users-tech-zdnet/"><u>Windows 11 23H2 Update Unveiled - Surprisingly Charming for Users | Tech-ZDNet</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/windows-copilot-goes-solo-discover-how-microsofts-latest-app-revolutionizes-user-experience-digitaldaily/"><u>Windows Copilot Goes Solo! Discover How Microsoft’s Latest App Revolutionizes User Experience | DigitalDaily</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-unlock-device-agnostic-techniques-for-professional-filming/"><u>[Updated] 2024 Approved Unlock Device-Agnostic Techniques for Professional Filming</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-innovative-home-designs-for-modern-minecraft-world/"><u>2024 Approved Innovative Home Designs for Modern Minecraft World</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1726220690734-dpx-movavi/"><u>簡便線上DPX免費轉檔服務 - Movavi</u></a></li>
+<li><a href="https://fox-links.techidaily.com/complete-guide-to-ios-snapshots-and-more/"><u>Complete Guide to iOS Snapshots and More</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/convertir-des-gif-vers-des-fichiers-swf-gratuitement-avec-la-solution-web-de-movavi-guide-detaille/"><u>Convertir Des GIF Vers Des Fichiers SWF Gratuitement Avec La Solution Web De Movavi - Guide Détaillé</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Vivo Y100? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-on-maintaining-excellent-quality-during-video-encoding-with-handbrake/"><u>Expert Tips on Maintaining Excellent Quality During Video Encoding with Handbrake</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/flv-webm-movavi/"><u>FLV 파일을 WebM로 원격적으로 변환하는 편리한 Movavi 도구</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/free-online-converter-change-your-gifs-into-mp4-videos-use-movavi/"><u>Free Online Converter: Change Your GIFs Into MP4 Videos - Use Movavi</u></a></li>
+<li><a href="https://fox-links.techidaily.com/harmonizing-music-posting-with-legal-standards-for-2024/"><u>Harmonizing Music Posting with Legal Standards for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-12-pro-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 12 Pro to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/mov-conversion-from-tod-quick-and-easy-online-upgrade-with-movavi/"><u>MOV Conversion From TOD - Quick & Easy Online Upgrade with Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/nba-2k23-for-pc-users-discover-7-reliable-methods-to-stop-game-crashes/"><u>NBA 2K23 for PC Users: Discover 7 Reliable Methods to Stop Game Crashes</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/profille-movavi-video-konverter-guaranteed-secure-purchase-og-rabatte/"><u>Profille Movavi Video Konverter - Guaranteed Secure Purchase Og Rabatte</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/the-ultimate-tutorial-on-transferring-data-from-your-oppo-device-to-laptop-or-desktop/"><u>The Ultimate Tutorial on Transferring Data From Your Oppo Device to Laptop or Desktop</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-gionee-by-drfone-android/"><u>Three Ways to Sim Unlock Gionee</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/transform-audio-convert-asf-to-wav-streamingly-no-costs-involved-movavi/"><u>Transform Audio: Convert ASF to WAV Streamingly, No Costs Involved - Movavi</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1726226768932-jpeg-movavi/"><u>온라인 공간에서 무료 사용자 지정 JPEG 형식 바꾸기 - MOVAVI</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

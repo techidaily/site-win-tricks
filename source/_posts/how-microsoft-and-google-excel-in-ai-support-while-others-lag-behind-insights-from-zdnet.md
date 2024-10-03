@@ -1,7 +1,7 @@
 ---
 title: "How Microsoft & Google Excel in AI Support, While Others Lag Behind: Insights From ZDNet"
-date: 2024-09-27T02:01:01.804Z
-updated: 2024-09-28T04:13:27.538Z
+date: 2024-10-01T07:14:31.618Z
+updated: 2024-10-03T02:21:40.549Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,20 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-how-to-download-install-and-use-obs-on-mac/"><u>[Updated] In 2024, How to Download, Install and Use OBS on Mac</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-premier-ringtone-makers-for-iphone-users/"><u>[Updated] Premier Ringtone Makers for iPhone Users</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-understanding-the-invisible-aspects-of-stories/"><u>[Updated] Understanding the Invisible Aspects of Stories</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/best-replacement-software-for-jdownloader-on-macwindows-free-trial-available/"><u>Best Replacement Software for JDownloader on MAC/WINDOWS - Free Trial Available</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>How to identify malfunctioning drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-to-update-your-flipbook-title-and-font-in-windows-using-flipbuilder-a-comprehensive-guide/"><u>How to Update Your FlipBook Title & Font in Windows Using FlipBuilder - A Comprehensive Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-gionee-f3-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Gionee F3 Pro Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/love-tunes-trove-a-top-10-list-for-heartfelt-proposals/"><u>Love Tunes Trove A Top 10 List for Heartfelt Proposals</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/mastering-image-editing-boosting-contrast-levels-in-flip-image-expert-software/"><u>Mastering Image Editing: Boosting Contrast Levels in Flip Image Expert Software</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-how-to-edit-videos-shot-by-sony-digital-camcorder/"><u>New In 2024, How to Edit Videos Shot by Sony Digital Camcorder</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/online-accessibility-of-helping-resources-enhancing-user-engagement-with-flipbuilder-technology/"><u>Online Accessibility of Helping Resources: Enhancing User Engagement with FlipBuilder Technology</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/perfect-balance-in-flipping-books-adjusting-width-to-height-ratios-with-ease-on-flipbuilder/"><u>Perfect Balance in Flipping Books: Adjusting Width-to-Height Ratios with Ease on FlipBuilder</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/simple-and-powerful-document-conversion-for-mac-users-discover-flipdoc-by-flipbuilder-mac-compatible-ebook-tools/"><u>Simple and Powerful Document Conversion for Mac Users - Discover FlipDOC by FlipBuilder [Mac-Compatible eBook Tools]</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/step-by-step-guide-to-adding-helpful-annotations-in-flipbuilder-ebooks/"><u>Step-by-Step Guide to Adding Helpful Annotations in FlipBuilder Ebooks</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-tecno-pova-5-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Tecno Pova 5 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-harness-the-power-of-mematic-for-notes-for-2024/"><u>[Updated] Harness the Power of Mematic for Notes for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-inexpensive-pcs-optimized-video-settings-guide/"><u>[Updated] Inexpensive PCs Optimized Video Settings Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-navigating-mobile-meetings-using-googles-facetime-feature/"><u>[Updated] Navigating Mobile Meetings Using Google's Facetime Feature</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-x90s-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/clear-screens-crystal-vision-tips-for-blurry-social-media-content/"><u>Clear Screens, Crystal Vision Tips for Blurry Social Media Content</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/discover-the-best-5-courseware-choices-similar-to-coursera-for-enhanced-e-learning/"><u>Discover the Best 5 Courseware Choices Similar to Coursera for Enhanced E-Learning</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/download-ispe-video-collection-in-multiple-formats-mp4-avi-wmv-compatible-with-macos-and-windows/"><u>Download ISPE Video Collection in Multiple Formats (MP4, AVI, WMV) - Compatible with macOS & Windows</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/download-tennistv-matches-the-ultimate-guide-to-saving-your-favorite-tennis-games/"><u>Download Tennistv Matches: The Ultimate Guide to Saving Your Favorite Tennis Games</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/effective-techniques-for-recording-and-sharing-your-gotomeeting-webinars/"><u>Effective Techniques for Recording & Sharing Your GoToMeeting Webinars</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/efficient-techniques-for-converting-tunein-streams-into-various-audio-formats-like-mp3-aac-and-wav/"><u>Efficient Techniques for Converting TuneIn Streams Into Various Audio Formats Like MP3, AAC & WAV</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/expert-tips-for-accessing-archived-video-content-showcasing-elite-baseball-star-slide-balls-at-their-peak-performance/"><u>Expert Tips for Accessing Archived Video Content Showcasing Elite Baseball Star Slide Balls at Their Peak Performance</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/free-video-downloads-from-123moviesto-convert-and-save-in-mp4avi-formats/"><u>Free Video Downloads From 123movies.to: Convert & Save in MP4/AVI Formats</u></a></li>
+<li><a href="https://extra-information.techidaily.com/funflicks-full-evaluation-and-instructions-24/"><u>FunFlicks Full Evaluation & Instructions '24</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/get-official-anime-series-in-mp4-format-direct-downloads-from-trusted-websites/"><u>Get Official Anime Series in MP4 Format: Direct Downloads From Trusted Websites</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-retrieve-and-save-learnerorg-vod-lessons-for-offline-viewing/"><u>How to Retrieve and Save Learner.org VoD Lessons for Offline Viewing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsungs-trailblazing-gadget-the-galaxy-z-flip-6-insights-on-price-release-timeline-and-feature-breakdown/"><u>Samsung's Trailblazing Gadget - The Galaxy Z Flip 6: Insights on Price, Release Timeline & Feature Breakdown</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sleek-skill-using-watch-to-unlock-mac/"><u>Sleek Skill Using Watch to Unlock Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-wintoys-a-short-guide-to-a-powerful-windows-tool/"><u>What Is Wintoys? A Short Guide to a Powerful Windows Tool</u></a></li>
 </ul></div>
 

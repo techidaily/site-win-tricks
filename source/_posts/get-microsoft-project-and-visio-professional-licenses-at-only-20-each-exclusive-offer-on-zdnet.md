@@ -1,7 +1,7 @@
 ---
 title: Get Microsoft Project and Visio Professional Licenses at Only $20 Each - Exclusive Offer on ZDNet!
-date: 2024-09-20T16:49:05.902Z
-updated: 2024-09-27T19:02:59.458Z
+date: 2024-09-28T01:26:04.426Z
+updated: 2024-10-03T05:57:23.691Z
 tags:
   - microsoft
 categories:
@@ -114,31 +114,25 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-add-video-to-text-for-free-for-2024/"><u>[Updated] How to Add Video to Text for Free for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-insights-into-instagram-follower-exits/"><u>[Updated] In 2024, Insights Into Instagram Follower Exits</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-leveraging-windows-11-features-for-top-notch-gaming-capture/"><u>[Updated] In 2024, Leveraging Windows 11 Features for Top-Notch Gaming Capture</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-ultimate-guide-to-ios-auditory-pleasures/"><u>[Updated] The Ultimate Guide to iOS Auditory Pleasures</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-humor-in-pixels-kapwings-meme-crafting-app/"><u>2024 Approved Humor in Pixels Kapwing’s Meme Crafting App</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-radial-blur-made-easy-pro-techniques-in-adobe-ps/"><u>2024 Approved Radial Blur Made Easy Pro Techniques in Adobe PS</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-samsung-galaxy-z-fold-5-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Samsung Galaxy Z Fold 5 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/effortless-video-conversion-transform-zaq1-files-into-popular-formats-like-mp4-avi-and-more-with-zaq1-downloader/"><u>Effortless Video Conversion: Transform ZAQ1 Files Into Popular Formats Like MP4, AVI & More with ZAQ1 Downloader!</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/gem-online-video-grabber-seamlessly-save-streams-from-gemonlinetv/"><u>Gem Online Video Grabber: Seamlessly Save Streams From Gemonline.TV</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/get-the-latest-episodes-direct-anime-video-downloads-from-gogoanime/"><u>Get the Latest Episodes! - Direct Anime Video Downloads From Gogoanime</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-to-safely-download-and-watch-hbo-go-movies-and-shows/"><u>How to Safely Download and Watch HBO GO Movies & Shows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-s23-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Itel S23 Phone without PIN</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-4-ways-to-trace-apple-iphone-14-pro-max-location-drfone-by-drfone-virtual-ios/"><u>Top 4 Ways to Trace Apple iPhone 14 Pro Max Location | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-expert-guide-to-creating-compact-engaging-youtube-content/"><u>[Updated] In 2024, Expert Guide to Creating Compact, Engaging YouTube Content</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/activate-bing-chats-new-dark-mode-feature-a-step-by-step-guide/"><u>Activate Bing Chat's New Dark Mode Feature – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/ai-breakthroughs-by-tech-giants-microsoft-and-google-lead-the-way-as-smaller-companies-struggle-exclusive-analysis-on-zdnet/"><u>AI Breakthroughs by Tech Giants: Microsoft and Google Lead the Way as Smaller Companies Struggle | Exclusive Analysis on ZDNET</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/brace-yourself-managers-microsofts-latest-plan-is-causing-stir-and-discontent/"><u>Brace Yourself, Managers: Microsoft’s Latest Plan Is Causing Stir and Discontent</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/crafting-your-instagram-business-blueprint/"><u>Crafting Your Instagram Business Blueprint</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/discover-microsofts-solution-attracting-top-tier-software-engineers-with-maximum-efficiency-insights-from-zdnet/"><u>Discover Microsoft's Solution: Attracting Top-Tier Software Engineers with Maximum Efficiency - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-effortlessly-create-a-heart-emoji-using-your-keyboard-shortcuts/"><u>How to Effortlessly Create a Heart Emoji Using Your Keyboard Shortcuts</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-stop-motion-on-instagram-like-a-pro-a-beginners-guide/"><u>New 2024 Approved Stop Motion on Instagram Like a Pro A Beginners Guide</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/protecting-your-microsoft-account-from-hackers-with-proven-tips-by-zdnet-experts/"><u>Protecting Your Microsoft Account From Hackers with Proven Tips by ZDNet Experts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/quick-fix-mac-compatible-youtube-video-resize-for-2024/"><u>Quick Fix Mac-Compatible YouTube Video Resize for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/rebuilding-your-keyboard-layout-with-microsoft-powertoys-a-step-by-step-guide-by-zdnet/"><u>Rebuilding Your Keyboard Layout with Microsoft PowerToys: A Step-by-Step Guide by ZDNet</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/step-by-step-strategies-for-sizzling-tiktok-videos-via-mac-editing-for-2024/"><u>Step-by-Step Strategies for Sizzling TikTok Videos via Mac Editing for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-software-guide-for-tempo-alteration/"><u>Ultimate Software Guide for Tempo Alteration</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

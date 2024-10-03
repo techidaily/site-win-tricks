@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Tech with Microsoft's New Approach to Cloud Services & Devices – A Deep Dive by ZDNet
-date: 2024-09-23T00:33:41.616Z
-updated: 2024-09-27T19:04:20.821Z
+date: 2024-09-27T04:24:30.949Z
+updated: 2024-10-03T01:50:31.954Z
 tags:
   - windows
 categories:
@@ -34,16 +34,10 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Create a new folder
@@ -61,13 +55,6 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
@@ -75,10 +62,10 @@ Double-click the icon, and a window opens with all the available settings. The c
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Search for a command
@@ -93,13 +80,6 @@ When you see the setting or command you want, simply double-click it to launch i
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Create a changeable icon for God Mode
 
 With God Mode, you can't see the icon's name or change the image. Here's another option for creating an icon with a viewable name and modifiable image.
@@ -110,6 +90,19 @@ At the window for New, choose the option for shortcut instead of folder. In the 
 When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Name the shortcut
 
@@ -122,6 +115,13 @@ Screenshot by Lance Whitney/ZDNET
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -162,20 +162,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-capturing-live-discussions-iphoneandroids-screen-recording/"><u>[New] Capturing Live Discussions IPhone/Android's Screen Recording</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-does-image-smoothing-streamline-the-creative-process-in-2024/"><u>[New] Does Image Smoothing Streamline the Creative Process, In 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-maximizing-your-videos-impact-with-expertly-recorded-voices-for-2024/"><u>[New] Maximizing Your Video's Impact with Expertly Recorded Voices for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-strategies-for-bulk-character-illusions-in-tiktok-content-for-2024/"><u>[New] Strategies for Bulk Character Illusions in TikTok Content for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-brief-snippet-analysis-for-beginners/"><u>2024 Approved Brief Snippet Analysis for Beginners</u></a></li>
-<li><a href="https://blog-min.techidaily.com/itunesiphoneipad/"><u>全功能媒體轉移：簡易取代 iTunes，升級電腦上iPhone/iPad管理</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/apple-iphone-13-pro-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone 13 Pro Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/diy-timeless-flip-books-made-easy-using-flipbuilders-user-friendly-platform/"><u>DIY Timeless Flip Books Made Easy Using FlipBuilder's User-Friendly Platform</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/easily-generate-your-flipbooks-table-of-contents-with-flipbuildercom-start-now/"><u>Easily Generate Your Flipbook's Table of Contents with FlipBuilder.com - Start Now!</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/easy-steps-adding-a-customizable-flipbook-to-your-wordpress-with-flipbuilder-technology/"><u>Easy Steps: Adding a Customizable FlipBook to Your WordPress with FlipBuilder Technology</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/fast-and-easy-conversion-from-pdf-to-epub-for-bulk-documents-try-now-at-no-cost-on-flipbuilder/"><u>Fast & Easy Conversion From PDF to ePub for Bulk Documents - Try Now at No Cost on FlipBuilder</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-can-i-personalize-flipbuttons-help-feature-on-my-website/"><u>How Can I Personalize FlipButton's Help Feature on My Website?</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-to-activate-magnification-features-in-flipbooks-on-flipbuildercom/"><u>How to Activate Magnification Features in Flipbooks on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-download-and-change-your-youtube-video-into-mov-file-a-complete-tutorial-for-pcs-and-macbooks/"><u>How to Download and Change Your YouTube Video Into MOV File: A Complete Tutorial for PCs and MacBooks</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-oppo-find-x7-ultra-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-voice-customization-made-easy/"><u>[New] Instagram Voice Customization Made Easy</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-expert-secrets-to-exceptional-tiktok-videos-for-2024/"><u>[Updated] Expert Secrets to Exceptional TikTok Videos for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-free-camera-apps-for-high-quality-slo-mo-photos/"><u>2024 Approved Leading Free Camera Apps for High-Quality Slo-Mo Photos</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/activate-bing-chats-new-dark-mode-feature-a-step-by-step-guide/"><u>Activate Bing Chat's New Dark Mode Feature – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/ai-breakthroughs-by-tech-giants-microsoft-and-google-lead-the-way-as-smaller-companies-struggle-exclusive-analysis-on-zdnet/"><u>AI Breakthroughs by Tech Giants: Microsoft and Google Lead the Way as Smaller Companies Struggle | Exclusive Analysis on ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-ai-concoct-great-drinks-investigating-chatgpts-mixology-skills/"><u>Can AI Concoct Great Drinks? Investigating ChatGPT's Mixology Skills</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/comprehensive-techniques-pc-and-mobile-recording-meets-for-2024/"><u>Comprehensive Techniques PC & Mobile Recording Meets for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-tips-and-tricks-how-to-create-screenshots-in-windows-11/"><u>Easy Tips & Tricks: How to Create Screenshots in Windows 11</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/empowering-innovation-microsofts-new-strategy-to-energize-staff-through-improved-teams-collaboration-tools/"><u>Empowering Innovation: Microsoft's New Strategy to Energize Staff Through Improved Teams Collaboration Tools</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/future-proof-your-workflow-office-2016-and-201-the-last-update-for-microsofts-backend-services-read-more-on-zdnet/"><u>Future-Proof Your Workflow: Office 2016 and 201 The Last Update for Microsoft's Backend Services - Read More on ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-microsoft-and-google-excel-in-ai-support-while-others-lag-behind-insights-from-zdnet/"><u>How Microsoft & Google Excel in AI Support, While Others Lag Behind: Insights From ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-microsoft-struggles-with-past-mobile-blunders-even-after-a-full-ten-years-explored-by-zdnet/"><u>How Microsoft Struggles with Past Mobile Blunders Even After a Full Ten Years - Explored by ZDNet</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-asus-rog-phone-7-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Asus ROG Phone 7</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/microsoft-expands-iot-offerings-as-google-withdraws-from-market-insights-by-zdnet/"><u>Microsoft Expands IoT Offerings as Google Withdraws From Market - Insights by ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/pro-gamers-guide-to-seamless-minecraft-gameplay-on-pc-beat-stuttering-issues/"><u>Pro Gamer's Guide to Seamless Minecraft Gameplay on PC: Beat Stuttering Issues</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/ultimate-guide-setting-up-an-ideal-windows-11-vm-on-your-pc-insights-from-zdnet/"><u>Ultimate Guide: Setting Up an Ideal Windows 11 VM on Your PC - Insights From ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/unlocking-value-on-a-budget-my-experience-with-the-affordable-surface-pro-11-insights-from-a-microsoft-guru-zdnet/"><u>Unlocking Value on a Budget: My Experience with the Affordable Surface Pro 11 - Insights From a Microsoft Guru | ZDNet</u></a></li>
 </ul></div>
 

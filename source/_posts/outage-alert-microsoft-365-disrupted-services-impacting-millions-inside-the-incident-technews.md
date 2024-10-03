@@ -1,7 +1,7 @@
 ---
 title: "Outage Alert: Microsoft 365 Disrupted Services Impacting Millions – Inside the Incident | TechNews"
-date: 2024-09-22T20:57:12.110Z
-updated: 2024-09-27T16:09:02.493Z
+date: 2024-10-01T16:24:11.056Z
+updated: 2024-10-03T09:22:04.064Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -84,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -122,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-captureone-expert-tutorial-series-for-2024/"><u>[New] CaptureOne Expert Tutorial Series for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-lighted-paths-guiding-viewers-with-intelligent-illumination/"><u>[New] Lighted Paths Guiding Viewers with Intelligent Illumination</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-start-live-webcam-recording-with-vlc-media-for-2024/"><u>[New] Start Live Webcam Recording with VLC Media for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-glitch-overcome-now-gpus-perform-optimally/"><u>Direct3D Glitch Overcome: Now GPUs Perform Optimally</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-honor-100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Samsung Galaxy S23+? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-tecno-pop-7-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Tecno Pop 7 Pro Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-pioneering-technologies-vr-applications/"><u>In 2024, Pioneering Technologies VR Applications</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/microsoft-responds-with-significant-privacy-and-security-overhaul-following-harsh-reviews-a-deep-dive-zdnet/"><u>Microsoft Responds with Significant Privacy & Security Overhaul Following Harsh Reviews: A Deep Dive - ZDNet</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/navigating-the-relationship-of-openai-and-microsoft-allies-in-innovation-or-rival-tech-titans/"><u>Navigating the Relationship of OpenAI & Microsoft: Allies in Innovation or Rival Tech Titans?</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/sam-altman-discusses-future-of-artificial-intelligence-at-microsofts-build-conference-insights-from-tech-leader/"><u>Sam Altman Discusses Future of Artificial Intelligence at Microsoft's Build Conference - Insights From Tech Leader</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/surface-duo-2-with-official-pen-and-wireless-charger-case-review-enhanced-safety-meets-convenience/"><u>Surface Duo 2 with Official Pen & Wireless Charger Case Review: Enhanced Safety Meets Convenience</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/top-7-ergonomic-standing-desks-of-2023-a-comprehensive-review-techradar/"><u>Top 7 Ergonomic Standing Desks of 2023: A Comprehensive Review | TechRadar</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/unboxing-and-testing-a-comprehensive-review-of-the-feature-rich-mavix-m9-the-epitome-of-ergonomic-gaming-seating-zdnet/"><u>Unboxing and Testing: A Comprehensive Review of the Feature-Rich Mavix M9 - The Epitome of Ergonomic Gaming Seating | ZDNET</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/upcoming-fees-microsoft-announces-paid-windows-11-update-subscriptions-starting-next-year-details-inside/"><u>Upcoming Fees: Microsoft Announces Paid Windows 11 Update Subscriptions Starting Next Year - Details Inside</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-innovative-tips-producing-instagram-ready-loop-videos/"><u>[New] Innovative Tips Producing Instagram-Ready Loop Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-spotting-sham-followers-on-business-pages/"><u>[Updated] In 2024, Spotting Sham Followers on Business Pages</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1-effective-strategies-for-transforming-wmv-files-into-mp4-format/"><u>1. Effective Strategies for Transforming WMV Files Into MP4 Format</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1-top-substitutes-to-pandora-enhanced-options-for-online-radio-listeners/"><u>1. Top Substitutes to Pandora: Enhanced Options for Online Radio Listeners</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-buffer-strategies-to-resolve-lag-issues-in-forza-horizon-5/"><u>Beat the Buffer: Strategies to Resolve Lag Issues in Forza Horizon 5</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/cutting-edge-cinema-at-your-fingertips-the-windows-hdr-experience/"><u>Cutting Edge Cinema at Your Fingertips The Windows HDR Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-free-video-intros-for-professionals-and-amateurs/"><u>In 2024, Free Video Intros for Professionals & Amateurs</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-mac-video-editing-install-lumafusion-or-try-these-other-options-for-2024/"><u>New Mac Video Editing Install Lumafusion or Try These Other Options for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-video-driver-problem-43/"><u>Overcoming Video Driver Problem #43</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/step-by-step-strategies-for-excelling-at-deep-clean-inc-3d-on-windows-and-mac-pcs/"><u>Step-by-Step Strategies for Excelling at Deep Clean Inc. 3D on Windows and Mac PCs</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/step-by-step-tutorial-how-to-seamlessly-install-ios-8-on-apple-devices/"><u>Step-by-Step Tutorial: How to Seamlessly Install iOS 8 on Apple Devices</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/the-ultimate-guide-top-notch-alternatives-to-audacity-that-boost-your-recording-game/"><u>The Ultimate Guide: Top-Notch Alternatives to Audacity That Boost Your Recording Game</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/understanding-the-basics-a-comprehensive-guide-to-gif-images/"><u>Understanding the Basics: A Comprehensive Guide to GIF Images</u></a></li>
 </ul></div>
 

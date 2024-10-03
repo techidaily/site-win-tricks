@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Ambitious Plan: Equipping 2.5 Million ASEAN Individuals with Essential AI Proficiency - Insights From ZDNet"
-date: 2024-09-23T00:19:47.243Z
-updated: 2024-09-27T19:57:04.190Z
+date: 2024-09-28T07:13:06.943Z
+updated: 2024-10-03T03:36:04.970Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,22 +142,21 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,22 +202,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-skyrocket-to-success-mastering-seo-for-youtubers-and-beyond/"><u>[New] Skyrocket to Success Mastering SEO for YouTubers and Beyond</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-earning-potential-unlocked-profitable-strategies-for-youtube-on-fb/"><u>[Updated] 2024 Approved Earning Potential Unlocked Profitable Strategies for YouTube on FB</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-apple-iphone-xs-max-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from Apple iPhone XS Max or iPad?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-realme-v30-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Realme V30 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-to-save-clips-from-ringtv-as-high-quality-files-choose-between-mp4-wmv-mov-or-avi-for-perfect-playback/"><u>How to Save Clips From RingTV as High-Quality Files: Choose Between MP4, WMV, MOV, or AVI for Perfect Playback</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-to-save-czechoslovak-television-videos-as-different-file-types-including-mp4-avi-flv-and-mov/"><u>How to Save CzechoSlovak Television Videos as Different File Types Including MP4, AVI, FLV, and MOV</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y55s-5g-2023-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y55s 5G (2023) to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/immersive-tech-the-best-vr-gadgets-rated-for-2024/"><u>Immersive Tech The Best VR Gadgets Rated for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-honor-80-pro-straight-screen-edition-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Honor 80 Pro Straight Screen Edition Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/missing-webpage-alert-how-allavsoft-can-recover-lost-content-and-improve-site-navigation/"><u>Missing Webpage Alert: How Allavsoft Can Recover Lost Content & Improve Site Navigation</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/mp3-conversion-tutorial-for-punjabi-tracks-on-mac-osx-and-microsoft-windows-systems/"><u>MP3 Conversion Tutorial for Punjabi Tracks on Mac OSX & Microsoft Windows Systems</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/quick-download-pro-how-to-easily-transfer-videos-from-tinypic-into-popular-file-types-such-as-mp4-mov-and-avi/"><u>Quick Download Pro: How to Easily Transfer Videos From TinyPic Into Popular File Types Such as MP4, MOV, and AVI</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/quickly-save-streaming-content-with-ripit-the-ultimate-tool-for-mac-users/"><u>Quickly Save Streaming Content with RipIt - The Ultimate Tool for Mac Users</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/step-by-step-tutorial-save-brazilian-mediathek-streams-as-mp4-files-on-desktopslaptops/"><u>Step-by-Step Tutorial: Save Brazilian Mediathek Streams as MP4 Files on Desktops/Laptops</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/stream-and-save-securely-download-tv-series-and-films-using-watch-episodestvs-reliable-downloader-tool/"><u>Stream and Save - Securely Download TV Series & Films Using Watch-Episodes.TV's Reliable Downloader Tool</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/ultimate-winxdvd-mastery-step-by-step-installation-and-usage-tutorial/"><u>Ultimate WinXDVD Mastery: Step-by-Step Installation & Usage Tutorial</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-starting-up-in-periscope-tips-to-launch-your-wealth-journey/"><u>[New] In 2024, Starting Up in Periscope Tips to Launch Your Wealth Journey</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-transform-insta-videos-into-mp4-format-expert-methods-revealed/"><u>[New] In 2024, Transform Insta Videos Into MP4 Format Expert Methods Revealed</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-ultimate-guide-to-youtubes-best-music-responses-for-2024/"><u>[New] The Ultimate Guide to YouTube's Best Music Responses for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-5-inspiring-book-tt-showcases/"><u>[Updated] Top 5 Inspiring Book TT Showcases</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-how-to-live-stream-over-the-network-with-vlc-media-player/"><u>2024 Approved How to Live Stream Over the Network with VLC Media Player</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-leveraging-interactivity-elevate-your-online-stream-presence/"><u>2024 Approved Leveraging Interactivity Elevate Your Online Stream Presence</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/effective-strategies-for-using-file-history-to-securely-backup-data-on-windows-10-and-11-insights-from-zdnet/"><u>Effective Strategies for Using File History to Securely Backup Data on Windows 10 & 11 - Insights From ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/exploring-the-microsoft-surface-duo-2-a-first-impression-after-two-weeks-insights-and-confusion-zdnet/"><u>Exploring the Microsoft Surface Duo 2: A First Impression After Two Weeks - Insights & Confusion | ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-comprehensive-list-selecting-best-free-srt-translators/"><u>In 2024, A Comprehensive List Selecting Best FREE SRT Translators</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-blueprint-for-stellar-unboxing-videos-on-tiktok/"><u>In 2024, The Blueprint for Stellar Unboxing Videos on TikTok</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/mastering-excel-formula-creation-with-chatgpt-tips-and-techniques/"><u>Mastering Excel Formula Creation with ChatGPT - Tips & Techniques</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/microsoft-responds-with-significant-privacy-and-security-overhaul-following-harsh-reviews-a-deep-dive-zdnet/"><u>Microsoft Responds with Significant Privacy & Security Overhaul Following Harsh Reviews: A Deep Dive - ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/navigating-the-relationship-of-openai-and-microsoft-allies-in-innovation-or-rival-tech-titans/"><u>Navigating the Relationship of OpenAI & Microsoft: Allies in Innovation or Rival Tech Titans?</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/sam-altman-discusses-future-of-artificial-intelligence-at-microsofts-build-conference-insights-from-tech-leader/"><u>Sam Altman Discusses Future of Artificial Intelligence at Microsoft's Build Conference - Insights From Tech Leader</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/upcoming-fees-microsoft-announces-paid-windows-11-update-subscriptions-starting-next-year-details-inside/"><u>Upcoming Fees: Microsoft Announces Paid Windows 11 Update Subscriptions Starting Next Year - Details Inside</u></a></li>
 </ul></div>
 
