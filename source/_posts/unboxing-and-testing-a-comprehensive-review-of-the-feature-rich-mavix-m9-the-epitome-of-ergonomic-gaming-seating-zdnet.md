@@ -1,7 +1,7 @@
 ---
 title: "Unboxing and Testing: A Comprehensive Review of the Feature-Rich Mavix M9 - The Epitome of Ergonomic Gaming Seating | ZDNET"
-date: 2024-10-01T09:28:54.456Z
-updated: 2024-10-02T23:32:38.968Z
+date: 2024-10-02T17:57:51.391Z
+updated: 2024-10-08T17:21:24.400Z
 tags:
   - office-furniture
 categories:
@@ -51,10 +51,10 @@ Let's take a deep dive into Mavix's take on a high-end gaming chair by examining
 | Assembly required     | Yes                                                                          |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Design  
@@ -73,6 +73,13 @@ The seat, back, and headrest are designed to be equally well-suited to use at a 
 
 Optional add-ons like the Elemax heating/cooling/massage and FS 360 armrests combine with the default configuration and adjustments to provide a design that's one of the most customizable (both at the time of purchase and once you've got it set up) that I've ever used. This expansive set of variables can be both a blessing and, occasionally, a hindrance, as we'll discuss further on in our review. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Build quality
 
 The M9 uses a mesh-like material Mavix calls Advanced Tensile Recovery (A.T.R.) Fabric on the lumbar and its M-Breeze fabric everywhere else. The ATR fabric allows air to pass through, aiding the Elemax system's heating and cooling. The M-Breeze material offers less airflow, but still breathes better than the standard leatherette materials it resembles.   
@@ -88,13 +95,6 @@ The frame of the unit is a combination of metal (central gas lift cylinder, back
 **More: [The best office chairs: Treat yourself](https://www.zdnet.com/home-and-office/smart-office/best-office-chair/)**   
   
  Lastly, the M9's locking, in-line skate casters work well on everything from hard floors to dense carpeting, removing any need for the upgraded replacement casters I recommend for many other chairs. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Shipping and setup 
 
@@ -124,13 +124,6 @@ Speaking of oversights, the second speedbump came from a small hex wrench and a 
   
 All told, the clear markings on the hardware card still helped me complete the assembly in about a half-hour. I could have finished faster with help, but I flew solo to simulate a worst-case scenario. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Installing the extras 
 
 While the above section covers the standard setup process, I'll quickly outline the two optional extras Mavix sent along: the Elemax system and its FS 360 arms 
@@ -154,10 +147,16 @@ The add-on is a semi-soft pad that lives within the "Dynamic Variable Lumbar" su
 The confusion started when I noticed that the Elemax system included two elastic straps that covered the built-in fans providing the unit's heating and cooling airflow. These straps weren't present in the instructional videos or literature. I was left to take my best guess on their purpose. The straps seemed likely to interfere with the airflow of the fans. But, I soldiered on with the installation as close to the instructions as possible. Since the airflow ultimately seemed normal, I moved on, adding one more mystery to the list. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Adjustability 
@@ -214,6 +213,13 @@ This is enhanced further by the arm pads themselves. These nicely textured pads 
 The headrest uses the M-Breeze fabric over an elastic mesh layer, seen from behind.
 
 Michael Gariffo/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Comfort and performance  
 
@@ -297,18 +303,15 @@ A chair from a company better known for its mice and keyboards, the Iskur is exc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-mastering-instagram-analytics-top-tools-for-enhanced-performance-insights/"><u>[New] 2024 Approved Mastering Instagram Analytics Top Tools for Enhanced Performance Insights</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ultimate-photography-journey-with-vsco-editing-tool/"><u>[Updated] 2024 Approved Ultimate Photography Journey with VSCO Editing Tool</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-enhancing-meetings-screen-capture-with-webcam/"><u>[Updated] In 2024, Enhancing Meetings Screen Capture with Webcam</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-palette-primer-compreenasive-guide-to-coloring/"><u>[Updated] The Palette Primer Compreenasive Guide to Coloring</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/best-practices-for-flipbook-security-ensure-the-integrity-of-your-e-publishing-with-flipbuildercom/"><u>Best Practices for Flipbook Security - Ensure the Integrity of Your E-Publishing with FlipBuilder.com</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/convertisseur-de-fichiers-audio-gratuit-m4v-en-format-aac-avec-movavi/"><u>Convertisseur De Fichiers Audio Gratuit : M4V en Format AAC Avec Movavi</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-scratch-building-a-lighthearted-image-meme-for-2024/"><u>From Scratch Building a Lighthearted Image Meme for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/gebruik-de-veilige-en-eenvoudige-online-konverter-van-movavi-mod-naar-mp4-gratis-geoptimaliseerd/"><u>Gebruik De Veilige en Eenvoudige Online-Konverter Van Movavi: MOD Naar MP4 Gratis Geoptimaliseerd</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/guida-rapida-alla-conversione-dei-file-video-da-m4v-a-mp4-e-piu-formati-con-movavi/"><u>Guida Rapida Alla Conversione Dei File Video: Da M4V a MP4 E Più Formati Con Movavi</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harmony-and-hype-perfecting-film-teaser-tunes-for-2024/"><u>Harmony and Hype Perfecting Film Teaser Tunes for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/high-quality-winxdvd-software-zur-dvd-extraktion-verbesserung-der-videoqualitat-and-konvertierung-fur-ios-gerate/"><u>High-Quality WinXDVD Software Zur DVD Extraktion, Verbesserung Der Videoqualität & Konvertierung Für iOS Geräte</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/iphone-ready-syncing-photos-and-videos-from-pc-for-2024/"><u>IPhone-Ready Syncing Photos & Videos From PC for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/top-12-high-definition-video-converter-software-and-tools-compared-windows-mac-and-online-options-by-movavi/"><u>Top 12 High-Definition Video Converter Software & Tools Compared: Windows, Mac & Online Options by Movavi</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-ballot-box-battles-prime-voting-challenge-platforms/"><u>[New] In 2024, Ballot Box Battles Prime Voting Challenge Platforms</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-smart-social-media-strategies-from-youtube-to-facebook/"><u>[Updated] 2024 Approved Smart Social Media Strategies From YouTube To Facebook</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-oppo-find-n3-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Oppo Find N3.</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/cost-free-auditory-logger-effortless-voice-recording-on-all-windows-versions/"><u>Cost-Free Auditory Logger - Effortless Voice Recording on All Windows Versions</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/effortless-methods-how-to-sync-or-reflect-your-iphone-content-onto-windows-10-system/"><u>Effortless Methods: How to Sync or Reflect Your iPhone Content Onto Windows 10 System</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-digging-into-the-data-top-10-twitvideos/"><u>In 2024, Digging Into the Data Top 10 TwitVideos</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-unlocking-camtasias-power-how-to-speed-up-or-slow-down-videos-for-2024/"><u>New Unlocking Camtasias Power How to Speed Up or Slow Down Videos for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/quick-and-easy-methods-for-superimposing-images-onto-videos/"><u>Quick & Easy Methods for Superimposing Images Onto Videos</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/quick-and-effortless-guide-deleting-apps-on-an-ipad-device/"><u>Quick and Effortless Guide: Deleting Apps on an iPad Device</u></a></li>
 </ul></div>
 
