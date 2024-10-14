@@ -1,7 +1,7 @@
 ---
 title: "Tapping Into Efficiency: Microsoft Introduces Key Surface Tools for Business Productivity - ZDNET Uncovered"
-date: 2024-10-02T17:44:35.855Z
-updated: 2024-10-08T16:48:03.759Z
+date: 2024-10-11T16:38:55.690Z
+updated: 2024-10-14T16:15:22.657Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,13 +62,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,6 +82,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,18 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-capturecast-unveiling-2023s-best-recording-software/"><u>[New] 2024 Approved CaptureCast Unveiling 2023'S Best Recording Software</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-quick-tips-for-editing-igtv-content-to-stand-out/"><u>[New] 2024 Approved Quick Tips for Editing IGTV Content to Stand Out</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-the-sharex-exploration-reviews-and-contenders-for-2024/"><u>[Updated] The ShareX Exploration Reviews & Contenders for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/convertisseur-de-fichiers-audio-gratuit-m4v-en-format-aac-avec-movavi/"><u>Convertisseur De Fichiers Audio Gratuit : M4V en Format AAC Avec Movavi</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/grabacion-digital-libre-online-convertidor-mp4-a-mp3-sin-costo-por-adobe-premiere-movavi/"><u>Grabación Digital Libre Online: Convertidor MP4 a MP3 Sin Costo Por Adobe Premiere - Movavi</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/guida-rapida-alla-conversione-dei-file-video-da-m4v-a-mp4-e-piu-formati-con-movavi/"><u>Guida Rapida Alla Conversione Dei File Video: Da M4V a MP4 E Più Formati Con Movavi</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-quick-fixes-for-privacy-concerns-in-piscart-images/"><u>In 2024, Quick Fixes for Privacy Concerns in PiscArt Images</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/masterclass-crafting-unique-characters-for-dungeons-and-dragons-via-chatgpt-and-dall-e/"><u>Masterclass: Crafting Unique Characters for Dungeons & Dragons via ChatGPT and DALL-E</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/online-gratuite-vob-in-m2ts-omzetting-met-movavi-persoonlijke-instructies-en-tips-inbegripend/"><u>Online Gratuite VOB-in-M2TS Omzetting Met Movavi: Persoonlijke Instructies en Tips Inbegripend!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-challenges-smooth-gameplay-for-the-updated-metro-exodus-on-pc/"><u>Overcoming Challenges: Smooth Gameplay for the Updated Metro Exodus on PC</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/reimagining-audio-editing-the-impact-of-magix-music-maker-2024/"><u>Reimagining Audio Editing The Impact of Magix Music Maker 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/top-12-high-definition-video-converter-software-and-tools-compared-windows-mac-and-online-options-by-movavi/"><u>Top 12 High-Definition Video Converter Software & Tools Compared: Windows, Mac & Online Options by Movavi</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/tout-sur-la-transformation-vob-avi-gratuite-en-lignes-via-movavi-details-et-etapes-etape-par-etape/"><u>Tout Sur La Transformation VOB-AVI Gratuite en Lignes via Movavi : Détails Et Étapes Étape Par Étape</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unleash-creativity-with-free-excellent-facebook-picture-makers/"><u>[Updated] 2024 Approved Unleash Creativity with Free, Excellent Facebook Picture Makers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-windows-10s-premier-choice-of-video-grabber-software/"><u>[Updated] In 2024, Windows 10'S Premier Choice of Video Grabber Software</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/advanced-features-of-emeditor-professional-v7002-beta-text-editing-software/"><u>Advanced Features of EmEditor Professional v7.00.2 Beta - Text Editing Software</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/advanced-text-editing-with-emeditor-the-ultimate-free-software/"><u>Advanced Text Editing with EmEditor: The Ultimate Free Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-top-benefits-of-snapchats-my-ai-beyond-a-simple-fun-app/"><u>Discover the Top Benefits of Snapchat’s 'My AI': Beyond a Simple Fun App</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortless-playback-of-itunes-audiobooks-tips-for-bypassing-drm-protections/"><u>Effortless Playback of iTunes Audiobooks: Tips for Bypassing DRM Protections</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/emeditor-professional-v11990-release-candidate-enhanced-text-editing-with-head-start-features/"><u>EmEditor Professional v11.9.90 Release Candidate: Enhanced Text Editing with Head Start Features</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/explore-the-world-of-emeditor-your-ultimate-compact-and-powerful-text-editor-solution/"><u>Explore the World of EmEditor, Your Ultimate Compact and Powerful Text Editor Solution</u></a></li>
+<li><a href="https://fox-http.techidaily.com/giggle-graph-meme-trends-by-occasion-type-for-2024/"><u>Giggle Graph Meme Trends by Occasion Type for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/guide-to-easily-disable-columns-temporarily-in-csv-format-with-emeditor-text-editor/"><u>Guide to Easily Disable Columns Temporarily in CSV Format with EmEditor Text Editor</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-correctly-handle-the-missing-msodll-error-on-your-pc/"><u>How to Correctly Handle the Missing mso.dll Error on Your PC</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-implement-latex-style-mathematical-icons-into-your-custom-toolbars-tips-and-strategies-with-emeditor/"><u>How to Implement LaTeX-Style Mathematical Icons Into Your Custom Toolbars: Tips and Strategies with EmEditor</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-switch-text-file-line-breaks-mastering-lf-and-crlf-in-emeditor/"><u>How to Switch Text File Line Breaks: Mastering LF and CRLF in EmEditor</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-15-pro-max-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone 15 Pro Max Passcode not Working?</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/simplify-your-workflow-with-emeditors-enhanced-macro-deployment-features/"><u>Simplify Your Workflow with EmEditor's Enhanced Macro Deployment Features</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/syntax-highlighting-features-in-emeditor-a-powerful-text-editing-tool/"><u>Syntax Highlighting Features in EmEditor - A Powerful Text Editing Tool</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-tecno-spark-go-2023-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Tecno Spark Go (2023)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-the-lenovo-yoga-pro-9i-featuring-tactile-keys-and-stylish-slim-chassis/"><u>The Ultimate Guide to the Lenovo Yoga Pro 9I: Featuring Tactile Keys and Stylish, Slim Chassis</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/virtual-teamwork-made-simple-on-facebook-live/"><u>Virtual Teamwork Made Simple on Facebook Live</u></a></li>
 </ul></div>
 

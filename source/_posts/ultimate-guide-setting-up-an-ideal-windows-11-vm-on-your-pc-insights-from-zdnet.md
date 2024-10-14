@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Setting Up an Ideal Windows 11 VM on Your PC - Insights From ZDNet"
-date: 2024-10-02T17:47:38.132Z
-updated: 2024-10-08T18:24:52.722Z
+date: 2024-10-09T16:20:12.712Z
+updated: 2024-10-14T16:13:05.113Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,18 +136,18 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -196,24 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/onquering-competition-crafting-standout-youtube-advertising-banners-for-2024/"><u>[New] Conquering Competition Crafting Standout YouTube Advertising Banners for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-quick-quirky-and-funny-creating-memes-anytime-for-2024/"><u>[New] Quick, Quirky, and Funny Creating Memes Anytime for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-streamlined-subscription-links-for-video-channels/"><u>[Updated] In 2024, Guide to Streamlined Subscription Links for Video Channels</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-filter-essentials-uncover-free-options-through-advanced-search/"><u>2024 Approved Instagram Filter Essentials – Uncover Free Options Through Advanced Search</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-professional-graphics-custom-templates-on-the-house/"><u>2024 Approved Unlock Professional Graphics - Custom Templates on the House</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/are-paid-reviews-common-amongst-online-reviewers-in-2024/"><u>Are Paid Reviews Common Amongst Online Reviewers, In 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723013885752-consider-keeping-a-food-diary-to-monitor-what-youre-eating-and-make-sure-its-nutritionally-balanced/"><u>Consider Keeping a Food Diary to Monitor What You're Eating and Make Sure It’s Nutritionally Balanced.</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/estrategias-educacionais-vantajosas-melhorar-a-experiencia-na-sala-tradicional-e-no-ensino-a-distancia-10-dicas-essenciais/"><u>Estratégias Educacionais Vantajosas: Melhorar a Experiência Na Sala Tradicional E No Ensino À Distância – 10 Dicas Essenciais</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/gratuite-convertisseur-en-ligne-flac-vers-avi-avec-movavi-facile-et-rapide/"><u>Gratuite: Convertisseur en Ligne FLAC Vers AVI Avec Movavi - Facile Et Rapide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-resolve-compatibility-issues-between-samsung-print-devices-and-window-operating-systems-guide/"><u>How to Resolve Compatibility Issues Between Samsung Print Devices and Window Operating Systems [GUIDE]</u></a></li>
-<li><a href="https://win-dash.techidaily.com/m-audio-fast-track-driver-update-for-windows-operating-systems-win-1078-and-81/"><u>M-Audio Fast Track Driver Update for Windows Operating Systems (Win 10/7/8 & 8.1)</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/mov-file-converter-convert-mov-to-mp4-in-minutes-free-service/"><u>MOV File Converter: Convert MOV to MP4 in Minutes - Free Service</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/movavi-m4v-swf/"><u>Movavi 제공: M4V를 SWF로 쉽게 전환하는 방법, 웹 기능으로 접근</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/online-converter-von-mpeg-zu-m4v-videodateien-kostenlos-anbieten-movavis-seo-optimierter-dienst/"><u>Online Converter Von MPEG Zu M4V Videodateien Kostenlos Anbieten – Movavi's SEO-Optimierter Dienst</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-oneplus-nord-n30-se-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My OnePlus Nord N30 SE Black and White | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/transformacion-gratuita-de-imagenes-png-a-formato-jpeg-en-linea-con-facilidad-guia-de-movavi/"><u>Transformación Gratuita De Imágenes PNG a Formato JPEG en Línea Con Facilidad: Guía De Movavi</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/transmision-instantanea-y-libre-de-m4a-a-formato-wav-con-garantia-de-mantener-la-fidelidad-original/"><u>Transmisión Instantánea Y Libre De M4A a Formato WAV Con Garantía De Mantener La Fidelidad Original</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/trasforma-file-3gpp-a-video-3gp-online-gratuitamente-tramite-lutilita-di-movavi/"><u>Trasforma File 3GPP a Video 3GP Online Gratuitamente Tramite L'utilità Di Movavi</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/gif-m4v-movavi/"><u>무료 GIF 제작을 위한 M4V 효과 강화: Movavi의 시각 자산 관리 도구</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-essential-guide-to-iphone-voice-recording-techniques/"><u>[New] 2024 Approved Essential Guide to iPhone Voice Recording Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-instagram-narratives-through-captioning-for-2024/"><u>[New] Mastering Instagram Narratives Through Captioning for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-online-tv-downloading-a-complete-recording-blueprint/"><u>[New] Online TV Downloading A Complete Recording Blueprint</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-10-speed-up-apps-for-mobile-music-and-podcasts/"><u>[Updated] 10 Speed-Up Apps for Mobile Music and Podcasts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-excellence-in-offline-speech-recognition-software/"><u>[Updated] Excellence in Offline Speech Recognition Software</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1-ultimate-guide-streamlining-your-documents-using-apowerpdfs-page-management-features/"><u>1. Ultimate Guide: Streamlining Your Documents Using ApowerPDF's Page Management Features</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-connectivity-download-latest-drivers-for-intel-wi-fi-6-ax200-on-windows-10-and-11-systems/"><u>Enhance Connectivity: Download Latest Drivers for Intel Wi-Fi 6 AX200 on Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/mac-compatible-soundcloud-audio-extractor-download-tunes-easily/"><u>Mac Compatible SoundCloud Audio Extractor - Download Tunes Easily</u></a></li>
+<li><a href="https://win-news.techidaily.com/menghindari-kabat-pinggiran-kumpulkan-dokumen-yang-hapus-oleh-ccleaner-dengan-proses-restorasi-ini/"><u>Menghindari Kabat Pinggiran - Kumpulkan Dokumen Yang Hapus Oleh CCleaner Dengan Proses Restorasi Ini!</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/the-ultimate-guide-top-notch-alternatives-to-audacity-that-boost-your-recording-game/"><u>The Ultimate Guide: Top-Notch Alternatives to Audacity That Boost Your Recording Game</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/top-5-complimentary-pdf-editing-tools-for-windows-pcs-latest-picks-of-2020/"><u>Top 5 Complimentary PDF Editing Tools for Windows PCs: Latest Picks of 2020</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/top-strategies-for-removing-music-tracks-from-your-iphone/"><u>Top Strategies for Removing Music Tracks From Your iPhone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/understanding-the-basics-a-comprehensive-guide-to-gif-images/"><u>Understanding the Basics: A Comprehensive Guide to GIF Images</u></a></li>
 </ul></div>
 

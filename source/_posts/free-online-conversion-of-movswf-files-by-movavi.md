@@ -1,7 +1,7 @@
 ---
 title: Free Online Conversion of MOV/SWF Files by Movavi
-date: 2024-10-05T16:10:40.235Z
-updated: 2024-10-08T16:13:54.132Z
+date: 2024-10-07T19:01:08.132Z
+updated: 2024-10-14T17:48:42.230Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d980933768bd910a7c15106cfbf73fe.png
@@ -182,13 +182,6 @@ Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
 ### Régler les paramètres graphiques d'un jeu
@@ -198,13 +191,6 @@ Chaque jeu possède des paramètres graphiques spécifiques qui peuvent vous aid
 1. **Anti-crénelage :** Lorsqu'un jeu utilise le crénelage, il corrige les petites lignes irrégulières et inégales autour de textures ou d'objets spécifiques. Pensez aux lignes floues que vous voyez lorsque l'herbe apparaît dans la plupart des jeux. Chaque jeu possède différents niveaux d'anticrénelage (SSAA, TAA, MSAA, etc.). - et vous pouvez généralement les modifier dans les paramètres du jeu pour obtenir de meilleures performances.
 2. **Flou de mouvement :** Pour rendre les choses plus réalistes, les jeux intègrent des flous de mouvement afin d'émuler la vie réelle. Le désactiver peut souvent vous aider à économiser de la puissance graphique.
 3. **Synchronisation verticale :** Parfois, lorsque vous vous déplacez rapidement, la carte graphique ne peut pas suivre et l'écran semble se déchirer en son milieu. La synchronisation verticale aide à résoudre ce problème mais ajoute un certain décalage. Une façon de corriger ce problème est d'utiliser le VSync adaptatif ou le Triple Buffering. Vous utiliserez davantage de puissance de la carte graphique, mais vous trouverez un juste milieu entre les déchirures et le décalage.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mettez à jour les pilotes de votre GPU
 
@@ -237,10 +223,10 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 
@@ -248,6 +234,13 @@ Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra
 Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
@@ -287,6 +280,13 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Gérer les mises à jour automatiques de Steam
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
@@ -298,6 +298,13 @@ Pour empêcher Steam de mettre à jour les jeux pendant que vous jouez, allez da
 Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive souvent que de nouveaux bogues apparaissent dans les nouvelles mises à jour ou que certains éléments cessent de fonctionner.
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver les notifications
 
@@ -318,6 +325,13 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 4. Mode faible latence : Activez-le.
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Régler le centre de contrôle AMD/ATI
 
@@ -345,13 +359,6 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
 ### Optez pour un SSD
@@ -366,18 +373,18 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mettez votre RAM à niveau
 
@@ -430,6 +437,13 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
@@ -454,13 +468,6 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 2. Pour la ventilation, essayez de surélever votre ordinateur portable ou utilisez un bureau conçu pour les ordinateurs portables.
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU et votre RAM
 
@@ -497,13 +504,6 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Foire aux questions 
@@ -516,13 +516,6 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Modifiez les paramètres de votre carte graphique
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
@@ -557,6 +550,13 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 3. Passez Windows 10 en "mode jeu".
 4. Vérifiez les paramètres graphiques de votre jeu.
 5. Installez les derniers pilotes pour votre carte graphique
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
 
@@ -601,22 +601,20 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-ultimate-guide-to-top-8-gold-text-in-3d-realms/"><u>[New] 2024 Approved Ultimate Guide to Top 8 Gold Text in 3D Realms</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unraveling-the-mystery-of-iphone-based-podcast-access/"><u>[New] Unraveling the Mystery of iPhone-Based Podcast Access</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-steps-to-confirm-and-secure-your-tiktok-videos-for-posting-for-2024/"><u>[Updated] Steps to Confirm and Secure Your TikTok Videos for Posting for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-easily-install-kyocera-printer-drivers-in-windows/"><u>How to Easily Install KYOCERA Printer Drivers in Windows</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On Apple iPhone 14 Pro Max</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-to-set-up-a-download-link-for-your-e-book-on-flipbuilder-a-comprehensive-guide/"><u>How to Set Up a Download Link for Your E-Book on FlipBuilder: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-to-switch-flash-content-from-english-to-your-native-tongue-on-flipbuildercom/"><u>How to Switch Flash Content From English to Your Native Tongue on FlipBuilder.com</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-to-update-your-flipbook-title-and-font-in-windows-using-flipbuilder-a-comprehensive-guide/"><u>How to Update Your FlipBook Title & Font in Windows Using FlipBuilder - A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-h1-an-easy-guide-for-how-to-add-photos-on-instagram/"><u>In 2024, H1 An Easy Guide for How to Add Photos on Instagram</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-y56-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Vivo Y56 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/mastering-conversions-enable-zooming-on-pages-in-pdfs-made-from-word-documents-with-ease-flipbuilder-guide/"><u>Mastering Conversions: Enable Zooming on Pages in PDFs Made From Word Documents with Ease (FlipBuilder Guide)</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/mastering-image-editing-boosting-contrast-levels-in-flip-image-expert-software/"><u>Mastering Image Editing: Boosting Contrast Levels in Flip Image Expert Software</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/online-accessibility-of-helping-resources-enhancing-user-engagement-with-flipbuilder-technology/"><u>Online Accessibility of Helping Resources: Enhancing User Engagement with FlipBuilder Technology</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/perfect-balance-in-flipping-books-adjusting-width-to-height-ratios-with-ease-on-flipbuilder/"><u>Perfect Balance in Flipping Books: Adjusting Width-to-Height Ratios with Ease on FlipBuilder</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/simple-and-powerful-document-conversion-for-mac-users-discover-flipdoc-by-flipbuilder-mac-compatible-ebook-tools/"><u>Simple and Powerful Document Conversion for Mac Users - Discover FlipDOC by FlipBuilder [Mac-Compatible eBook Tools]</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/step-by-step-guide-to-adding-helpful-annotations-in-flipbuilder-ebooks/"><u>Step-by-Step Guide to Adding Helpful Annotations in FlipBuilder Ebooks</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-instructions-for-downloading-and-fun-with-ifunny-memes/"><u>2024 Approved Quick Instructions for Downloading and Fun with iFunny Memes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-to-installing-newest-huion-software-for-windows-systems/"><u>Comprehensive Guide to Installing Newest Huion Software for Windows Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/getting-to-grips-with-snapseed-for-images-for-2024/"><u>Getting to Grips With Snapseed for Images for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-apple-iphone-11-pro-max-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile Apple iPhone 11 Pro Max Before the Plan Expires</u></a></li>
+<li><a href="https://os-tips.techidaily.com/inter-device-clipart-sync-a-comprehensive-guide-to-iphoneipad-and-mac-integration/"><u>Inter-Device Clipart Sync: A Comprehensive Guide to iPhone/iPad & Mac Integration</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/is-integrating-android-with-windows-11-beneficial-explore-insights-from-zdnet/"><u>Is Integrating Android with Windows 11 Beneficial? Explore Insights From ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/modern-solutions-for-non-working-rust-mics-a-step-by-step-2024-manual/"><u>Modern Solutions for Non-Working Rust Mics: A Step-by-Step 2024 Manual</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/navigating-microsofts-future-plans-transformative-strategies-for-enhanced-cloud-computing-targeted-ad-campaigns-and-cross-device-connectivity-itinnovators.m243/"><u>Navigating Microsoft's Future Plans: Transformative Strategies for Enhanced Cloud Computing, Targeted Ad Campaigns, and Cross-Device Connectivity | ITInnovators</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/revolutionizing-tech-with-microsofts-new-approach-to-cloud-services-and-devices-a-deep-dive-by-zdnet/"><u>Revolutionizing Tech with Microsoft's New Approach to Cloud Services & Devices – A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/seamless-file-sharing-from-windows-to-android-with-microsofts-new-feature-tech-news/"><u>Seamless File Sharing From Windows to Android with Microsoft’s New Feature | Tech News</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/supercharge-microsoft-edge-must-have-addons-and-plugins-for-a-better-browsing-journey/"><u>Supercharge Microsoft Edge: Must-Have Addons and Plugins for a Better Browsing Journey</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-professional-note-taking-with-chatgpt-tools/"><u>The Ultimate Guide to Professional Note-Taking with ChatGPT Tools</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/top-methods-for-capturing-your-screen-on-windows-11-not-just-with-game-bar/"><u>Top Methods for Capturing Your Screen on Windows 11, Not Just with Game Bar</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/understanding-the-role-of-a-tpm-in-windows-11-a-comprehensive-guide/"><u>Understanding the Role of a TPM in Windows 11: A Comprehensive Guide</u></a></li>
 </ul></div>
 

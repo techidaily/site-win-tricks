@@ -1,7 +1,7 @@
 ---
 title: "AI Breakthroughs by Tech Giants: Microsoft and Google Lead the Way as Smaller Companies Struggle | Exclusive Analysis on ZDNET"
-date: 2024-10-04T17:24:17.856Z
-updated: 2024-10-08T17:50:51.575Z
+date: 2024-10-13T16:43:57.021Z
+updated: 2024-10-14T19:25:39.192Z
 tags:
   - microsoft
 categories:
@@ -64,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,18 +196,14 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-evaluating-bandicam-and-camtasia-for-mac-users/"><u>[New] 2024 Approved Evaluating Bandicam and Camtasia for Mac Users</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-introducing-efficient-speech-to-text-utilization-in-powerpoint/"><u>[Updated] 2024 Approved Introducing Efficient Speech-to-Text Utilization in PowerPoint</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-captivating-colors-in-photos-a-ps-masterclass/"><u>[Updated] Captivating Colors in Photos A PS Masterclass</u></a></li>
-<li><a href="https://fox-access.techidaily.com/action-capture-duel-2022-gopro-hero5-versus-garmin-virb-for-2024/"><u>Action Capture Duel 2022 GoPro Hero5 Versus Garmin VIRB for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/boosting-productivity-and-engagement-how-microsoft-is-motivating-its-enterprising-staff-through-enhanced-features-in-teams/"><u>Boosting Productivity and Engagement: How Microsoft Is Motivating Its Enterprising Staff Through Enhanced Features in Teams.</u></a></li>
-<li><a href="https://fox-place.techidaily.com/choose-and-combine-ui-modules-interface/"><u>Choose and Combine UI Modules Interface</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-ultimate-six-picks-online-shopping-for-hdtvs/"><u>Discover the Ultimate Six Picks: Online Shopping for HDTVs</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/experiencing-microsofts-surface-laptop-studio-unveiling-the-tech-that-sparked-my-envy-a-deep-dive-zdnet/"><u>Experiencing Microsoft's Surface Laptop Studio: Unveiling the Tech That Sparked My Envy - A Deep Dive | ZDNet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-samsung-galaxy-xcover-6-pro-tactical-edition-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Samsung Galaxy XCover 6 Pro Tactical Edition without App | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/microsoft-to-introduce-costly-updates-for-windows-11-users-insight-into-the-new-payment-model-and-estimated-charges/"><u>Microsoft to Introduce Costly Updates for Windows 11 Users – Insight Into the New Payment Model and Estimated Charges</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-adobe-premiere-tutorial-importing-and-exporting-videos-like-a-pro-for-2024/"><u>New Adobe Premiere Tutorial Importing and Exporting Videos Like a Pro for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/rebuilding-your-keyboard-layout-with-microsoft-powertoys-a-step-by-step-guide-by-zdnet/"><u>Rebuilding Your Keyboard Layout with Microsoft PowerToys: A Step-by-Step Guide by ZDNet</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/top-rated-black-friday-bargains-get-more-with-your-gift-cards-zdnet-insights/"><u>Top-Rated Black Friday Bargains: Get More with Your Gift Cards | ZDNet Insights</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-decoding-the-mystery-of-where-are-my-youtube-comments/"><u>[New] 2024 Approved Decoding the Mystery of Where Are My YouTube Comments?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-instagram-captioning-hack-for-reels-and-stories/"><u>[Updated] The Ultimate Instagram Captioning Hack for Reels and Stories</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/brace-yourself-how-the-latest-microsoft-patch-could-escalate-after-hours-stress-insights-from-zdnet/"><u>Brace Yourself: How the Latest Microsoft Patch Could Escalate After-Hours Stress - Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/cost-effective-solution-in-depth-analysis-of-the-philips-hf3520-alarm-device/"><u>Cost-Effective Solution: In-Depth Analysis of the Philips HF3520 Alarm Device</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-microsoft-and-google-excel-in-ai-support-while-others-lag-behind-insights-from-zdnet/"><u>How Microsoft & Google Excel in AI Support, While Others Lag Behind: Insights From ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-itel-p40plus-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Itel P40+? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-showdown-ps5-versus-low-cost-gaming-machine/"><u>Next-Gen Showdown: PS5 Versus Low-Cost Gaming Machine</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/tapping-into-efficiency-microsoft-introduces-key-surface-tools-for-business-productivity-zdnet-uncovered/"><u>Tapping Into Efficiency: Microsoft Introduces Key Surface Tools for Business Productivity - ZDNET Uncovered</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/ultimate-guide-setting-up-an-ideal-windows-11-vm-on-your-pc-insights-from-zdnet/"><u>Ultimate Guide: Setting Up an Ideal Windows 11 VM on Your PC - Insights From ZDNet</u></a></li>
 </ul></div>
 

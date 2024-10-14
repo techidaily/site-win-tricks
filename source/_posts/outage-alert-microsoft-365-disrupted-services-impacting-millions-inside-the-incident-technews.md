@@ -1,7 +1,7 @@
 ---
 title: "Outage Alert: Microsoft 365 Disrupted Services Impacting Millions – Inside the Incident | TechNews"
-date: 2024-10-06T17:40:17.242Z
-updated: 2024-10-08T17:03:00.758Z
+date: 2024-10-07T17:41:45.015Z
+updated: 2024-10-14T17:16:11.031Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,16 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -102,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -142,21 +122,41 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,17 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-enhancing-your-videos-final-impression-for-2024/"><u>[Updated] Enhancing Your Video's Final Impression for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-lightened-screen-entry/"><u>[Updated] Lightened Screen Entry</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-step-by-step-process-for-adding-unique-emojis-to-your-discord-avatar-pcmobile/"><u>[Updated] Step-By-Step Process for Adding Unique Emojis to Your Discord Avatar (PC/Mobile)</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/ai-breakthroughs-by-tech-giants-microsoft-and-google-lead-the-way-as-smaller-companies-struggle-exclusive-analysis-on-zdnet/"><u>AI Breakthroughs by Tech Giants: Microsoft and Google Lead the Way as Smaller Companies Struggle | Exclusive Analysis on ZDNET</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/brace-yourself-managers-microsofts-latest-plan-is-causing-stir-and-discontent/"><u>Brace Yourself, Managers: Microsoft’s Latest Plan Is Causing Stir and Discontent</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/discover-microsofts-solution-attracting-top-tier-software-engineers-with-maximum-efficiency-insights-from-zdnet/"><u>Discover Microsoft's Solution: Attracting Top-Tier Software Engineers with Maximum Efficiency - Insights From ZDNet</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-lava-storm-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Lava Storm 5G Devices</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-precision-and-efficiency-incorporating-luts-in-after-effects/"><u>In 2024, Precision and Efficiency Incorporating LUTs in After Effects</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-samsung-galaxy-a15-4g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Samsung Galaxy A15 4G for Parents | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/join-samsungs-digital-launch-remotely-tips-and-links-for-virtual-viewers/"><u>Join Samsung's Digital Launch Remotely: Tips & Links for Virtual Viewers</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/protecting-your-microsoft-account-from-hackers-with-proven-tips-by-zdnet-experts/"><u>Protecting Your Microsoft Account From Hackers with Proven Tips by ZDNet Experts</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/5-free-audio-resources-for-youtube-clips-makers/"><u>Top 15 FREE Audio Resources for YouTube Clips Makers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-recover-hidden-shorts-thumbnails-in-videos/"><u>[Updated] In 2024, How to Recover Hidden Shorts' Thumbnails in Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-essential-steps-to-enhance-your-gopro-cinematography/"><u>2024 Approved Essential Steps to Enhance Your Gopro Cinematography</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/act-now-shift-time-unveiling-strategic-moves/"><u>Act Now, Shift Time: Unveiling Strategic Moves</u></a></li>
+<li><a href="https://fox-links.techidaily.com/design-humor-in-frames-picgenius-for-2024/"><u>Design Humor in Frames PicGenius for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-to-structuring-youtube-content-with-separate-chapters-for-2024/"><u>Guide to Structuring YouTube Content with Separate Chapters for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-finding-the-perfect-phrases-for-gamers-videos/"><u>In 2024, Finding the Perfect Phrases for Gamers' Videos</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-xiaomi-14-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Xiaomi 14 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/mirillis-privacy-standards-and-user-consent-guidelines/"><u>Mirillis Privacy Standards & User Consent Guidelines</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/missing-webpage-alert-how-allavsoft-can-recover-lost-content-and-improve-site-navigation/"><u>Missing Webpage Alert: How Allavsoft Can Recover Lost Content & Improve Site Navigation</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/mp3-conversion-tutorial-for-punjabi-tracks-on-mac-osx-and-microsoft-windows-systems/"><u>MP3 Conversion Tutorial for Punjabi Tracks on Mac OSX & Microsoft Windows Systems</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/navigating-discords-video-sharing-feature-with-expertise/"><u>Navigating Discord's Video Sharing Feature with Expertise</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722957574754-nvidia-1080-drivers-download-for-windows-11-easily/"><u>NVIDIA 1080 Drivers Download for Windows 11. Easily</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/quick-download-pro-how-to-easily-transfer-videos-from-tinypic-into-popular-file-types-such-as-mp4-mov-and-avi/"><u>Quick Download Pro: How to Easily Transfer Videos From TinyPic Into Popular File Types Such as MP4, MOV, and AVI</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/quickly-save-streaming-content-with-ripit-the-ultimate-tool-for-mac-users/"><u>Quickly Save Streaming Content with RipIt - The Ultimate Tool for Mac Users</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/step-by-step-tutorial-save-brazilian-mediathek-streams-as-mp4-files-on-desktopslaptops/"><u>Step-by-Step Tutorial: Save Brazilian Mediathek Streams as MP4 Files on Desktops/Laptops</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/stream-and-save-securely-download-tv-series-and-films-using-watch-episodestvs-reliable-downloader-tool/"><u>Stream and Save - Securely Download TV Series & Films Using Watch-Episodes.TV's Reliable Downloader Tool</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-apple-iphone-6-plus-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile Apple iPhone 6 Plus Before the Plan Expires</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-magic-of-moving-texts-a-guide-for-insta-pros-for-2024/"><u>Unveiling the Magic of Moving Texts A Guide for Insta Pros for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/webcam-video-editing-effortless-background-elimination-via-advanced-chroma-key-technique/"><u>Webcam Video Editing: Effortless Background Elimination via Advanced Chroma Key Technique</u></a></li>
 </ul></div>
 

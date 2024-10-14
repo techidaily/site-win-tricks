@@ -1,7 +1,7 @@
 ---
 title: Aggiornamento Schermata Teams - Passaggi Per Modificare Il Sfondo Nei Prodotti Di Microsoft (Guida)
-date: 2024-10-07T18:04:56.681Z
-updated: 2024-10-08T18:07:59.518Z
+date: 2024-10-13T17:55:18.566Z
+updated: 2024-10-14T18:48:06.418Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49b75551b82236c5ce76daa3d
@@ -153,10 +153,10 @@ Désactivez les services d'arrière-plan pour accélérer votre ordinateur porta
 Afficher plus
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Choix spécial : [Gecata by Movavi](https://www.gecata.com/)
@@ -189,13 +189,6 @@ Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
 ### Régler les paramètres graphiques d'un jeu
@@ -223,13 +216,6 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes AMD](https://www.amd.com/en/support)
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Installer DirectX 12
 
@@ -300,10 +286,10 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Désactiver les notifications
@@ -326,6 +312,13 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Régler le centre de contrôle AMD/ATI
 
 Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disent qu'elles rivalisent même avec leur concurrent NVIDIA. Modifiez ces paramètres pour optimiser les jeux de Windows 10.
@@ -333,13 +326,6 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 1. Activez l'accentuation des images d'AMD en cliquant sur **Paramètres**, puis sur **Graphiques** pour trouver le paramètre. Vous pouvez l'activer pour des jeux individuels ou globalement.
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Réduire la résolution dans un jeu
 
@@ -397,6 +383,13 @@ Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et s
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Surcadencez votre carte graphique
 
 Overclocker vos cartes graphiques signifie les pousser au-delà des spécifications affichées sur la boîte. De nombreuses cartes récentes disposent d'une fonction automatique permettant de le faire dans les paramètres de contrôle, mais il existe également des moyens de le faire manuellement. Veillez à bien connaître votre carte graphique, car si vous repoussez ses limites, elle risque de surchauffer. 
@@ -409,10 +402,10 @@ Pour overclocker :
 4. Jouez à un jeu et vérifiez les performances.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Désactiver SysMain et Prefetch
@@ -445,6 +438,13 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
@@ -465,13 +465,6 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 
 
@@ -517,6 +510,13 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
 Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voici une liste de raisons que vous pouvez vérifier :
@@ -551,13 +551,6 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 4. Vérifiez les paramètres graphiques de votre jeu.
 5. Installez les derniers pilotes pour votre carte graphique
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
 
 La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoire ou la puissance nécessaire pour faire tourner le jeu à pleine vitesse. Parmi les problèmes les plus courants à l'origine d'une baisse du nombre d'images par seconde, citons les pilotes de cartes graphiques obsolètes, les cartes graphiques de qualité inférieure, les vieux processeurs et le manque de mémoire vive. 
@@ -565,6 +558,13 @@ La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoi
 Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est équipé du dernier cri. Le matériel est plus important que les autres caractéristiques de conception ou de logiciel. En outre, les jeux vidéo modernes placent toujours la barre plus haut en matière de capacité de performance, ce qui est donc relatif d'un jeu à l'autre.
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
 
@@ -601,21 +601,22 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-sign-up-saga-crafting-your-digital-persona-facebook/"><u>[New] In 2024, Sign Up Saga Crafting Your Digital Persona (Facebook)</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-superior-steadicams-for-drone-shooting-precision/"><u>[Updated] 2024 Approved Superior Steadicams for Drone Shooting Precision</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-quintessential-fps-experiences-ranked-by-fun-factor/"><u>[Updated] Quintessential FPS Experiences Ranked by Fun Factor</u></a></li>
-<li><a href="https://fox-search.techidaily.com/adjusting-property-settings-in-edit-feature-panel/"><u>Adjusting Property Settings in Edit Feature Panel</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/best-replacement-software-for-jdownloader-on-macwindows-free-trial-available/"><u>Best Replacement Software for JDownloader on MAC/WINDOWS - Free Trial Available</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/convert-and-download-your-favorite-dj-setups-from-beatport-in-various-formats-mp3-wav-flac-for-pc-or-mac/"><u>Convert and Download Your Favorite Dj Setups From Beatport in Various Formats (MP3, WAV, FLAC) for PC or MAC</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/download-full-episodes-of-tv-shows-and-films-from-viki-with-viki-video-downloader/"><u>Download Full Episodes of TV Shows & Films From Viki with Viki Video Downloader</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/download-xvideo-converter-convert-and-save-xvideos-as-mp4-free-software-for-pc-and-mac/"><u>Download XVideo Converter: Convert and Save XVideos as MP4 - Free Software for PC & Mac</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/effortless-conversion-with-3d-buzz-video-downloader-save-your-favorite-videos-as-mp4-wmv-or-avi/"><u>Effortless Conversion with 3D Buzz Video Downloader - Save Your Favorite Videos as MP4, WMV or AVI</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/effortless-video-conversion-transform-zaq1-files-into-popular-formats-like-mp4-avi-and-more-with-zaq1-downloader/"><u>Effortless Video Conversion: Transform ZAQ1 Files Into Popular Formats Like MP4, AVI & More with ZAQ1 Downloader!</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/gem-online-video-grabber-seamlessly-save-streams-from-gemonlinetv/"><u>Gem Online Video Grabber: Seamlessly Save Streams From Gemonline.TV</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/review-of-the-lenovo-tab-m10-with-fhdplus-screen-quality-at-an-affordable-price/"><u>Review of the Lenovo Tab M10 with FHD+ Screen - Quality at an Affordable Price</u></a></li>
-<li><a href="https://video-capture.techidaily.com/step-by-step-guide-to-outstanding-ppt-in-google-meet-iosandroid-for-2024/"><u>Step-by-Step Guide to Outstanding PPT in Google Meet (iOS/Android) for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-enablingdisabling-filters-on-pcs/"><u>Step-by-Step: Enabling/Disabling Filters on PCs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/top-solutions-troubleshooting-sound-issues-on-your-toshiba-laptop/"><u>Top Solutions: Troubleshooting Sound Issues on Your Toshiba Laptop</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-top-15-asmr-content-providers/"><u>[Updated] 2024 Approved Top 15 ASMR Content Providers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-unveiling-top-9-webcam-filters-for-professional-streamers/"><u>[Updated] 2024 Approved Unveiling Top 9 Webcam Filters for Professional Streamers</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1-effective-strategies-for-transforming-wmv-files-into-mp4-format/"><u>1. Effective Strategies for Transforming WMV Files Into MP4 Format</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-strategies-for-high-roi-engagement-through-fb-animatons/"><u>2024 Approved Strategies for High-ROI Engagement Through FB Animatons</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-infinix-smart-8-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Infinix Smart 8 FRP</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/best-places-to-download-android-apps-top-22-sites/"><u>Best Places to Download Android Apps: Top 22 Sites</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/cost-free-auditory-logger-effortless-voice-recording-on-all-windows-versions/"><u>Cost-Free Auditory Logger - Effortless Voice Recording on All Windows Versions</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-v30-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo V30 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/effortless-methods-how-to-sync-or-reflect-your-iphone-content-onto-windows-10-system/"><u>Effortless Methods: How to Sync or Reflect Your iPhone Content Onto Windows 10 System</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-12-pro-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-a-tweet-a-day-your-2023-video-journey-begins-here/"><u>In 2024, A Tweet a Day - Your 2023 Video Journey Begins Here</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-navigating-through-facebook-gif-downloads-across-platforms/"><u>In 2024, Navigating Through Facebook GIF Downloads Across Platforms</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/quick-and-easy-methods-for-superimposing-images-onto-videos/"><u>Quick & Easy Methods for Superimposing Images Onto Videos</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/quick-and-effortless-guide-deleting-apps-on-an-ipad-device/"><u>Quick and Effortless Guide: Deleting Apps on an iPad Device</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/step-by-step-instructional-guide-on-navigating-the-apowersoft-photo-viewer-interface/"><u>Step-by-Step Instructional Guide on Navigating the Apowersoft Photo Viewer Interface</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/step-by-step-strategies-for-excelling-at-deep-clean-inc-3d-on-windows-and-mac-pcs/"><u>Step-by-Step Strategies for Excelling at Deep Clean Inc. 3D on Windows and Mac PCs</u></a></li>
 </ul></div>
 

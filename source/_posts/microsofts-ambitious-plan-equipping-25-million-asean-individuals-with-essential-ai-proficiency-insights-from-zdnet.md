@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Ambitious Plan: Equipping 2.5 Million ASEAN Individuals with Essential AI Proficiency - Insights From ZDNet"
-date: 2024-10-02T16:59:45.185Z
-updated: 2024-10-08T18:14:45.891Z
+date: 2024-10-09T16:59:59.974Z
+updated: 2024-10-14T19:27:04.437Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,16 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -141,22 +142,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,20 +196,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-photo-perfection-how-to-automatically-save-snaps-from-snapchat/"><u>[New] Photo Perfection How to Automatically Save Snaps From Snapchat</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-quick-file-formatting-magic-turning-srt-into-txt-in-minutes/"><u>[New] Quick File Formatting Magic Turning SRT Into TXT in Minutes</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-definitive-list-of-win10s-top-video-capture-software/"><u>[Updated] 2024 Approved The Definitive List of Win10's Top Video Capture Software</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-7-best-apps-to-go-live-on-youtube-from-iphone-or-android/"><u>[Updated] In 2024, 7 Best Apps to Go Live on YouTube From iPhone or Android</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/1-how-to-convert-your-ehow-videos-into-mp4-format-on-pc-and-mac-with-ehow-downloader/"><u>1. How to Convert Your eHow Videos Into MP4 Format on PC & MAC with EHow Downloader</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-samsung-galaxy-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-image-converter-transform-rw2-to-jpg-format-with-movavi/"><u>Free Image Converter - Transform RW2 to JPG Format with Movavi</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/mytubeanywhere-universal-mac-and-windows-app-for-downloading-videos-and-tunes/"><u>MyTubeAnywhere: Universal Mac & Windows App for Downloading Videos & Tunes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-download-effortless-installation-of-the-lexar-usb-drivers/"><u>Quick Download: Effortless Installation of the Lexar USB Drivers</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/step-by-step-guide-converting-tele-task-educational-content-into-mp4mov-video-formats/"><u>Step-by-Step Guide: Converting Tele-TASK Educational Content Into MP4/MOV Video Formats</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/step-by-step-guide-downloading-content-from-tvppl/"><u>Step-by-Step Guide: Downloading Content From TVP.PL</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/step-by-step-tutorial-transforming-your-e-lectures-from-elephorg-to-high-quality-mp4-on-windowsmacos/"><u>Step-by-Step Tutorial: Transforming Your E-Lectures From Eleph.org to High-Quality MP4 on Windows/MacOS</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/ultimate-guide-streaming-spotify-tracks-with-vlc-media-player/"><u>Ultimate Guide: Streaming Spotify Tracks with VLC Media Player</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/ultimate-walkthrough-enjoy-unlimited-music-from-spotify-on-your-roku-device/"><u>Ultimate Walkthrough: Enjoy Unlimited Music From Spotify on Your Roku Device!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win10-handle-overly-expansive-displays/"><u>Win10: Handle Overly Expansive Displays</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-7-top-free-instagram-video-clips-tools-for-daily-entertainment/"><u>[New] 2024 Approved 7 Top Free Instagram Video Clips Tools for Daily Entertainment</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-mastering-audio-format-switches-srt-to-ssa-and-more/"><u>[New] 2024 Approved Mastering Audio Format Switches SRT to SSA & More</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-masterclass-in-crafting-empowerment-videos-for-viewers/"><u>[Updated] In 2024, Masterclass in Crafting Empowerment Videos for Viewers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-complete-course-on-managing-and-editing-srt-on-mac/"><u>A Complete Course on Managing and Editing SRT on Mac</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-set-up-a-download-link-for-your-e-book-on-flipbuilder-a-comprehensive-guide/"><u>How to Set Up a Download Link for Your E-Book on FlipBuilder: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-switch-flash-content-from-english-to-your-native-tongue-on-flipbuildercom/"><u>How to Switch Flash Content From English to Your Native Tongue on FlipBuilder.com</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-update-your-flipbook-title-and-font-in-windows-using-flipbuilder-a-comprehensive-guide/"><u>How to Update Your FlipBook Title & Font in Windows Using FlipBuilder - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/mastering-image-editing-boosting-contrast-levels-in-flip-image-expert-software/"><u>Mastering Image Editing: Boosting Contrast Levels in Flip Image Expert Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/maximize-your-reach-on-facebook-with-pro-tips-for-perfect-video-conversion-techniques/"><u>Maximize Your Reach on Facebook with Pro Tips for Perfect Video Conversion Techniques</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-breakthrough-how-to-make-a-picture-speak/"><u>New 2024 Approved Breakthrough How to Make A Picture Speak</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-disabling-the-personal-access-code-on-windows-11/"><u>Step-by-Step Guide: Disabling the Personal Access Code on Windows 11</u></a></li>
 </ul></div>
 

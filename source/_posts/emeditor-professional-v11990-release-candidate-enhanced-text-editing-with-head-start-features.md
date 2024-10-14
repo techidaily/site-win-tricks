@@ -1,7 +1,7 @@
 ---
 title: "EmEditor Professional v11.9.90 Release Candidate: Enhanced Text Editing with Head Start Features"
-date: 2024-10-04T18:10:17.777Z
-updated: 2024-10-08T16:40:58.255Z
+date: 2024-10-09T19:24:52.832Z
+updated: 2024-10-14T17:13:42.193Z
 tags:
   - product
 categories:
@@ -60,22 +60,26 @@ Viewing 1 post (of 1 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-enhance-chat-dynamics-with-snapchats-gif-sending-steps/"><u>[New] In 2024, Enhance Chat Dynamics with Snapchat's GIF Sending Steps</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-charting-the-course-of-youtube-success-through-social-blade-analysis/"><u>[Updated] 2024 Approved Charting the Course of YouTube Success Through Social Blade Analysis</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/aggiornamento-schermata-teams-passaggi-per-modificare-il-sfondo-nei-prodotti-di-microsoft-guida/"><u>Aggiornamento Schermata Teams - Passaggi Per Modificare Il Sfondo Nei Prodotti Di Microsoft (Guida)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/beginners-vlogging-toolkit-gear-and-software-for-2024/"><u>Beginner's Vlogging Toolkit Gear and Software for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/free-online-conversion-of-movswf-files-by-movavi/"><u>Free Online Conversion of MOV/SWF Files by Movavi</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-honor-x7b-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Honor X7b</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/movavi-mp3-m2p/"><u>Movavi MP3 대상화: 원탁과 일정 없이 바이너리 아이마지네이트를 무료로 M2P 변환</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/mp4-format-explained-comprehensive-guide-to-understanding-and-working-with-mp4-files/"><u>MP4 Format Explained: Comprehensive Guide to Understanding and Working with .mp4 Files</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/review-of-the-cutting-edge-apple-tv-4k-next-level-ultra-hd-streaming-and-smart-voice-navigation/"><u>Review of the Cutting-Edge Apple TV 4K : Next-Level Ultra HD Streaming and Smart Voice Navigation</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/step-by-step-tutorial-converting-your-favorite-youtube-clips-into-high-quality-mp3-playlists/"><u>Step-by-Step Tutorial: Converting Your Favorite YouTube Clips Into High-Quality MP3 Playlists</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-ideal-slide-show-apps-from-iphone-6-to-xs-max-for-2024/"><u>[New] Ideal Slide Show Apps From iPhone 6 to XS Max for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-soundscapes-synergy-video-and-music-pairing/"><u>[New] Soundscapes Synergy Video and Music Pairing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-how-to-make-reels-on-instagram-like-a-ninja/"><u>[Updated] In 2024, How to Make Reels on Instagram Like a Ninja</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-simplified-hdr-an-in-depth-examination/"><u>2024 Approved Simplified HDR An In-Depth Examination</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/emeditor-text-editor-reviewed-in-depth-analysis-of-its-spell-check-feature/"><u>EmEditor Text Editor Reviewed: In-Depth Analysis of Its Spell Check Feature</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/explore-the-world-of-emeditor-your-ultimate-compact-and-powerful-text-editor-solution/"><u>Explore the World of EmEditor, Your Ultimate Compact and Powerful Text Editor Solution</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/guide-pour-ouvrir-des-fichiers-aux-noms-etranges-les-extensions-cryptiques-expliquees/"><u>Guide Pour Ouvrir Des Fichiers Aux Noms Étranges - Les Extensions Cryptiques Expliquées!</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/guide-to-easily-disable-columns-temporarily-in-csv-format-with-emeditor-text-editor/"><u>Guide to Easily Disable Columns Temporarily in CSV Format with EmEditor Text Editor</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-implement-latex-style-mathematical-icons-into-your-custom-toolbars-tips-and-strategies-with-emeditor/"><u>How to Implement LaTeX-Style Mathematical Icons Into Your Custom Toolbars: Tips and Strategies with EmEditor</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-effective-techniques-for-securely-storing-itunes-videos/"><u>In 2024, Effective Techniques for Securely Storing iTunes Videos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo Device</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/innovative-approaches-learning-czech-in-short-timeframes/"><u>Innovative Approaches: Learning Czech in Short Timeframes</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/troubleshooting-character-set-challenges-for-list-boxes-in-emeditor-text-editor/"><u>Troubleshooting Character Set Challenges for List Boxes in EmEditor Text Editor</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Honor Magic Vs 2 | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

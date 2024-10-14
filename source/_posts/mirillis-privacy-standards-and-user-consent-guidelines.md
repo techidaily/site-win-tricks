@@ -1,7 +1,7 @@
 ---
 title: Mirillis Privacy Standards & User Consent Guidelines
-date: 2024-10-07T16:41:45.496Z
-updated: 2024-10-08T16:46:41.643Z
+date: 2024-10-10T19:40:25.494Z
+updated: 2024-10-14T17:47:03.742Z
 tags:
   - product
 categories:
@@ -45,10 +45,10 @@ Please read this information carefully before using Mirillis websites or/and cre
  \- On mirillis.com we carry out the so-called "soft" profiling. This means that we collect statistics about traffic on our websites, as well as data that enable us to use marketing activities (eg Google AdWords remarketing).  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What personal information is collected and when
@@ -57,43 +57,43 @@ Mirillis Ltd. does not collect any personal information, this means no informati
 
 We use Google Analytics, Google AdWords Conversion tracker, other Google services and Mirillis services that place cookies on a browser across the website. Mirillis services and other 3rd party services help us increase the website's usability for our visitors and customers. Cookies are set and read by Google services and Mirillis website. You can opt out of Google tracking by visiting this page. You can learn more about Google's practices at <http://google.com/policies/privacy>. You can revoke any authorization consent provided to our API client using this link <https://security.google.com/settings/security/permissions>.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How we may use personal information
 
 Your e-mail address (collected during product purchase or forum registration process) information may be used by Mirillis Ltd. for contact purposes on important matters. If you agree (i.e. by subscribing newsletter) to receive information from Mirillis, we will use e-mail contact information to send you electronic newsletters or similar types of information. We do not sell any information about our customers or website users to any third parties.
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Security 
 
 We take all possible measures to protect our customers and website users information.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Questions
 
 If you have any questions regarding Privacy Policy please feel free to [contact us.](https://tools.techidaily.com/mirillis/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### General
@@ -115,24 +115,19 @@ This Privacy Policy may be changed from time to time, please check our privacy p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-identifying-lack-of-engagement-in-snapsphere/"><u>[Updated] 2024 Approved Identifying Lack of Engagement in Snapsphere</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-mastering-time-plan-and-record-slack-plus-filmora-meetings/"><u>[Updated] 2024 Approved Mastering Time Plan & Record Slack + Filmora Meetings</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-tricks-and-tips-for-mastering-your-new-win11-experience/"><u>[Updated] 2024 Approved Tricks & Tips for Mastering Your New Win11 Experience</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-to-activate-magnification-features-in-flipbooks-on-flipbuildercom/"><u>How to Activate Magnification Features in Flipbooks on FlipBuilder.com</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-to-enable-multilingual-support-for-your-ebooks-with-flipbuilder-a-comprehensive-guide/"><u>How To Enable Multilingual Support For Your eBooks With FlipBuilder: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-to-preserve-your-preferences-for-future-flipbook-creations-on-flipbuildercom/"><u>How to Preserve Your Preferences for Future FlipBook Creations on FlipBuilder.com</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-to-set-up-a-download-link-for-your-e-book-on-flipbuilder-a-comprehensive-guide/"><u>How to Set Up a Download Link for Your E-Book on FlipBuilder: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-to-switch-flash-content-from-english-to-your-native-tongue-on-flipbuildercom/"><u>How to Switch Flash Content From English to Your Native Tongue on FlipBuilder.com</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-to-update-your-flipbook-title-and-font-in-windows-using-flipbuilder-a-comprehensive-guide/"><u>How to Update Your FlipBook Title & Font in Windows Using FlipBuilder - A Comprehensive Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-se-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone SE Without iTunes</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-breakneck-broadcast-channel-your-youtube-list/"><u>In 2024, Breakneck Broadcast Channel Your YouTube List</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/mastering-image-editing-boosting-contrast-levels-in-flip-image-expert-software/"><u>Mastering Image Editing: Boosting Contrast Levels in Flip Image Expert Software</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/mer-needs-efficient-purchases-of-monetizing-platforms-for-2024/"><u>Newcomer Needs Efficient Purchases of Monetizing Platforms for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/online-accessibility-of-helping-resources-enhancing-user-engagement-with-flipbuilder-technology/"><u>Online Accessibility of Helping Resources: Enhancing User Engagement with FlipBuilder Technology</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/perfect-balance-in-flipping-books-adjusting-width-to-height-ratios-with-ease-on-flipbuilder/"><u>Perfect Balance in Flipping Books: Adjusting Width-to-Height Ratios with Ease on FlipBuilder</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-oppo-k11x-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Oppo K11x</u></a></li>
-<li><a href="https://program-issues.techidaily.com/star-wars-squadrons-gameplay-disruptions-diagnosed-how-to-prevent-future-issues/"><u>STAR WARS: Squadrons Gameplay Disruptions [Diagnosed]: How to Prevent Future Issues</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-ultimate-checklist-of-key-elements-in-tagging-a-video/"><u>The Ultimate Checklist of Key Elements in Tagging a Video</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/unlocking-screen-capture-shortcut-driven-mac-techniques-for-2024/"><u>Unlocking Screen Capture Shortcut-Driven Mac Techniques for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-instant-images-guide-easy-recording-tips-dell-for-2024/"><u>[New] Instant Images Guide Easy Recording Tips (Dell) for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-effortless-privacy-blur-face-edges-picsart/"><u>[Updated] 2024 Approved Effortless Privacy Blur Face Edges Picsart</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-must-try-top-5-mac-streaming-applications-for-2024/"><u>[Updated] Must-Try Top 5 Mac Streaming Applications for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-spotlight-on-5-captivating-book-viddies/"><u>[Updated] Spotlight on 5 Captivating Book Viddies</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/aggiornamento-schermata-teams-passaggi-per-modificare-il-sfondo-nei-prodotti-di-microsoft-guida/"><u>Aggiornamento Schermata Teams - Passaggi Per Modificare Il Sfondo Nei Prodotti Di Microsoft (Guida)</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-itel-p55-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-f5-pro-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on F5 Pro 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-samsung-galaxy-s23plus-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Samsung Galaxy S23+ For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/movavi-mp3-m2p/"><u>Movavi MP3 대상화: 원탁과 일정 없이 바이너리 아이마지네이트를 무료로 M2P 변환</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/movavimpempg/"><u>Movaviで効率的な無料MPEとMPGのスムーズな変換方法 – オンラインツール</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/profille-movavi-video-konverter-guaranteed-secure-purchase-og-rabatte/"><u>Profille Movavi Video Konverter - Guaranteed Secure Purchase Og Rabatte</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/transforma-sus-videos-ts-en-formato-webm-libremente-en-la-web-por-medio-de-herramientas-de-conversion-gratuitas-como-movavi/"><u>Transforma Sus Videos TS en Formato WebM Libremente en La Web Por Medio De Herramientas De Conversión Gratuitas Como Movavi</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-creativity-top-10-must-have-plugins-for-final-cut-pro-x-users/"><u>Updated Unleash Creativity Top 10 Must-Have Plugins for Final Cut Pro X Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-italy-has-banned-chatgpt-with-immediate-effect/"><u>Why Italy Has Banned ChatGPT “With Immediate Effect”</u></a></li>
 </ul></div>
 

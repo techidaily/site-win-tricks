@@ -1,7 +1,7 @@
 ---
 title: "Unboxing and Testing: A Comprehensive Review of the Feature-Rich Mavix M9 - The Epitome of Ergonomic Gaming Seating | ZDNET"
-date: 2024-10-02T17:57:51.391Z
-updated: 2024-10-08T17:21:24.400Z
+date: 2024-10-12T16:37:34.070Z
+updated: 2024-10-14T18:04:41.395Z
 tags:
   - office-furniture
 categories:
@@ -51,10 +51,10 @@ Let's take a deep dive into Mavix's take on a high-end gaming chair by examining
 | Assembly required     | Yes                                                                          |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Design  
@@ -74,10 +74,10 @@ The seat, back, and headrest are designed to be equally well-suited to use at a 
 Optional add-ons like the Elemax heating/cooling/massage and FS 360 armrests combine with the default configuration and adjustments to provide a design that's one of the most customizable (both at the time of purchase and once you've got it set up) that I've ever used. This expansive set of variables can be both a blessing and, occasionally, a hindrance, as we'll discuss further on in our review. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Build quality
@@ -124,6 +124,19 @@ Speaking of oversights, the second speedbump came from a small hex wrench and a 
   
 All told, the clear markings on the hardware card still helped me complete the assembly in about a half-hour. I could have finished faster with help, but I flew solo to simulate a worst-case scenario. 
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Installing the extras 
 
 While the above section covers the standard setup process, I'll quickly outline the two optional extras Mavix sent along: the Elemax system and its FS 360 arms 
@@ -145,19 +158,6 @@ The add-on is a semi-soft pad that lives within the "Dynamic Variable Lumbar" su
 **More: [The 5 best gaming PCs](https://www.zdnet.com/home-and-office/home-entertainment/best-gaming-pc/)**
 
 The confusion started when I noticed that the Elemax system included two elastic straps that covered the built-in fans providing the unit's heating and cooling airflow. These straps weren't present in the instructional videos or literature. I was left to take my best guess on their purpose. The straps seemed likely to interfere with the airflow of the fans. But, I soldiered on with the installation as close to the instructions as possible. Since the airflow ultimately seemed normal, I moved on, adding one more mystery to the list. 
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Adjustability 
 
@@ -214,13 +214,6 @@ The headrest uses the M-Breeze fabric over an elastic mesh layer, seen from behi
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Comfort and performance  
 
 The Mavix M9 leans towards the ergonomic side of the spectrum. This means the chair's designed to be more supportive than cushy. Its seat pan, backrest, and headrest were created to help you maintain a proper posture. That doesn't mean it's uncomfortable; it just doesn't feel like sinking into a cloud. This is a good thing for a chair that you're likely to be spending eight or more hours in per day. The ergonomics of the M9 keeps you from slouching into the unhealthy positions those soft, cloud-like chairs can encourage.
@@ -258,6 +251,13 @@ As I mentioned in the opening, there are numerous companies vying for the gaming
 On the other end of the spectrum, companies like Herman Miller and Mavix, both of which took designs originally intended for the office chair market, made a few tweaks to them, and targeted gamers instead. 
 
 The M9 won't revolutionize your workday or gaming sessions, but it will provide a comfortable, ergonomic, well-built seating solution that looks just "gamer-y" enough. If the [$999 price](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMAVIX-M9-Gaming-Chair-Black%2Fdp%2FB09MDWBB99%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cec691aba-067f-4058-b406-c172e22e5afb%7Cdtp&dtb=1) point is affordable to you, I'd absolutely recommend paying the extra $165 for the FS360 arms. With them, I think the Mavix M9 makes an excellent case for being one of the best gaming chairs in the upper mid-range of today's best entries. 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider 
 
@@ -303,15 +303,18 @@ A chair from a company better known for its mice and keyboards, the Iskur is exc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-ballot-box-battles-prime-voting-challenge-platforms/"><u>[New] In 2024, Ballot Box Battles Prime Voting Challenge Platforms</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-smart-social-media-strategies-from-youtube-to-facebook/"><u>[Updated] 2024 Approved Smart Social Media Strategies From YouTube To Facebook</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-oppo-find-n3-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Oppo Find N3.</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/cost-free-auditory-logger-effortless-voice-recording-on-all-windows-versions/"><u>Cost-Free Auditory Logger - Effortless Voice Recording on All Windows Versions</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/effortless-methods-how-to-sync-or-reflect-your-iphone-content-onto-windows-10-system/"><u>Effortless Methods: How to Sync or Reflect Your iPhone Content Onto Windows 10 System</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-digging-into-the-data-top-10-twitvideos/"><u>In 2024, Digging Into the Data Top 10 TwitVideos</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-unlocking-camtasias-power-how-to-speed-up-or-slow-down-videos-for-2024/"><u>New Unlocking Camtasias Power How to Speed Up or Slow Down Videos for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/quick-and-easy-methods-for-superimposing-images-onto-videos/"><u>Quick & Easy Methods for Superimposing Images Onto Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-facebook-live-streaming-techniques-on-mobile/"><u>[New] 2024 Approved Facebook Live Streaming Techniques on Mobile</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-dynamic-visual-storytelling-integrating-luts-into-spark-ar-projects-for-2024/"><u>[New] Dynamic Visual Storytelling Integrating LUTs Into Spark AR Projects for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-art-of-acoustic-capture-secrets-to-high-end-home-recordings-for-2024/"><u>[New] The Art of Acoustic Capture Secrets to High-End Home Recordings for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/agog-founders-invest-heavily-in-augmented-realitys-potential-for-societal-impact-an-insight-from-zdnet/"><u>Agog Founders Invest Heavily in Augmented Reality's Potential for Societal Impact: An Insight From ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/best-places-to-download-android-apps-top-22-sites/"><u>Best Places to Download Android Apps: Top 22 Sites</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-oppo-a1x-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Oppo A1x 5G? Try These Fixes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instantaneous-installation-laugh-with-ifunny-memes-easily/"><u>In 2024, Instantaneous Installation Laugh with iFunny Memes Easily</u></a></li>
 <li><a href="https://win-tricks.techidaily.com/quick-and-effortless-guide-deleting-apps-on-an-ipad-device/"><u>Quick and Effortless Guide: Deleting Apps on an iPad Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/resident-evil-4-update-woes-discover-simple-solutions-to-prevent-game-crashes-now/"><u>Resident Evil 4 Update Woes? Discover Simple Solutions to Prevent Game Crashes Now!</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/step-by-step-instructional-guide-on-navigating-the-apowersoft-photo-viewer-interface/"><u>Step-by-Step Instructional Guide on Navigating the Apowersoft Photo Viewer Interface</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-ultimate-guide-to-iphone-burst-mode-shooting/"><u>The Ultimate Guide to iPhone Burst Mode Shooting</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/top-methods-for-capturing-your-screen-on-windows-11-not-just-with-game-bar/"><u>Top Methods for Capturing Your Screen on Windows 11, Not Just with Game Bar</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-apple-iphone-12-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone 12</u></a></li>
 </ul></div>
 

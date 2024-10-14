@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Black Friday Bargains: Get More with Your Gift Cards | ZDNet Insights"
-date: 2024-10-01T18:21:47.882Z
-updated: 2024-10-08T17:28:11.998Z
+date: 2024-10-07T17:53:43.013Z
+updated: 2024-10-14T18:18:31.008Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,13 +102,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,16 +142,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -153,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,15 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-quick-recap-how-to-locate-youtube-comments-post-upload/"><u>[New] Quick Recap How to Locate YouTube Comments Post-Upload</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-evolution-of-video-from-full-length-to-yt-shorts/"><u>[Updated] 2024 Approved The Evolution of Video From Full-Length to YT Shorts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-efficiency-boost-editing-on-magix-video-pro-x/"><u>2024 Approved The Efficiency Boost Editing on Magix Video Pro X</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/boost-your-pcs-performance-quickly-terminate-sluggish-programs-with-this-hidden-windows-11-feature-insights-from-zdnet/"><u>Boost Your PC's Performance: Quickly Terminate Sluggish Programs with This Hidden Windows 11 Feature - Insights From ZDNet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-realme-c51-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-gameplay-revolution-elevating-ram-usage-for-minecraft/"><u>In 2024, Gameplay Revolution Elevating Ram Usage for Minecraft</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/lg-k92-5g-smartphone-evaluation-is-it-a-waste-only-for-its-5g-feature/"><u>LG K92 5G Smartphone Evaluation: Is It a Waste Only for Its 5G Feature?</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/why-winamp-wont-become-open-source-unveiling-its-new-direction-and-motivations/"><u>Why Winamp Won't Become Open Source: Unveiling Its New Direction & Motivations</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/windows-11-23h2-update-unveiled-surprisingly-charming-for-users-tech-zdnet/"><u>Windows 11 23H2 Update Unveiled - Surprisingly Charming for Users | Tech-ZDNet</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/windows-copilot-goes-solo-discover-how-microsofts-latest-app-revolutionizes-user-experience-digitaldaily/"><u>Windows Copilot Goes Solo! Discover How Microsoft’s Latest App Revolutionizes User Experience | DigitalDaily</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-vimeos-revenue-revolution-strategies-for-successful-advertising-earning/"><u>[New] 2024 Approved Vimeo's Revenue Revolution Strategies for Successful Advertising Earning</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-gionee-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Gionee</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-green-background-blueprints-download-free-practical-template-guides/"><u>2024 Approved Green Background Blueprints Download Free, Practical Template Guides</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-complete-process-of-logging-google-voice-calls/"><u>2024 Approved The Complete Process of Logging Google Voice Calls</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/affordable-microsoft-office-2019-deals-save-big-at-only-25-on-windowsmac-systems/"><u>Affordable Microsoft Office 2019 Deals: Save Big at Only $25 on Windows/Mac Systems!</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/effective-strategies-for-using-file-history-to-securely-backup-data-on-windows-10-and-11-insights-from-zdnet/"><u>Effective Strategies for Using File History to Securely Backup Data on Windows 10 & 11 - Insights From ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/exploring-the-microsoft-surface-duo-2-a-first-impression-after-two-weeks-insights-and-confusion-zdnet/"><u>Exploring the Microsoft Surface Duo 2: A First Impression After Two Weeks - Insights & Confusion | ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/get-microsoft-project-and-visio-professional-licenses-at-only-20-each-exclusive-offer-on-zdnet/"><u>Get Microsoft Project and Visio Professional Licenses at Only $20 Each - Exclusive Offer on ZDNet!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-an-unresponsive-onikuma-mic-step-by-step-fixes-revealed/"><u>How to Repair an Unresponsive Onikuma Mic – Step by Step Fixes Revealed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-advanced-aesthetics-the-ultimate-guide-to-tiktok-effects/"><u>In 2024, Advanced Aesthetics The Ultimate Guide to TikTok Effects</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-google-meet-go-live-your-youtube-broadcast-companion/"><u>In 2024, Google Meet Go Live - Your YouTube Broadcast Companion</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/logitech-brio-webcam-driver-downloads-for-windows-users-compatible-with-version-10-8-and-7/"><u>Logitech Brio Webcam Driver Downloads for Windows Users – Compatible with Version 10, 8 & 7</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/maximize-your-development-teams-output-with-microsoft-the-top-choice-identified-by-zdnet/"><u>Maximize Your Development Team’s Output with Microsoft: The Top Choice Identified by ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/microsofts-ambitious-plan-equipping-25-million-asean-individuals-with-essential-ai-proficiency-insights-from-zdnet/"><u>Microsoft's Ambitious Plan: Equipping 2.5 Million ASEAN Individuals with Essential AI Proficiency - Insights From ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/the-evolved-all-in-one-masterpiece-dive-into-the-enhanced-capabilities-of-microsoft-surface-studio-2plus-reviewed-by-zdnet/"><u>The Evolved All-in-One Masterpiece: Dive Into the Enhanced Capabilities of Microsoft Surface Studio 2+ Reviewed by ZDNet</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/web-browsing-in-numbers-identifying-leading-browsers-today/"><u>Web Browsing in Numbers: Identifying Leading Browsers Today</u></a></li>
 </ul></div>
 

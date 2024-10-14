@@ -1,7 +1,7 @@
 ---
 title: Protecting Your Microsoft Account From Hackers with Proven Tips by ZDNet Experts
-date: 2024-10-03T17:49:26.325Z
-updated: 2024-10-08T16:53:58.496Z
+date: 2024-10-09T17:57:12.663Z
+updated: 2024-10-14T19:36:02.298Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,22 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +196,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-ranking-of-superior-9-online-mic-recorders/"><u>[New] The Ultimate Ranking of Superior 9 Online Mic Recorders</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-finalized-choices-best-10-video-editing-tools-for-reels/"><u>[Updated] Finalized Choices Best 10 Video Editing Tools for Reels</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-audio-outliers-best-sound-distortion-apps-for-your-device/"><u>[Updated] In 2024, Audio Outliers Best Sound Distortion Apps for Your Device</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-full-rotation-shoots-9-must-follow-rules/"><u>[Updated] Mastering Full-Rotation Shoots 9 Must-Follow Rules</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-sound-design-strategies-integrating-youtube-music-into-visual-media/"><u>[Updated] Sound Design Strategies Integrating YouTube Music Into Visual Media</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unravel-the-mysteries-of-color-grading-with-cs6cc-luts/"><u>2024 Approved Unravel the Mysteries of Color Grading with CS6/CC LUTs</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/boost-performance-on-windows-11-with-a-stealthy-trick-to-swiftly-close-lagging-applications-insights-from-zdnet/"><u>Boost Performance on Windows 11 with a Stealthy Trick to Swiftly Close Lagging Applications | Insights From ZDNET</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/honor-70-lite-5g-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Honor 70 Lite 5G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-to-prevent-intrusive-promotions-in-windows-11-start-interface-a-step-by-step-guide-by-zdnet/"><u>How to Prevent Intrusive Promotions in Windows 11 Start Interface - A Step-by-Step Guide by ZDNET</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-from-novice-to-virtuoso-taking-control-with-screen-recordings-in-macos/"><u>In 2024, From Novice to Virtuoso Taking Control with Screen Recordings in macOS</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-vivo-s18e-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Vivo S18e Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-honor-magic-v2-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Honor Magic V2? | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/microsoft-silently-ends-hopes-for-windows-11-prolonged-support-devastates-fans-techspot/"><u>Microsoft Silently Ends Hopes for Windows 11 Prolonged Support, Devastates Fans | TechSpot</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/navigating-the-relationship-of-openai-and-microsoft-allies-in-innovation-or-rival-tech-titans/"><u>Navigating the Relationship of OpenAI & Microsoft: Allies in Innovation or Rival Tech Titans?</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/prepare-for-the-future-microsoft-announces-paid-updates-for-windows-11-what-you-can-expect/"><u>Prepare for the Future: Microsoft Announces Paid Updates for Windows 11 - What You Can Expect</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/surface-duo-2-with-official-pen-and-wireless-charger-case-review-enhanced-safety-meets-convenience/"><u>Surface Duo 2 with Official Pen & Wireless Charger Case Review: Enhanced Safety Meets Convenience</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/top-7-ergonomic-standing-desks-of-2023-a-comprehensive-review-techradar/"><u>Top 7 Ergonomic Standing Desks of 2023: A Comprehensive Review | TechRadar</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/unboxing-and-testing-a-comprehensive-review-of-the-feature-rich-mavix-m9-the-epitome-of-ergonomic-gaming-seating-zdnet/"><u>Unboxing and Testing: A Comprehensive Review of the Feature-Rich Mavix M9 - The Epitome of Ergonomic Gaming Seating | ZDNET</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/upcoming-fees-microsoft-announces-paid-windows-11-update-subscriptions-starting-next-year-details-inside/"><u>Upcoming Fees: Microsoft Announces Paid Windows 11 Update Subscriptions Starting Next Year - Details Inside</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-get-more-video-views-on-youtube/"><u>[Updated] In 2024, How To Get More Video Views on YouTube</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-basic-understanding-of-e-story-crafting/"><u>2024 Approved Basic Understanding of E-Story Crafting</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/boosting-productivity-and-engagement-how-microsoft-is-motivating-its-enterprising-staff-through-enhanced-features-in-teams/"><u>Boosting Productivity and Engagement: How Microsoft Is Motivating Its Enterprising Staff Through Enhanced Features in Teams.</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/discover-microsofts-solution-attracting-top-tier-software-engineers-with-maximum-efficiency-insights-from-zdnet/"><u>Discover Microsoft's Solution: Attracting Top-Tier Software Engineers with Maximum Efficiency - Insights From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723200135982-easy-fixes-for-common-minecraft-opengl-errors-get-started-now/"><u>Easy Fixes for Common Minecraft OpenGL Errors - Get Started Now!</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/experiencing-microsofts-surface-laptop-studio-unveiling-the-tech-that-sparked-my-envy-a-deep-dive-zdnet/"><u>Experiencing Microsoft's Surface Laptop Studio: Unveiling the Tech That Sparked My Envy - A Deep Dive | ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/gigglegraphs-designing-delightful-memes/"><u>GiggleGraphs Designing Delightful Memes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/graphic-portrayal-of-future-social-momentum-for-2024/"><u>Graphic Portrayal of Future Social Momentum for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-infinix-gt-10-pro-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Infinix GT 10 Pro.</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/rebuilding-your-keyboard-layout-with-microsoft-powertoys-a-step-by-step-guide-by-zdnet/"><u>Rebuilding Your Keyboard Layout with Microsoft PowerToys: A Step-by-Step Guide by ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/top-rated-black-friday-bargains-get-more-with-your-gift-cards-zdnet-insights/"><u>Top-Rated Black Friday Bargains: Get More with Your Gift Cards | ZDNet Insights</u></a></li>
 </ul></div>
 

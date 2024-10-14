@@ -1,7 +1,7 @@
 ---
 title: "Rebuilding Your Keyboard Layout with Microsoft PowerToys: A Step-by-Step Guide by ZDNet"
-date: 2024-10-06T16:01:37.956Z
-updated: 2024-10-08T16:22:46.471Z
+date: 2024-10-10T17:01:36.676Z
+updated: 2024-10-14T16:15:10.638Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,18 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-grasping-fcp-obtain-it-at-no-cost/"><u>[New] 2024 Approved Grasping FCP Obtain It at No Cost</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-essential-guide-to-html5s-most-acclaimed-tools/"><u>[New] The Essential Guide to HTML5's Most Acclaimed Tools</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-how-to-download-vimeo-videos-withwithout-software-100-useful/"><u>[Updated] How to Download Vimeo Videos With/Without Software [100% Useful]</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mobile-cinema-app-assessment-review/"><u>2024 Approved Mobile Cinema App Assessment Review</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-tech-savvy-simplified-your-guide-to-making-10-easy-youtube-videos/"><u>2024 Approved Tech Savvy Simplified Your Guide to Making 10 Easy YouTube Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-amplifying-your-content-free-techniques-to-boost-youtube-views/"><u>In 2024, Amplifying Your Content Free Techniques to Boost YouTube Views</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/powerful-performance-in-pocket-friendly-camera-g7x-mark-ii/"><u>Powerful Performance in Pocket-Friendly Camera: G7X Mark II</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/seamless-photo-transfer-moving-images-from-android-to-a-windows-pc-expert-guide/"><u>Seamless Photo Transfer: Moving Images From Android to a Windows PC - Expert Guide</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/top-rated-mini-computers-the-ultimate-list-by-tech-experts-insights-from-zdnet/"><u>Top-Rated Mini Computers : The Ultimate List by Tech Experts - Insights From ZDNet</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/uniting-obs-and-zoom-a-compreehensive-video-guide-for-2024/"><u>Uniting OBS and Zoom A Compreehensive Video Guide for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/unlocking-advanced-control-a-step-by-step-guide-to-activating-god-mode-on-windows-11-discover-the-benefits/"><u>Unlocking Advanced Control: A Step-by-Step Guide to Activating God Mode on Windows 11 - Discover the Benefits!</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/upgrading-avoided-smart-alternatives-to-windows-11-you-should-know-about/"><u>Upgrading Avoided: Smart Alternatives to Windows 11 You Should Know About</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/urgent-alert-windows-11-versions-21h2-and-22h2-hit-eol-upgrade-immediately-to-avoid-risks-zdnet/"><u>Urgent Alert: Windows 11 Versions 21H2 & 22H2 Hit EOL - Upgrade Immediately to Avoid Risks! [ZDNet]</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-room-and-pc-prep-for-immersive-vr-experience/"><u>[New] Room & PC Prep for Immersive VR Experience</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-seamless-communication-the-best-5-webcams-with-inbuilt-microphones-for-2024/"><u>[Updated] Seamless Communication The Best 5 Webcams with Inbuilt Microphones for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-stunning-iphone-portraits-through-water-imagery-techniques/"><u>[Updated] Stunning iPhone Portraits Through Water Imagery Techniques</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-your-guide-to-flawless-images-on-android-our-selection-of-top-editors-for-2024/"><u>[Updated] Your Guide to Flawless Images on Android Our Selection of Top Editors for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/global-cloud-savings-summary-comparing-and-choosing-the-cheapest-for-2024/"><u>Global Cloud Savings Summary Comparing and Choosing the Cheapest for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hidden-display-settings-return-in-windows-11/"><u>Hidden Display Settings Return in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 Pro Max without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/microsoft-to-introduce-costly-updates-for-windows-11-users-insight-into-the-new-payment-model-and-estimated-charges/"><u>Microsoft to Introduce Costly Updates for Windows 11 Users – Insight Into the New Payment Model and Estimated Charges</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/navigating-the-legality-of-your-windows-os-licensing-what-every-user-needs-to-know/"><u>Navigating the Legality of Your Windows OS Licensing: What Every User Needs to Know</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/outage-alert-microsoft-365-disrupted-services-impacting-millions-inside-the-incident-technews/"><u>Outage Alert: Microsoft 365 Disrupted Services Impacting Millions – Inside the Incident | TechNews</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723004487869-pc-troubles-stop-stray-crashes-with-these-6-reliable-solutions/"><u>PC Troubles? Stop Stray Crashes with These 6 Reliable Solutions</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/protecting-your-microsoft-account-from-hackers-with-proven-tips-by-zdnet-experts/"><u>Protecting Your Microsoft Account From Hackers with Proven Tips by ZDNet Experts</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unlock-the-secrets-amazfit-helio-rings-official-launch-and-pricing-info/"><u>Unlock the Secrets: Amazfit Helio Ring’s Official Launch & Pricing Info</u></a></li>
 </ul></div>
 

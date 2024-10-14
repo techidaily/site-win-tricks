@@ -1,7 +1,7 @@
 ---
 title: "Affordable Microsoft Office 2019 Deals: Save Big at Only $25 on Windows/Mac Systems!"
-date: 2024-10-05T16:11:06.883Z
-updated: 2024-10-08T17:21:08.981Z
+date: 2024-10-10T16:03:10.881Z
+updated: 2024-10-14T16:51:15.309Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -123,10 +123,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,16 +142,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -153,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,24 +202,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-managing-bitrate-in-obs-broadcasts/"><u>[New] Managing Bitrate in OBS Broadcasts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-snapcutmaster-insights-full-scrutiny/"><u>[New] SnapCutMaster Insights – Full Scrutiny</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-capturing-the-action-overwatch-video-recordings/"><u>[Updated] 2024 Approved Capturing the Action Overwatch Video Recordings</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-streamlined-file-sharing-from-your-computer-to-iphone-for-2024/"><u>[Updated] Streamlined File Sharing From Your Computer To iPhone for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/1726220690734-dpx-movavi/"><u>簡便線上DPX免費轉檔服務 - Movavi</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-realme-v30t-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Realme V30T Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/convertir-des-gif-vers-des-fichiers-swf-gratuitement-avec-la-solution-web-de-movavi-guide-detaille/"><u>Convertir Des GIF Vers Des Fichiers SWF Gratuitement Avec La Solution Web De Movavi - Guide Détaillé</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-these-15-amazing-free-music-download-resources-on-the-internet/"><u>Explore These 15 Amazing Free Music Download Resources on the Internet</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/flv-webm-movavi/"><u>FLV 파일을 WebM로 원격적으로 변환하는 편리한 Movavi 도구</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/free-online-converter-change-your-gifs-into-mp4-videos-use-movavi/"><u>Free Online Converter: Change Your GIFs Into MP4 Videos - Use Movavi</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-12-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 12? Complete Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-samsung-galaxy-f34-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Samsung Galaxy F34 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/movavi-mp3-m2p/"><u>Movavi MP3 대상화: 원탁과 일정 없이 바이너리 아이마지네이트를 무료로 M2P 변환</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/movavimpempg/"><u>Movaviで効率的な無料MPEとMPGのスムーズな変換方法 – オンラインツール</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/penning-parting-prose-for-press-for-2024/"><u>Penning Parting Prose for Press for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/profille-movavi-video-konverter-guaranteed-secure-purchase-og-rabatte/"><u>Profille Movavi Video Konverter - Guaranteed Secure Purchase Og Rabatte</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-head-produced-by-a-centrifugal-pump-decreases-as-flow-rate-increases-beyond-the-bep-due-to-increased-hydraulic-losses-and-reduced-efficiency/"><u>The Head Produced by a Centrifugal Pump Decreases as Flow Rate Increases Beyond the BEP Due to Increased Hydraulic Losses and Reduced Efficiency.</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/transform-audio-convert-asf-to-wav-streamingly-no-costs-involved-movavi/"><u>Transform Audio: Convert ASF to WAV Streamingly, No Costs Involved - Movavi</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/transforma-sus-videos-ts-en-formato-webm-libremente-en-la-web-por-medio-de-herramientas-de-conversion-gratuitas-como-movavi/"><u>Transforma Sus Videos TS en Formato WebM Libremente en La Web Por Medio De Herramientas De Conversión Gratuitas Como Movavi</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-top-mac-studio-for-exceptional-video-and-audiophile-recordings/"><u>[New] 2024 Approved Top Mac Studio for Exceptional Video & Audiophile Recordings</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-a-comprehensive-guide-to-vr-travel-adventures-for-2024/"><u>[Updated] A Comprehensive Guide to VR Travel Adventures for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-maximizing-impact-uploading-srt-subtitles-to-popular-networks-seamlessly/"><u>2024 Approved Maximizing Impact Uploading SRT Subtitles to Popular Networks Seamlessly</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtubes-evergreen-most-watched-video-catalog/"><u>2024 Approved YouTube's Evergreen Most-Watched Video Catalog</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-15-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 15 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/mac-compatible-soundcloud-audio-extractor-download-tunes-easily/"><u>Mac Compatible SoundCloud Audio Extractor - Download Tunes Easily</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-xiaomi-redmi-a2plus-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Xiaomi Redmi A2+</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/seamless-steps-migrating-your-mobile-contacts-from-one-device-to-another/"><u>Seamless Steps: Migrating Your Mobile Contacts From One Device to Another</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/top-5-complimentary-pdf-editing-tools-for-windows-pcs-latest-picks-of-2020/"><u>Top 5 Complimentary PDF Editing Tools for Windows PCs: Latest Picks of 2020</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/top-strategies-for-removing-music-tracks-from-your-iphone/"><u>Top Strategies for Removing Music Tracks From Your iPhone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/wirelessly-mirroring-your-android-device-on-windows-11-a-step-by-step-guide/"><u>Wirelessly Mirroring Your Android Device on Windows 11: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your Development Team’s Output with Microsoft: The Top Choice Identified by ZDNet"
-date: 2024-10-05T18:14:34.388Z
-updated: 2024-10-08T17:10:09.454Z
+date: 2024-10-08T16:19:42.576Z
+updated: 2024-10-14T17:34:08.829Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,13 +136,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,17 +196,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-ultimate-list-of-6-instagram-reel-enhancers/"><u>[New] 2024 Approved The Ultimate List of 6 Instagram Reel Enhancers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-streamline-your-watching-experience-download-youtube-captions-in-3-ways/"><u>[New] In 2024, Streamline Your Watching Experience Download YouTube Captions in 3 Ways</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-explore-eco-films-learn-and-innovate-with-yts-green-screens-for-2024/"><u>[Updated] Explore Eco-Films Learn & Innovate with YT's Green Screens for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-evening-enchantments-in-motion-reviewing-childrens-narrative-videos/"><u>2024 Approved Evening Enchantments in Motion Reviewing Children's Narrative Videos</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/effortless-conversion-with-3d-buzz-video-downloader-save-your-favorite-videos-as-mp4-wmv-or-avi/"><u>Effortless Conversion with 3D Buzz Video Downloader - Save Your Favorite Videos as MP4, WMV or AVI</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/effortless-video-conversion-transform-zaq1-files-into-popular-formats-like-mp4-avi-and-more-with-zaq1-downloader/"><u>Effortless Video Conversion: Transform ZAQ1 Files Into Popular Formats Like MP4, AVI & More with ZAQ1 Downloader!</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/gem-online-video-grabber-seamlessly-save-streams-from-gemonlinetv/"><u>Gem Online Video Grabber: Seamlessly Save Streams From Gemonline.TV</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/get-the-latest-episodes-direct-anime-video-downloads-from-gogoanime/"><u>Get the Latest Episodes! - Direct Anime Video Downloads From Gogoanime</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-to-safely-download-and-watch-hbo-go-movies-and-shows/"><u>How to Safely Download and Watch HBO GO Movies & Shows</u></a></li>
-<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/secure-your-home-on-a-budget-with-the-best-remobell-doorbell-reviews-for-less-than-1/"><u>Secure Your Home on a Budget with the Best RemoBell Doorbell Reviews for Less than $1</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-ultimate-solution-overcoming-halo-infinites-crashing-problem-in-pc-edition/"><u>The Ultimate Solution: Overcoming Halo Infinite's Crashing Problem in PC Edition</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-master-iphone-images-with-pro-level-tech/"><u>[New] In 2024, Master iPhone Images with Pro-Level Tech</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-smart-strategies-for-securely-saving-movie-moments-across-gadgets-for-2024/"><u>[New] Smart Strategies for Securely Saving Movie Moments Across Gadgets for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-epicurean-elites-top-food-vloggers-you-cant-miss/"><u>[Updated] Epicurean Elites Top Food Vloggers You Can't Miss</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-insignia-wireless-receiver-drivers-on-windows-pc/"><u>Download & Update Insignia Wireless Receiver Drivers on Windows PC</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/fast-and-easy-conversion-from-pdf-to-epub-for-bulk-documents-try-now-at-no-cost-on-flipbuilder/"><u>Fast & Easy Conversion From PDF to ePub for Bulk Documents - Try Now at No Cost on FlipBuilder</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-can-i-personalize-flipbuttons-help-feature-on-my-website/"><u>How Can I Personalize FlipButton's Help Feature on My Website?</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-activate-magnification-features-in-flipbooks-on-flipbuildercom/"><u>How to Activate Magnification Features in Flipbooks on FlipBuilder.com</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-enable-multilingual-support-for-your-ebooks-with-flipbuilder-a-comprehensive-guide/"><u>How To Enable Multilingual Support For Your eBooks With FlipBuilder: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-preserve-your-preferences-for-future-flipbook-creations-on-flipbuildercom/"><u>How to Preserve Your Preferences for Future FlipBook Creations on FlipBuilder.com</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-s18-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo S18 to iPad | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/investing-wisely-in-subscribers-get-more-for-less/"><u>Investing Wisely in Subscribers Get More for Less</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-resolving-errors-in-windows-installer/"><u>Understanding and Resolving Errors in Windows Installer</u></a></li>
 </ul></div>
 

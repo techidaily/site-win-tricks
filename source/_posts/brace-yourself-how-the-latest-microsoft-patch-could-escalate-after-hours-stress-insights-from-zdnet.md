@@ -1,7 +1,7 @@
 ---
 title: "Brace Yourself: How the Latest Microsoft Patch Could Escalate After-Hours Stress - Insights From ZDNet"
-date: 2024-10-02T18:22:27.833Z
-updated: 2024-10-08T17:53:45.563Z
+date: 2024-10-07T17:20:05.874Z
+updated: 2024-10-14T18:17:55.484Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,16 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -153,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,21 +196,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-elevate-presentations-harnessing-aiseesoft-screen-recordings/"><u>[New] 2024 Approved Elevate Presentations Harnessing Aiseesoft Screen Recordings</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-unmatched-audio-and-video-elite-webcams-for-podcasting/"><u>[Updated] 2024 Approved Unmatched Audio & Video Elite Webcams for Podcasting</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-revolutionize-advertising-try-all-50-available-free-youtube-banners-for-2024/"><u>[Updated] Revolutionize Advertising – Try All 50 Available FREE YouTube Banners for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/conversione-on-line-gratuita-da-aac-a-3gp-con-movavi/"><u>Conversione On-Line Gratuita Da AAC a 3GP Con Movavi</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/effortless-hd-video-editing-with-movavi-free-download-and-conversion-software/"><u>Effortless HD Video Editing with Movavi - Free Download and Conversion Software</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/elevate-your-streaming-experience-a-comprehensive-review-of-the-opal-tadpole-upgrade-for-inferior-laptop-cams/"><u>Elevate Your Streaming Experience: A Comprehensive Review of the Opal Tadpole Upgrade for Inferior Laptop Cams</u></a></li>
-<li><a href="https://article-posts.techidaily.com/elevate-your-unboxing-game-to-next-level/"><u>Elevate Your Unboxing Game to Next Level</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Samsung Galaxy S23? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-infinix-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Infinix</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On Apple iPhone 13 Pro Max?</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/minden-legjobb-atlagot-kifejezesu-atalakito-mkv-mp4-atlalakitasuton-windowsmac-online-tippekonzert/"><u>Minden Legjobb Átlagot Kifejezésű Átalakító: MKV MP4 Átlalakításúton Windows/Mac Online Tippekonzert</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/movavi-pef/"><u>Movavi提供: PEFファイルを自由翼切り替えプログラムで簡単に変換!</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/step-by-step-instructions-for-crafting-dynamic-visual-impact-with-imovie-effects/"><u>Step-by-Step Instructions for Crafting Dynamic Visual Impact with iMovie Effects</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-undisclosed-perks-of-driving-an-ev-priority-parking-spots-and-special-lane-access/"><u>The Undisclosed Perks of Driving an EV: Priority Parking Spots & Special Lane Access</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/titre-convertissez-vos-fichiers-rmvb-au-format-mp3-sans-frais-movavi/"><u>Titre: Convertissez Vos Fichiers RMVB Au Format MP3 Sans Frais - Movavi</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/top-20-free-video-transcoding-tools-for-pc-compatible-with-windows-10-8-and-7/"><u>Top 20 Free Video Transcoding Tools for PC: Compatible with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-foundations-of-easing-volume-control-in-audition-for-2024/"><u>[New] Foundations of Easing Volume Control in Audition for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-elite-eight-polishing-pictures-through-premium-grid-makers/"><u>[Updated] Elite Eight Polishing Pictures Through Premium Grid Makers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-exclusive-cinematic-introductions/"><u>[Updated] Exclusive Cinematic Introductions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagram-stories-secrets-for-success/"><u>[Updated] In 2024, Instagram Stories Secrets for Success</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-master-iphone-and-ipad-best-free-video-editors-guide-for-2024/"><u>[Updated] Master iPhone & iPad Best Free Video Editors Guide for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/eliminate-your-errors-solutions-to-the-d3dx92/"><u>Eliminate Your Errors: Solutions to the D3dx9_2^</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/emeditor-text-editor-reviewed-in-depth-analysis-of-its-spell-check-feature/"><u>EmEditor Text Editor Reviewed: In-Depth Analysis of Its Spell Check Feature</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/seamless-steps-migrating-your-mobile-contacts-from-one-device-to-another/"><u>Seamless Steps: Migrating Your Mobile Contacts From One Device to Another</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/the-ultimate-tutorial-on-transferring-data-from-your-oppo-device-to-laptop-or-desktop/"><u>The Ultimate Tutorial on Transferring Data From Your Oppo Device to Laptop or Desktop</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/troubleshooting-character-set-challenges-for-list-boxes-in-emeditor-text-editor/"><u>Troubleshooting Character Set Challenges for List Boxes in EmEditor Text Editor</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/wirelessly-mirroring-your-android-device-on-windows-11-a-step-by-step-guide/"><u>Wirelessly Mirroring Your Android Device on Windows 11: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

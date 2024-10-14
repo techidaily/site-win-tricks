@@ -1,7 +1,7 @@
 ---
 title: Microsoft to Introduce Costly Updates for Windows 11 Users – Insight Into the New Payment Model and Estimated Charges
-date: 2024-10-07T17:07:21.945Z
-updated: 2024-10-08T17:55:52.937Z
+date: 2024-10-10T18:27:13.654Z
+updated: 2024-10-14T17:50:21.380Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,21 +196,14 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-navigating-picture-in-picture-settings-for-iphone-and-ipad/"><u>[New] 2024 Approved Navigating Picture-in-Picture Settings for iPhone & iPad</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-frosty-frameworks-for-warm-video-productions/"><u>[New] Frosty Frameworks for Warm Video Productions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-obs-potential-incorporating-luts-seamlessly/"><u>[New] Unlocking OBS' Potential Incorporating LUTs Seamlessly</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-best-xsplit-alternatives-for-streaming/"><u>[Updated] Best Xsplit Alternatives for Streaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/banish-blue-screen-blues-repairing-the-launcher-hitch/"><u>Banish Blue Screen Blues: Repairing the Launcher Hitch</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/brace-yourself-how-the-latest-microsoft-patch-could-escalate-after-hours-stress-insights-from-zdnet/"><u>Brace Yourself: How the Latest Microsoft Patch Could Escalate After-Hours Stress - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/delving-into-the-world-of-artificial-intelligence-with-claude-2/"><u>Delving Into the World of Artificial Intelligence with Claude 2</u></a></li>
-<li><a href="https://fox-info.techidaily.com/discover-the-leading-free-passport-photo-services-for-2024/"><u>Discover the Leading Free Passport Photo Services for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/future-proof-your-workflow-office-2016-and-201-the-last-update-for-microsofts-backend-services-read-more-on-zdnet/"><u>Future-Proof Your Workflow: Office 2016 and 201 The Last Update for Microsoft's Backend Services - Read More on ZDNet</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-microsoft-and-google-excel-in-ai-support-while-others-lag-behind-insights-from-zdnet/"><u>How Microsoft & Google Excel in AI Support, While Others Lag Behind: Insights From ZDNet</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/mirillis-privacy-standards-and-user-consent-guidelines/"><u>Mirillis Privacy Standards & User Consent Guidelines</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/tapping-into-efficiency-microsoft-introduces-key-surface-tools-for-business-productivity-zdnet-uncovered/"><u>Tapping Into Efficiency: Microsoft Introduces Key Surface Tools for Business Productivity - ZDNET Uncovered</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/the-art-of-crafting-content-for-snapchat-professionals/"><u>The Art of Crafting Content for Snapchat Professionals</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-fast-track-to-fashionista-status-on-instagram-our-essential-guide-for-speed-up-star-chasers-for-2024/"><u>The Fast Track to Fashionista Status on Instagram Our Essential Guide for Speed-Up Star Chasers for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/ultimate-guide-setting-up-an-ideal-windows-11-vm-on-your-pc-insights-from-zdnet/"><u>Ultimate Guide: Setting Up an Ideal Windows 11 VM on Your PC - Insights From ZDNet</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/webcam-video-editing-effortless-background-elimination-via-advanced-chroma-key-technique/"><u>Webcam Video Editing: Effortless Background Elimination via Advanced Chroma Key Technique</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-best-a-compact-guide-to-2024s-top-10-lens-selections/"><u>[Updated] Unveiling the Best A Compact Guide to 2024'S Top 10 Lens Selections</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1-how-to-convert-your-ehow-videos-into-mp4-format-on-pc-and-mac-with-ehow-downloader/"><u>1. How to Convert Your eHow Videos Into MP4 Format on PC & MAC with EHow Downloader</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-elite-equipment-showcasing-gameplay-innovations/"><u>2024 Approved Elite Equipment Showcasing Gameplay Innovations</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/convert-and-download-videos-in-multiple-formats-mp4-mov-avi-etc/"><u>Convert and Download Videos in Multiple Formats (MP4, MOV, AVI, Etc.)</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/discover-the-best-5-courseware-choices-similar-to-coursera-for-enhanced-e-learning/"><u>Discover the Best 5 Courseware Choices Similar to Coursera for Enhanced E-Learning</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/download-ispe-video-collection-in-multiple-formats-mp4-avi-wmv-compatible-with-macos-and-windows/"><u>Download ISPE Video Collection in Multiple Formats (MP4, AVI, WMV) - Compatible with macOS & Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Infinix Smart 7? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-xiaomi-14-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-art-of-recording-expert-strategies-for-vr-gameplay-preservation-for-2024/"><u>The Art of Recording Expert Strategies for VR Gameplay Preservation for 2024</u></a></li>
 </ul></div>
 

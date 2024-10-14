@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Using File History to Securely Backup Data on Windows 10 & 11 - Insights From ZDNet
-date: 2024-10-04T16:01:01.222Z
-updated: 2024-10-08T18:08:37.402Z
+date: 2024-10-13T18:57:41.784Z
+updated: 2024-10-14T17:05:15.042Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -137,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,6 +141,13 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -196,20 +196,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-boosting-facebook-video-performance/"><u>[Updated] 2024 Approved Boosting Facebook Video Performance</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-decoding-the-visual-language-of-live-videos-on-youtube/"><u>2024 Approved Decoding the Visual Language of Live Videos on YouTube</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/aggiornamento-schermata-teams-passaggi-per-modificare-il-sfondo-nei-prodotti-di-microsoft-guida/"><u>Aggiornamento Schermata Teams - Passaggi Per Modificare Il Sfondo Nei Prodotti Di Microsoft (Guida)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beware-phony-chatgpt-programs-potential-threats-ahead/"><u>Beware Phony ChatGPT Programs - Potential Threats Ahead!</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/converter-gratuito-de-archivo-wav-a-formato-flac-en-linea-movavi/"><u>Converter Gratuito De Archivo WAV a Formato FLAC en Línea - Movavi</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/estrategias-educacionais-vantajosas-melhorar-a-experiencia-na-sala-tradicional-e-no-ensino-a-distancia-10-dicas-essenciais/"><u>Estratégias Educacionais Vantajosas: Melhorar a Experiência Na Sala Tradicional E No Ensino À Distância – 10 Dicas Essenciais</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/firefoxvidrecorder-plugins-for-2024/"><u>FirefoxVidRecorder Plugins for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/free-online-conversion-of-movswf-files-by-movavi/"><u>Free Online Conversion of MOV/SWF Files by Movavi</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gratis-mkv-player-app-perfekt-fur-das-streaming-und-anschauen-von-mkv-filmen/"><u>Gratis MKV Player App: Perfekt Für Das Streaming Und Anschauen Von MKV-Filmen</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/gratuite-convertisseur-en-ligne-flac-vers-avi-avec-movavi-facile-et-rapide/"><u>Gratuite: Convertisseur en Ligne FLAC Vers AVI Avec Movavi - Facile Et Rapide</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/movavi-m4v-swf/"><u>Movavi 제공: M4V를 SWF로 쉽게 전환하는 방법, 웹 기능으로 접근</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/mp4-format-explained-comprehensive-guide-to-understanding-and-working-with-mp4-files/"><u>MP4 Format Explained: Comprehensive Guide to Understanding and Working with .mp4 Files</u></a></li>
-<li><a href="https://discover-help.techidaily.com/schnell-und-qualitatsbewusst-von-mkv-nach-mp4-konvertieren/"><u>Schnell Und Qualitätsbewusst Von MKV Nach MP4 Konvertieren</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/ultimate-guide-to-smoothing-out-pixelated-footage-effectively/"><u>Ultimate Guide to Smoothing Out Pixelated Footage Effectively</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upcoming-release-a-guide-to-pre-ordering-and-expectations-of-the-latest-airpods-insights-from-zdnet/"><u>Upcoming Release: A Guide to Pre-Ordering & Expectations of the Latest AirPods - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-embrace-pure-gaming-essential-ios-games-played-offline/"><u>[Updated] Embrace Pure Gaming Essential iOS Games Played Offline</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-spectrum-of-immersive-tech-vr-vs-ar-and-more/"><u>[Updated] The Spectrum of Immersive Tech VR Vs. AR and More</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-behind-the-scenes-mastering-cinematic-techniques-in-24/"><u>2024 Approved Behind the Scenes Mastering Cinematic Techniques in '24</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-guide-the-best-4-ringtone-providers/"><u>2024 Approved Exclusive Guide The Best 4 Ringtone Providers</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/advanced-text-editing-with-emeditor-the-ultimate-free-software/"><u>Advanced Text Editing with EmEditor: The Ultimate Free Software</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-downloading-and-setting-up-usb-c-drivers-on-windows-10/"><u>Easy Guide: Downloading & Setting Up USB-C Drivers on Windows 10</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/emeditor-text-editor-reviewed-in-depth-analysis-of-its-spell-check-feature/"><u>EmEditor Text Editor Reviewed: In-Depth Analysis of Its Spell Check Feature</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-switch-text-file-line-breaks-mastering-lf-and-crlf-in-emeditor/"><u>How to Switch Text File Line Breaks: Mastering LF and CRLF in EmEditor</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/jestmastery-create-share-and-sign-up-with-ease/"><u>JestMastery Create, Share & Sign Up with Ease</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ating-through-best-youtube-extractors/"><u>Navigating Through Best YouTube Extractors</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/the-ultimate-tutorial-on-transferring-data-from-your-oppo-device-to-laptop-or-desktop/"><u>The Ultimate Tutorial on Transferring Data From Your Oppo Device to Laptop or Desktop</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/troubleshooting-character-set-challenges-for-list-boxes-in-emeditor-text-editor/"><u>Troubleshooting Character Set Challenges for List Boxes in EmEditor Text Editor</u></a></li>
 </ul></div>
 
