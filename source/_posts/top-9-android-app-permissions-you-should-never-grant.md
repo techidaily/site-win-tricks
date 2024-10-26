@@ -1,7 +1,7 @@
 ---
 title: Top 9 Android App Permissions You Should Never Grant
-date: 2024-10-19T08:23:39.418Z
-updated: 2024-10-20T00:38:46.124Z
+date: 2024-10-23T08:14:48.718Z
+updated: 2024-10-26T04:13:08.862Z
 tags:
   - product
   - antivirus
@@ -66,6 +66,13 @@ Fact is, the more unnecessary permissions an app requires, the more it might end
 
 It’s the very nature of the beast.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Setting the Permissions
 
 Whenever you install an app, Android will ask you all of the permissions it needs to function. It will also ask for your confirmation when you start that app for the first time. It is important to read them carefully before allowing specific permission.
@@ -78,25 +85,11 @@ It gives that application the ability to phish your password through trickery or
 
 That’s the last thing you want, this privacy and security nightmare.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## App Permissions to avoid on Android
 
 We take a look at the most common permissions apps asks for on Android below. Each one is detailed with what it does, so you know what it does and how it impacts your privacy and the security of your device. Additionally, it should also give you an idea of what permissions to avoid.
 
 Let’s get to it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Authenticate accounts
 
@@ -108,6 +101,13 @@ What’s telling us is that the apps that ask for this permission legitimately c
 
 [Session Hijacking Controls your Account without Password: How to](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Read Sensitive log data
 
 ![](https://www.malwarefox.com/wp-content/uploads/2020/02/log.png)
@@ -118,42 +118,28 @@ There have been cases where these malware-infested apps secretly mailed the log 
 
 [What is Cached Data on Android Phone](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Read contacts
 
 ![](https://www.malwarefox.com/wp-content/uploads/2020/02/contacts.png)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As it says on the tin, this permission gives an application access to your contact, letting it read all the details of these entries. This is the first thing that malware apps will ask for. If you allow them, they will take advantage of these details in a variety of ways, including sending malicious files to your contacts via spoofed emails.
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Read or Write Calendar data
 
 ![](https://www.malwarefox.com/wp-content/uploads/2020/02/calendar.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now, this permission is something that will be of moderate importance to most users. Calendar information is usually slightly less important than your contact list, even as calendar events often contain contact information. But if you know that an app is legitimately asking for access here, then there is little harm in giving it. 
 
@@ -177,6 +163,13 @@ This one is straightforward. Once granted this permission, an app will get the a
 
 This is another powerful permission that you should not be handing out like candies on a Halloween night. As a matter of pure fact, it should belong exclusively to VoIP apps, those that you use to make voice and video calls with your friends and family. An app that wants this access without having anything to do with incoming or outgoing calls will simply be over-permissioned.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Send SMS
 
 Back in the wild days, when Android was very new, apps really misused this ability. Once installed, they would send premium SMS messages from your handset incurring heavy costs. Thankfully, we have moved beyond these nightmare scenarios.
@@ -184,13 +177,6 @@ Back in the wild days, when Android was very new, apps really misused this abili
 Nevertheless, you should still use caution in granting apps access to send SMS or MMS. While the number of companies that can tack on charges to individual SMS is low nowadays, you would still receive the bill for using services like these. Unless you are absolutely sure that your chosen app requires access to your SMS, this permission should not be permitted.
 
 [How to Block Unwanted SMS text Messages on Android](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Read Social Stream
 
@@ -202,16 +188,23 @@ This is, again, something that you should be very careful of, and only hand over
 
 App permissions may be one of the best things to ever happen to the Android platform. They are great in theory. But it still pays to know exactly what terms and conditions you are agreeing to, and what the applications are doing with your private data.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3 thoughts on “9 App Permissions to Avoid on Android”
 
 1. ![](https://secure.gravatar.com/avatar/594d2b32dd23344d963d854a4d5ea8f0?s=50&d=mm&r=g)  
 Tonya  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [June 3, 2020 at 1:57 am](https://tools.techidaily.com/malwarefox/products/)  
@@ -221,10 +214,16 @@ How do I stop all of the the blocks,put on anything that has to do with me/or my
 Jubal Spencer  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [September 9, 2021 at 2:15 am](https://tools.techidaily.com/malwarefox/products/)  
@@ -234,6 +233,13 @@ I look forward to your reply.
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 3. ![](https://secure.gravatar.com/avatar/f11f4161b0c96d94489229ff513b368b?s=50&d=mm&r=g)  
 Jubal Spencer  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [September 9, 2021 at 2:16 am](https://tools.techidaily.com/malwarefox/products/)  
 I forgot I have an android  
@@ -264,24 +270,21 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-elevating-your-video-posts-with-properly-uploaded-srt-files/"><u>[Updated] In 2024, Elevating Your Video Posts with Properly Uploaded SRT Files</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-no-video-paths-in-modern-education-systems-for-2024/"><u>[Updated] No-Video Paths in Modern Education Systems for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-skype-the-top-10-audio-capture-tools/"><u>2024 Approved Skype The Top 10 Audio Capture Tools</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-transfer-tactics-efficiently-getting-data-on-your-computer/"><u>2024 Approved Transfer Tactics Efficiently Getting Data On Your Computer</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/analyzing-freecampros-webcam-capture-quality-for-2024/"><u>Analyzing FreeCamPro's Webcam Capture Quality for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/comment-pouvez-vous-recouvrer-des-fichiers-microsoft-powerpoint-deletes-irremediablement/"><u>Comment Pouvez-Vous Recouvrer Des Fichiers Microsoft PowerPoint Deletés Irrémédiablement ?</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/comprehensive-tutorial-connecting-and-utilizing-an-sd-card-reader-for-android-phones-and-tablets/"><u>Comprehensive Tutorial: Connecting and Utilizing an SD Card Reader for Android Phones & Tablets</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dive-into-hardware-mastery-with-toms-expert-reviews/"><u>Dive Into Hardware Mastery with Tom's Expert Reviews</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-to-block-application-installation-on-windows/"><u>How to Block Application Installation on Windows</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c22-phone-without-pin-by-drfone-android/"><u>How to Unlock Nokia C22 Phone without PIN</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-poco-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Poco FRP Locks</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-honor-magic-vs-2-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Honor Magic Vs 2 FRP?</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/mastering-remote-access-the-essential-strategies-for-logging-into-your-professional-outlook-mailbox/"><u>Mastering Remote Access: The Essential Strategies for Logging Into Your Professional Outlook Mailbox</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/not-found-alert-handling-http-404-mistakes/"><u>Not Found Alert: Handling HTTP 404 Mistakes</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/revitalize-your-email-3-effective-solutions-for-a-non-functional-outlook-signature/"><u>Revitalize Your Email: 3 Effective Solutions for a Non-Functional Outlook Signature</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/simple-guide-transferring-videos-from-your-iphone-onto-a-windows-10-or-11-pc-without-hitches/"><u>Simple Guide: Transferring Videos From Your iPhone Onto a Windows 10 or 11 PC Without Hitches</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/top-2-recommended-software-solutions-for-duplicating-your-dell-storage-device/"><u>Top 2 Recommended Software Solutions for Duplicating Your Dell Storage Device</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/virtual-venue-vetting-picking-obs-or-twitch-for-2024/"><u>Virtual Venue Vetting Picking OBS or Twitch for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/wie-sie-mehrere-geplante-datensicherungen-auf-einem-windows-server-einrichten-und-verwalten-konnen/"><u>Wie Sie Mehrere Geplante Datensicherungen Auf Einem Windows Server Einrichten Und Verwalten Können</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-a-practical-guide-to-saving-screens-on-dell-computers-for-2024/"><u>[New] A Practical Guide to Saving Screens on Dell Computers for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-muting-the-youtube-video-peek-mechanism/"><u>[Updated] 2024 Approved Muting the YouTube Video Peek Mechanism</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-superior-speech-logging-apps-for-ipads-3/"><u>[Updated] 2024 Approved Superior Speech Logging Apps for iPads #3</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-design-your-brand-free-logo-templates-and-personalization/"><u>[Updated] Design Your Brand Free Logo Templates & Personalization</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-expert-techniques-for-uploading-youtubes-on-dailymotion/"><u>[Updated] Expert Techniques for Uploading YouTubes on Dailymotion</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/complete-guide-safely-refreshing-windows-11-installation-while-preserving-your-files/"><u>Complete Guide: Safely Refreshing Windows 11 Installation While Preserving Your Files</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/discover-the-safest-video-call-options-for-your-smartphone-or-tablet-for-2024/"><u>Discover the Safest Video Call Options for Your Smartphone or Tablet for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/easy-steps-para-iniciar-lenovo-con-un-disco-usb-en-windows-11/"><u>Easy Steps Para Iniciar Lenovo Con Un Disco USB en Windows 11</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/guia-paso-a-paso-para-restablecer-su-correo-con-aomei-backupper/"><u>Guía Paso a Paso Para Restablecer Su Correo Con AOMEI Backupper</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-amplify-sales-discover-the-leading-15-facebook-monitoring-tools/"><u>In 2024, Amplify Sales Discover the Leading 15 Facebook Monitoring Tools</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-copy-contacts-from-apple-iphone-se-2020-to-sim-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Copy Contacts from Apple iPhone SE (2020) to SIM? | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/is-the-google-customer-loyalty-scheme-a-genuine-offer-or-a-fraudulent-trap/"><u>Is the Google Customer Loyalty Scheme a Genuine Offer or a Fraudulent Trap?</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/reparacion-de-copias-de-seguridad-del-servidor-windows-server-mediante-maquinas-virtuales-dos-metodos-eficaces/"><u>Reparación De Copias De Seguridad Del Servidor Windows Server Mediante Máquinas Virtuales - Dos Métodos Eficaces</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/resepsi-gratis-dan-efisien-metode-mendelepan-data-secara-cepat-dalam-perbarui-hard-drive/"><u>Resepsi Gratis Dan Efisien: Metode Mendelepan DATA Secara Cepat Dalam Perbarui Hard Drive</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/solutions-simples-et-efficaces-au-cas-dune-cle-ssd-crucial-non-reconnue-par-la-bios/"><u>Solutions Simples Et Efficaces Au Cas D'Une Clé SSD Crucial Non Reconnue Par La BIOS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-case-for-unchangeable-ai-language-mods/"><u>The Case for Unchangeable AI Language Mods</u></a></li>
 </ul></div>
 

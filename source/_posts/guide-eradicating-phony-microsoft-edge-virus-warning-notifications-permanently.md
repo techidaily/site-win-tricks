@@ -1,7 +1,7 @@
 ---
 title: "Guide: Eradicating Phony Microsoft Edge Virus Warning Notifications Permanently"
-date: 2024-10-15T10:04:07.124Z
-updated: 2024-10-20T13:41:02.502Z
+date: 2024-10-25T04:54:04.253Z
+updated: 2024-10-26T03:17:20.545Z
 tags:
   - product
   - antivirus
@@ -71,27 +71,34 @@ If the Microsoft Edge virus alert pop-up still appears on your PC, try to find t
 1. Right-click on the taskbar and select the **Task Manager**.  
 ![Open Task Manager](https://www.malwarefox.com/wp-content/uploads/2020/05/Open-Task-Manger.png)
 2. Watch out for the applications that are consuming the system memory even though you did not install or launch them.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Right-click on the suspicious application and open its file location.  
 ![uninstall suspicous files](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-suspicous-files.png)
 4. Delete the file from its root location.
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Open Control Panel and click on **Uninstall a program** and check for suspicious apps. One by one, select and uninstall them.![uninstall the apps](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-the-apps.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Delete Temporary Files**
 
@@ -102,10 +109,38 @@ Here are the steps to eliminate thre temporary files:
 1. Open the Run command window.
 2. Type **%temp%** and hit the enter key.![temp run command](https://www.malwarefox.com/wp-content/uploads/2020/07/temp-run-command.png)
 3. This run command would navigate you to this path: **_C:\\Users\\\[username\]\\AppData\\Local\\Temp,_** that is, the temp folder.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Select all Files and Folders of this folder and delete them. Don’t hesitate to delete them, as they are not essential for any of your tasks. ![Delete temp files](https://www.malwarefox.com/wp-content/uploads/2020/07/Delete-temp-files.png)
 5. Next right-click on the **Recycle Bin** and select **Empty Recycle Bin.**![Empty recycle bin](https://www.malwarefox.com/wp-content/uploads/2020/07/Empty-recycle-bin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Clear Browsing Data**
 
@@ -117,20 +152,13 @@ Clearing the browsing data such as history, cookies, cached data, and others mig
 4. Scroll down and under **Clear browsing data,** click on **Choose what to clear** button.![choose what to clear](https://www.malwarefox.com/wp-content/uploads/2021/05/choose-what-to-clear.png)
 5. Select Browsing History, Download History, Cache, Cookies, and other data, choose the appropriate Time range, and click on the **Clear now** button.![clear edge data](https://www.malwarefox.com/wp-content/uploads/2021/05/clear-edge-data.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Install an Antimalware and Perform a Scan**
@@ -142,14 +170,14 @@ MalwareFox is reliable security software that promises to protect your system an
 1. [Download Malwarefox and install it](https://tools.techidaily.com/malwarefox/products/).
 2. Perform a full system scan to get rid of every malware that is troubling your system.![MalwareFox Antimalware](https://www.malwarefox.com/wp-content/uploads/2020/02/malwarefox.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Why Windows get More Virus Attacks than Mac or Linux](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -164,13 +192,6 @@ No, Edge is a popular and legit browser designed by the reputed software develop
 The virus warning pop-up on the Microsoft Edge might be because of an adware present on your system. It might also be because of malicious website redirection.
 
 [How to remove Yahoo Search from Chrome?](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6 thoughts on “How to Remove Virus Alert from Microsoft Edge?”
 
@@ -187,25 +208,11 @@ I got the exactly the same popup fake Microsoft Edge Virus Detector. I followed 
 3. ![](https://secure.gravatar.com/avatar/20992e115e6854d4d3354bfec2ef927a?s=50&d=mm&r=g)  
 Anon  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [January 24, 2022 at 11:03 pm](https://tools.techidaily.com/malwarefox/products/)  
 In macOS, I received one of these on my google chrome browser. All you have to do is get the website that is doing it and search it up in your chrome notification setting. Then, you can click delete cookies and it will go away.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 4. ![](https://secure.gravatar.com/avatar/0114c46f2404b3774063826691486a89?s=50&d=mm&r=g)  
 Bob  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [March 1, 2022 at 9:17 pm](https://tools.techidaily.com/malwarefox/products/)  
 Thank you. So far my pl4fulbunny is gone.  
@@ -221,6 +228,13 @@ Marguerite Brown
 [January 3, 2024 at 6:34 am](https://tools.techidaily.com/malwarefox/products/)  
 WOW…..clearing the browsing data worked. Bingo! I knew it was a scam, but impossible to work comfortably with “Russia now has control of your computer” et al screaming at you. Thanks so much.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -247,20 +261,16 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/reating-compelling-cost-free-youtube-intros/"><u>[New] Creating Compelling, Cost-Free YouTube Intros</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-boosting-income-through-effective-video-marketing/"><u>[Updated] Boosting Income Through Effective Video Marketing</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-vivo-v27-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Vivo V27 Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/comprehensive-steps-to-replicate-a-steam-decks-solid-state-drive-expert-tutorial/"><u>Comprehensive Steps to Replicate a Steam Deck's Solid-State Drive - Expert Tutorial</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/exploring-the-capabilities-of-bandicam-for-multimedia-creators/"><u>Exploring the Capabilities of Bandicam for Multimedia Creators</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/is-your-google-drive-vulnerable-to-ransomware-insights-from-malwarefox/"><u>Is Your Google Drive Vulnerable to Ransomware: Insights From MalwareFox</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/mastering-file-backup-and-synchronization-in-windows-t-with-rsync-expert-tips-and-tricks/"><u>Mastering File Backup and Synchronization in Windows T with Rsync: Expert Tips and Tricks</u></a></li>
-<li><a href="https://win-blog.techidaily.com/passare-dal-codec-3gpp-al-container-m4a-senza-costi-utilizzando-il-servizio-web-di-movavi/"><u>Passare Dal Codec 3GPP Al Container M4A Senza Costi Utilizzando Il Servizio Web Di Movavi</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/passo-a-passo-para-copiar-o-ghost-em-um-ssd-um-guia-pratico-em-tres-fases/"><u>Passo a Passo Para Copiar O Ghost Em Um SSD: Um Guia Prático Em Três Fases</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/rebuilding-deleted-files-in-windows-11-a-step-by-step-guide-using-the-shift-key/"><u>Rebuilding Deleted Files in Windows 11: A Step-by-Step Guide Using the Shift Key</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/step-by-step-guide-to-repairing-bootmgr-issues-in-windows-11/"><u>Step-by-Step Guide to Repairing BOOTMGR Issues in Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-7-solid-substitutes-for-4k-video-downloader/"><u>Top 7 Solid Substitutes for 4K Video Downloader</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/top-solutions-for-the-error-creating-volume-snapshot-issue/"><u>Top Solutions for the 'Error Creating Volume Snapshot' Issue</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/two-effective-methods-for-backing-up-files-on-windows-server-a-comprehensive-guide/"><u>Two Effective Methods for Backing Up Files on Windows Server: A Comprehensive Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-manual-for-crafting-youtube-playlists/"><u>[New] In 2024, How-To Manual for Crafting YouTube Playlists</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-rectify-facebook-video-playback-issues-chrome/"><u>[New] Rectify Facebook Video Playback Issues (Chrome)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/best-of-breed-capture-card-for-switch-for-2024/"><u>Best of Breed Capture Card for Switch for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/como-hacer-una-copia-de-seguridad-especifica-de-carpetas-en-windows-11/"><u>Cómo Hacer Una Copia De Seguridad Específica De Carpetas en Windows 11</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/die-top-8-strategien-zur-sicherstellung-dass-windows-11-updates-angezeigt-werden/"><u>Die Top-8 Strategien Zur Sicherstellung, Dass Windows 11 Updates Angezeigt Werden</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-to-the-latest-tiktok-screen-art-for-2024/"><u>Guide to the Latest TikTok Screen Art for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-fix-the-couldnt-modify-partition-map-error-error-code-69874-with-proven-techniques/"><u>How to Fix the 'Couldn't Modify Partition Map Error (Error Code 69874)' With Proven Techniques</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/overcome-system-update-problems-with-easy-fixes-for-error-0x80073374-where-your-files-arent-found/"><u>Overcome System Update Problems with Easy Fixes for Error 0X80073^[374]: Where Your Files Aren't Found</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/prime-retro-elements-reviving-classic-vhs-tricks-for-2024/"><u>Prime Retro Elements Reviving Classic VHS Tricks for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/rejuvenate-and-revamp-gaming-with-windows-setup-on-steam-deck/"><u>Rejuvenate & Revamp Gaming with Windows Setup on Steam Deck</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/transferring-emails-to-your-new-ipad-solutions-for-common-transfer-issues-and-how-to-overcome-them/"><u>Transferring Emails to Your New iPad – Solutions for Common Transfer Issues and How to Overcome Them</u></a></li>
 </ul></div>
 
