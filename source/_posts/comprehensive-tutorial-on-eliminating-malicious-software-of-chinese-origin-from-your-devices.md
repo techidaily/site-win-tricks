@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Tutorial on Eliminating Malicious Software of Chinese Origin From Your Devices
-date: 2024-10-20T22:29:29.731Z
-updated: 2024-10-25T16:21:49.274Z
+date: 2024-10-29T21:07:06.251Z
+updated: 2024-10-31T19:39:54.384Z
 tags:
   - product
   - antivirus
@@ -84,13 +84,20 @@ Windows 10Windows 11
 4. Delete the file from its root location.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Open Control Panel and click on **Uninstall a program** and check for suspicious apps. One by one, select and uninstall them.![uninstall the apps](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-the-apps.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### **Uninstall Suspicious Apps on Windows 11**
 
@@ -99,14 +106,22 @@ Windows 10Windows 11
 
 3. Right-click on such applications and open their file location.![uninstall suspicous files](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-suspicous-files.png)
 4. Delete all files from the targeted folder. Some files won’t be deleted as the application is still active.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Open **Control Panel** and click on **Uninstall a program**.![uninstall-a-program](https://www.malwarefox.com/wp-content/uploads/2021/09/uninstall-a-program.png)
 6. Check for suspicious apps. One by one, select and uninstall them.![uninstall the apps](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-the-apps.png)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -127,21 +142,14 @@ Here are the steps to reset the Google Chrome browser:
 2. On the Settings page, click on the **Advanced** at the left pane.![adanced-chrome-settings](https://www.malwarefox.com/wp-content/uploads/2021/09/adanced-chrome-settings.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Under Advanced settings, click on **Reset and clean up**.![reset-and-clean-up](https://www.malwarefox.com/wp-content/uploads/2021/09/reset-and-clean-up.png)
 4. Next, click on the **Reset Settings** button to finish resetting the Chrome Browser.![reset-settings](https://www.malwarefox.com/wp-content/uploads/2021/09/reset-settings.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [How to Control a Chrome Extension’s Permissions](https://tools.techidaily.com/malwarefox/products/)
 
@@ -154,10 +162,10 @@ Follow these steps to reset the Mozilla Firefox:
 3. On the Troubleshooting Information page, click on the **Refresh Firefox** button under **Give Firefox a tune up**. This is on the right side of the page.![refresh-firefox](https://www.malwarefox.com/wp-content/uploads/2021/09/refresh-firefox.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. On the warning pop-up, click on **Refresh Firefox**.![click-on-refresh-firefox](https://www.malwarefox.com/wp-content/uploads/2021/09/click-on-refresh-firefox.png)
@@ -183,10 +191,10 @@ Though Stalkerware tends to hide from the security programs or disable them, tha
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Stay Safe from Chinese Malware?
@@ -202,10 +210,10 @@ The first step in removing this malware is to scan your computer with an anti-ma
 If you have received any emails with attachments from unknown senders, delete them immediately. These attachments may contain Chinese malware.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Do Not Visit Websites That You Do Not Trust
@@ -215,13 +223,6 @@ Be careful when browsing the internet. Do not visit websites that look suspiciou
 ### Back-Up Your Important Files
 
 It is important to have a backup of your important files in case they become encrypted by this malware. We recommend using an external hard drive or a cloud-based backup service such as Google Drive or Dropbox.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Keep Your Anti-Malware Program Up-to-Date
 
@@ -280,20 +281,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-edit-youtube-videos-by-the-youtube-video-editor/"><u>[Updated] How to Edit Youtube Videos by the YouTube Video Editor</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-fast-guide-transforming-images-into-youtube-desktop-thumbnails/"><u>2024 Approved Fast Guide Transforming Images Into YouTube Desktop Thumbnails</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/chatgpt-plus-is-it-a-valuable-addition-to-your-toolkit-learn-about-its-top-five-benefits/"><u>ChatGPT Plus: Is It a Valuable Addition to Your Toolkit? Learn About Its Top Five Benefits.</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/comment-numeriser-avec-facilite-votre-disque-dur-sur-windows-server-2012-une-methode-simple-a-suivre/"><u>Comment Numériser Avec Facilité Votre Disque Dur Sur Windows Server 2012 : Une Méthode Simple À Suivre</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/descubre-las-3-formas-mas-faciles-de-crear-y-ejecutar-un-live-usb-con-windows-11/"><u>Descubre Las 3 Formas Más Faciles De Crear Y Ejecutar Un Live USB Con Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-best-free-sites-for-engaging-early-childhood-educational-games/"><u>Discover the Best Free Sites for Engaging Early Childhood Educational Games</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/expert-solutions-for-surface-pro-users-overcoming-windows-11-hurdles-in-a-comprehensive-guide/"><u>Expert Solutions for Surface Pro Users: Overcoming Windows #11 Hurdles in a Comprehensive Guide</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/guia-paso-a-paso-para-clonear-el-arranque-secure-boot-en-windows-1110/"><u>Guía Paso a Paso Para Clonear El Arranque Secure Boot en Windows 11/10</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-video-exporting-and-integrating-resurrected-edb-data-into-live-exchange-environments/"><u>How-To Video: Exporting and Integrating Resurrected EDB Data Into Live Exchange Environments</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-iphone-14-pro-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your iPhone 14 Pro and iPad</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-motorola-g24-power-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Motorola G24 Power Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Lava Agni 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/unveiling-stalkerware-comprehensive-guide-for-detection-and-elimination-safenetadvisor/"><u>Unveiling Stalkerware: Comprehensive Guide for Detection & Elimination - SafeNetAdvisor</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/wie-man-daten-effektiv-von-einem-computer-auf-den-anderen-ubertragt/"><u>Wie Man Daten Effektiv Von Einem Computer Auf Den Anderen Überträgt</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/windows-n-10-come-affrontare-la-chiusura-del-processo-critico-guida-completa-in-7-passaggi/"><u>Windows N 10: Come Affrontare La Chiusura Del Processo Critico - Guida Completa in 7 Passaggi</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-preserve-precision-4-advanced-screen-recording-for-gamers/"><u>[New] Preserve Precision 4 Advanced Screen Recording for Gamers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-evaluation-the-leading-gopro-cases-1-10/"><u>[Updated] Comprehensive Evaluation The Leading GoPro Cases #1-10</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-your-passport-to-popularity-9-essential-instagram-secrets-for-success/"><u>In 2024, Your Passport to Popularity 9 Essential Instagram Secrets for Success</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/overcoming-common-problems-with-drag-and-drop-on-windows-systems/"><u>Overcoming Common Problems with Drag and Drop on Windows Systems</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/refreshing-your-dell-laptop-5-effective-steps-for-upgrading-to-windows-111087/"><u>Refreshing Your Dell Laptop: 5 Effective Steps for Upgrading to Windows 11/10/8/7</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/ripristina-il-tuo-pc-una-guida-completa-per-eseguire-il-ripristino-di-sistema-in-windows-pressentato-11/"><u>Ripristina Il Tuo PC: Una Guida Completa per Eseguire Il Ripristino Di Sistema in Windows Pressentato 11</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/risikominimierung-beim-sichern-von-wd-externen-festplatten-entdecken-sie-die-wd-diskovery-backup-losung/"><u>Risikominimierung Beim Sichern Von WD Externen Festplatten – Entdecken Sie Die WD Diskovery Backup Lösung</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/secure-your-savvy-purchases-smart-shoppers-guide-to-preventing-cyber-threats-courtese-of-malwarefox/"><u>Secure Your Savvy Purchases: Smart Shopper's Guide to Preventing Cyber Threats, Courtese of MalwareFox</u></a></li>
+<li><a href="https://common-error.techidaily.com/steam-troubleshooting-overcoming-unreachable-server-hurdles/"><u>Steam Troubleshooting: Overcoming Unreachable Server Hurdles</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722622071313-the-allure-of-nokia-71-captivating-screen-and-photographic-performance-meets-affordability/"><u>The Allure of Nokia 7.1: Captivating Screen & Photographic Performance Meets Affordability.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-xiaomi-redmi-note-12-4g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Xiaomi Redmi Note 12 4G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-loss-of-dark-mode-functionality-in-facebook-effective-strategies-for-users/"><u>Troubleshooting Loss of Dark Mode Functionality in Facebook - Effective Strategies for Users</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unpacking-the-apple-iphone-infoboxrange-why-go-big-with-the-iphone-12-pro-max/"><u>Unpacking the Apple iPhone [Infobox]range: Why Go Big with the iPhone 12 Pro Max?</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/warum-synchronisieren-sie-goodnotes-nicht-auf-ihrem-mac-hier-sind-drei-schnelle-fix-methoden/"><u>Warum Synchronisieren Sie GoodNotes Nicht Auf Ihrem Mac? Hier Sind Drei Schnelle Fix-Methoden</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/weg-1-bis-4-zur-wiederherstellung-von-daten-aus-einem-formatierten-flashlaufwerk-ihre-umfassende-anleitung-zum-erfolgreichen-recovery/"><u>Weg 1 Bis 4 Zur Wiederherstellung Von Daten Aus Einem Formatierten Flashlaufwerk - Ihre Umfassende Anleitung Zum Erfolgreichen Recovery</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/wie-man-geloschte-daten-von-externen-laufwerken-nicht-im-papierkorb-speichert/"><u>Wie Man Gelöschte Daten Von Externen Laufwerken Nicht Im Papierkorb Speichert</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1728493552312-windows-11/"><u>Windows 11 如何自动将文件夹同步到网络上的两种方法</u></a></li>
 </ul></div>
 
