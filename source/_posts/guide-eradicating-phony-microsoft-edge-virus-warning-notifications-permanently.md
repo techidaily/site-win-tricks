@@ -1,7 +1,7 @@
 ---
 title: "Guide: Eradicating Phony Microsoft Edge Virus Warning Notifications Permanently"
-date: 2024-11-02T17:52:24.877Z
-updated: 2024-11-06T18:57:05.608Z
+date: 2024-11-13T22:57:13.510Z
+updated: 2024-11-17T00:52:24.960Z
 tags:
   - product
   - antivirus
@@ -64,6 +64,13 @@ Windows Safe Mode is the perfect environment to find out and solve the critical 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Uninstall Suspicious Applications**
 
 If the Microsoft Edge virus alert pop-up still appears on your PC, try to find the culprit application and uninstall it. 
@@ -73,22 +80,15 @@ If the Microsoft Edge virus alert pop-up still appears on your PC, try to find t
 2. Watch out for the applications that are consuming the system memory even though you did not install or launch them.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Right-click on the suspicious application and open its file location.  
 ![uninstall suspicous files](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-suspicous-files.png)
 4. Delete the file from its root location.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Open Control Panel and click on **Uninstall a program** and check for suspicious apps. One by one, select and uninstall them.![uninstall the apps](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-the-apps.png)
 
@@ -104,14 +104,34 @@ Here are the steps to eliminate thre temporary files:
 2. Type **%temp%** and hit the enter key.![temp run command](https://www.malwarefox.com/wp-content/uploads/2020/07/temp-run-command.png)
 3. This run command would navigate you to this path: **_C:\\Users\\\[username\]\\AppData\\Local\\Temp,_** that is, the temp folder.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Select all Files and Folders of this folder and delete them. Don’t hesitate to delete them, as they are not essential for any of your tasks. ![Delete temp files](https://www.malwarefox.com/wp-content/uploads/2020/07/Delete-temp-files.png)
 5. Next right-click on the **Recycle Bin** and select **Empty Recycle Bin.**![Empty recycle bin](https://www.malwarefox.com/wp-content/uploads/2020/07/Empty-recycle-bin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -123,6 +143,14 @@ Clearing the browsing data such as history, cookies, cached data, and others mig
 1. Launch the Edge browser.
 2. Click on the three-dots at the top-right corner and select **Settings**.![Edge browser settings](https://www.malwarefox.com/wp-content/uploads/2021/05/Edge-browser-settings.png)
 3. On the left pane of the Settings page, click on **Privacy, search, and services**.![privacy settings edge browser](https://www.malwarefox.com/wp-content/uploads/2021/05/privacy-settings-edge-browser.png)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Scroll down and under **Clear browsing data,** click on **Choose what to clear** button.![choose what to clear](https://www.malwarefox.com/wp-content/uploads/2021/05/choose-what-to-clear.png)
 
 5. Select Browsing History, Download History, Cache, Cookies, and other data, choose the appropriate Time range, and click on the **Clear now** button.![clear edge data](https://www.malwarefox.com/wp-content/uploads/2021/05/clear-edge-data.png)
@@ -137,13 +165,6 @@ MalwareFox is reliable security software that promises to protect your system an
 
 1. [Download Malwarefox and install it](https://tools.techidaily.com/malwarefox/products/).
 2. Perform a full system scan to get rid of every malware that is troubling your system.![MalwareFox Antimalware](https://www.malwarefox.com/wp-content/uploads/2020/02/malwarefox.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Why Windows get More Virus Attacks than Mac or Linux](https://tools.techidaily.com/malwarefox/products/)
 
@@ -166,18 +187,24 @@ The virus warning pop-up on the Microsoft Edge might be because of an adware pre
 1. ![](https://secure.gravatar.com/avatar/67d610ac3ebf44da02b3a2a484716b45?s=50&d=mm&r=g)  
 philip quinn  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [August 11, 2021 at 2:50 am](https://tools.techidaily.com/malwarefox/products/)  
 Unfortunately, got the dreaded popup this evening. I used “Clear Browsing Data” and got rid of it. Then I used “Delete Temporary Files” just to make sure. Thanks very much for your help. I can now get some sleep.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 2. ![](https://secure.gravatar.com/avatar/b5467d965c14c49ecd5982b4deee1058?s=50&d=mm&r=g)  
 Krystal  
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [January 11, 2022 at 9:04 pm](https://tools.techidaily.com/malwarefox/products/)  
 I got the exactly the same popup fake Microsoft Edge Virus Detector. I followed up the whole process and get rid of it. Thank you so much for the clear step by step instruction!  
@@ -186,10 +213,16 @@ I got the exactly the same popup fake Microsoft Edge Virus Detector. I followed 
 Anon  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [January 24, 2022 at 11:03 pm](https://tools.techidaily.com/malwarefox/products/)  
@@ -209,23 +242,9 @@ Your suggestions seemed to have helped! Restarting in “safe mode” was kinda 
 6. ![](https://secure.gravatar.com/avatar/6ff0d6b88173d47adbdacef369d61688?s=50&d=mm&r=g)  
 Marguerite Brown  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [January 3, 2024 at 6:34 am](https://tools.techidaily.com/malwarefox/products/)  
 WOW…..clearing the browsing data worked. Bingo! I knew it was a scam, but impossible to work comfortably with “Russia now has control of your computer” et al screaming at you. Thanks so much.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -252,22 +271,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-ultimate-handbook-for-morphvox-transformers/"><u>[Updated] 2024 Approved Ultimate Handbook for MorphVOX Transformers</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-personal-narratives-for-online-connection-and-growth/"><u>[Updated] Personal Narratives for Online Connection and Growth</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-facebooks-premier-video-extraction-tools-for-iphone-and-ipad/"><u>2024 Approved Facebook's Premier Video Extraction Tools for iPhone & iPad</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/1728475136117-aomei-backupper/"><u>分割區及部份復原技術：AOMEI Backupper解決方案</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/1728487843204-win1011/"><u>轻松护理Win10/11丢失硬盘分区：全新修复方法</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/5lplusu5b6p5ymk6zmk6loh5rqq5zue5ps25zmo77ya5aac5l2v6yen5paw5oplusq5yplusw5zue5ps255so6ycu/"><u>修復削除資源回收器：如何重新提取回收用途</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/automating-synctoy-backups-on-windows-11-a-step-by-step-guide/"><u>Automating SyncToy Backups on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/come-organizzare-il-tuo-archivio-outlook-strategie-efficaci-per-ottimizzare-lo-spazio/"><u>Come Organizzare Il Tuo Archivio Outlook: Strategie Efficaci per Ottimizzare Lo Spazio</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-x100-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo X100 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/erstellen-sie-ihren-eigenen-systemwiederherstellungspunkt-mit-diesen-projekten-unter-windows-10-81-8-und-7/"><u>Erstellen Sie Ihren Eigenen Systemwiederherstellungspunkt Mit Diesen Projekten Unter Windows 10, 8.1, 8 Und 7</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/exploring-the-world-of-teresa-wang-renowned-writer-of-aomei-discover-her-story-and-accomplishments/"><u>Exploring the World of Teresa Wang, Renowned Writer of 'AOMEI', Discover Her Story and Accomplishments</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/guide-simple-comment-mettre-en-place-une-application-dombre-ghost-sous-windows-1111/"><u>Guide Simple: Comment Mettre en Place Une Application D'Ombre (Ghost) Sous Windows 11/11?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-vivo-x-flip-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Vivo X Flip to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-xiaomi-mix-fold-3-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Xiaomi Mix Fold 3 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/seamlessly-update-book-cover-images-with-flipbuilder-a-comprehensive-guide/"><u>Seamlessly Update Book Cover Images with FlipBuilder - A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-turning-viewers-into-cash-a-youtube-advertising-primer/"><u>[Updated] In 2024, Turning Viewers Into Cash A YouTube Advertising Primer</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/alle-ubersehenen-aol-e-mails-wiederherstellen-die-einfache-abrufmethode-fur-nutzer/"><u>Alle Übersehenen AOL E-Mails Wiederherstellen - Die Einfache Abrufmethode Für Nutzer</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/best-solutions-resolving-the-no-nvme-drive-detected-issue-on-your-dell-pc/"><u>Best Solutions: Resolving the 'No NVMe Drive Detected' Issue on Your Dell PC</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/detailed-review-and-comparison-with-vlc-successors/"><u>Detailed Review and Comparison with VLC Successors</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/error-404-missing-webpage-and/"><u>Error 404: Missing Webpage And</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-early-access-to-octobers-biggest-prime-day-savings-on-products-dont-miss-out/"><u>Exclusive Early Access to October's Biggest Prime Day Savings on Products - Don't Miss Out!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-deadly-glitch-of-ghostrunner-game-on-windows-11-systems/"><u>Fixing the Deadly Glitch of Ghostrunner Game on Windows 11 Systems</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/guida-alla-configurazione-del-backup-automatico-per-windows-11-su-disco-estratto-hardware/"><u>Guida Alla Configurazione Del Backup Automatico per Windows 11 Su Disco Estratto Hardware</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-samsung-galaxy-z-flip-5-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Samsung Galaxy Z Flip 5 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win-web.techidaily.com/how-to-retrieve-past-drafts-and-editions-in-word-documents/"><u>How to Retrieve Past Drafts and Editions in Word Documents</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-xiaomi-redmi-note-12t-pro-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Xiaomi Redmi Note 12T Pro Device</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/myrecover-pro-complete-data-restoration-tool-for-windows-and-ios-devices/"><u>MyRecover Pro: Complete Data Restoration Tool for Windows & iOS Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-through-claude-3s-features/"><u>Navigating Through Claude 3'S Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pros-and-cons-of-iphone-16-pro-vs-iphone-14-pro-making-an-informed-choice-for-your-next-smartphone-purchase/"><u>Pros and Cons of iPhone 16 Pro vs iPhone 14 Pro: Making an Informed Choice for Your Next Smartphone Purchase</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/step-by-step-guide-to-blocking-ads-and-protecting-privacy-across-all-your-devices/"><u>Step-by-Step Guide to Blocking Ads and Protecting Privacy Across All Your Devices</u></a></li>
 </ul></div>
 
