@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Tutorial on Eliminating Malicious Software of Chinese Origin From Your Devices
-date: 2024-11-10T19:24:33.495Z
-updated: 2024-11-16T23:07:32.006Z
+date: 2024-11-20T17:31:47.898Z
+updated: 2024-11-26T17:29:23.074Z
 tags:
   - product
   - antivirus
@@ -56,11 +56,19 @@ Paying the ransom is not recommended as there is no guarantee that you will get 
 
 The best course of action is to remove the malware from your computer and then attempt to recover your data from a backup.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How does Chinese Malware Spread?
 
 This ransomware is usually spread through email attachments or malicious websites. The email attachment will often masquerade as a benign file, such as an invoice or order confirmation. When the file is opened, it will download and install the malware on your computer.
 
 Malicious websites are another common way that this malware is spread. These websites may look like legitimate websites, but they will actually download and install the malware on your computer if you visit them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Remove Chinese Malware?
 
@@ -79,6 +87,11 @@ Windows 10Windows 11
 1. Right-click on the taskbar and select the **Task Manager**.  
 ![Open Task Manager](https://www.malwarefox.com/wp-content/uploads/2020/05/Open-Task-Manger.png)
 2. Watch out for the applications that are consuming the system memory even though you did not install or launch them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Right-click on the suspicious application and open its file location.  
 ![uninstall suspicous files](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-suspicous-files.png)
 4. Delete the file from its root location.
@@ -90,25 +103,15 @@ Windows 10Windows 11
 1. Right-click on the Start button and select **Task Manager** from the list.![Windows-11-task-manager](https://www.malwarefox.com/wp-content/uploads/2021/09/Windows-11-task-manager.png)
 2. Look out for the applications which are unnecessarily consuming the system resources without actively running.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Right-click on such applications and open their file location.![uninstall suspicous files](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-suspicous-files.png)
 4. Delete all files from the targeted folder. Some files won’t be deleted as the application is still active.
 
 5. Open **Control Panel** and click on **Uninstall a program**.![uninstall-a-program](https://www.malwarefox.com/wp-content/uploads/2021/09/uninstall-a-program.png)
 6. Check for suspicious apps. One by one, select and uninstall them.![uninstall the apps](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-the-apps.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -128,10 +131,7 @@ Here are the steps to reset the Google Chrome browser:
 2. On the Settings page, click on the **Advanced** at the left pane.![adanced-chrome-settings](https://www.malwarefox.com/wp-content/uploads/2021/09/adanced-chrome-settings.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Under Advanced settings, click on **Reset and clean up**.![reset-and-clean-up](https://www.malwarefox.com/wp-content/uploads/2021/09/reset-and-clean-up.png)
@@ -147,10 +147,11 @@ Follow these steps to reset the Mozilla Firefox:
 2. Under Firefox Help, choose **More troubleshooting information**.![more-troubleshooting-options](https://www.malwarefox.com/wp-content/uploads/2021/09/more-troubleshooting-options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. On the Troubleshooting Information page, click on the **Refresh Firefox** button under **Give Firefox a tune up**. This is on the right side of the page.![refresh-firefox](https://www.malwarefox.com/wp-content/uploads/2021/09/refresh-firefox.png)
@@ -185,37 +186,24 @@ The best way to protect your computer from Chinese malware is to be cautious whe
 
 The first step in removing this malware is to scan your computer with an anti-malware program. This will remove any malicious files that are on your computer. We recommend using the free version of Malwarebytes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Delete Any Suspicious Email Attachments
 
 If you have received any emails with attachments from unknown senders, delete them immediately. These attachments may contain Chinese malware.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Do Not Visit Websites That You Do Not Trust
 
 Be careful when browsing the internet. Do not visit websites that look suspicious or that you do not trust. Malicious websites can infect your computer with this malware.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Back-Up Your Important Files
 
 It is important to have a backup of your important files in case they become encrypted by this malware. We recommend using an external hard drive or a cloud-based backup service such as Google Drive or Dropbox.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Keep Your Anti-Malware Program Up-to-Date
@@ -223,6 +211,10 @@ It is important to have a backup of your important files in case they become enc
 Make sure that you have the latest version of your anti-malware program. This will ensure that it can properly detect and remove this malware.
 
 [11 Best Anti-Ransomware Software](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bottom Line
 
@@ -250,13 +242,6 @@ If you think your computer is infected with Chinese malware, you should immediat
 
 There is no guaranteed way to remove Chinese malware without paying a ransom, but it is always advised not to pay ransom to criminals. Instead, you can try using a decryption tool. These tools are not always successful, so you may still need to pay a ransom to decrypt your files.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
 Comment
@@ -282,22 +267,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-list-best-trivia-shows-for-general-knowledge-24/"><u>[New] The Ultimate List - Best Trivia Shows for General Knowledge, '24</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-shine-bright-with-these-simple-android-video-steps/"><u>[Updated] 2024 Approved Shine Bright with These Simple Android Video Steps</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-privacy-stopping-followers-on-ig/"><u>2024 Approved Mastering Privacy Stopping Followers on IG</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/microsoft-outlookost/"><u>解決策が必要:Microsoft Outlookで使用不能なOSTデータファイルを回復するための方法</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-vivo-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Vivo</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/comprehensive-guide-to-countering-jigsaw-ransomware-threats-securetech-solutions/"><u>Comprehensive Guide to Countering Jigsaw Ransomware Threats - SecureTech Solutions</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/deux-techniques-pour-transferer-des-fichiers-iso-vers-le-systeme-de-votre-serveur-windows-en-utilisant-une-cle-usb-tutoriel-complet/"><u>Deux Techniques Pour Transférer Des Fichiers ISO Vers Le Système De Votre Serveur Windows en Utilisant Une Clé USB : Tutoriel Complet</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/evoluez-vers-la-vitesse-transformer-votre-hdd-en-ssd-pour-une-performance-accrue-sur-les-pcs-msi/"><u>Évoluez Vers La Vitesse: Transformer Votre HDD en SSD Pour Une Performance Accrue Sur Les PCs MSI</u></a></li>
-<li><a href="https://games-able.techidaily.com/gear-gripping-or-tapping-tracks-perfecting-the-drivers-art/"><u>Gear Gripping or Tapping Tracks: Perfecting the Driver's Art</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/guida-passo-passo-per-creare-backup-automatico-su-windows-11/"><u>Guida Passo-Passo per Creare Backup Automatico Su Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Tecno Pop 8? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-make-music-accessible-with-a-well-designed-youtube-playlist/"><u>In 2024, Make Music Accessible with a Well-Designed YouTube Playlist</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-silencing-sounds-a-deep-dive-into-audacitys-features-for-sound-reduction/"><u>New Silencing Sounds A Deep Dive Into Audacitys Features for Sound Reduction</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pro-level-streaming-tech-innovations-you-need-for-2024/"><u>Pro-Level Streaming Tech Innovations You Need for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/synchronisierung-von-google-kontakten-mit-ihrem-iphone-eine-schritt-fur-schritt-anleitung/"><u>Synchronisierung Von Google-Kontakten Mit Ihrem iPhone – Eine Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/top-ranking-no-cost-programs-for-effortless-kingston-ssd-copy-and-transfer/"><u>Top Ranking No-Cost Programs for Effortless Kingston SSD Copy and Transfer</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/unveiling-stalkerware-comprehensive-guide-for-detection-and-elimination-safenetadvisor/"><u>Unveiling Stalkerware: Comprehensive Guide for Detection & Elimination - SafeNetAdvisor</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-bridging-images-and-words-step-by-step-text-integration-guide/"><u>[New] 2024 Approved Bridging Images & Words Step-by-Step Text Integration Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-what-is-blue-video-icon-on-facebook-messenger/"><u>[New] What Is Blue Video Icon on Facebook Messenger?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-gopros-underwater-journey-essential-tactics-to-make-your-videos-stand-out/"><u>[Updated] GoPro’s Underwater Journey Essential Tactics to Make Your Videos Stand Out</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-evolution-of-excellence-lg-bp550/"><u>[Updated] The Evolution of Excellence - LG BP550</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-mastering-pip-features-on-ms-edge/"><u>2024 Approved Mastering PIP Features on MS Edge</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/effortless-strategies-to-copy-gmail-correspondence-onto-google-drive-learn-the-best-techniques/"><u>Effortless Strategies to Copy Gmail Correspondence Onto Google Drive – Learn the Best Techniques!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/guide-facile-pour-nettoyer-les-archives-de-sauvegarde-sous-windows-10/"><u>Guide Facile Pour Nettoyer Les Archives De Sauvegarde Sous Windows 10</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ideal-steadicam-pairings-with-premium-dslr-cameras/"><u>Ideal Steadicam Pairings with Premium DSLR Cameras</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/passaggio-senza-problemi-clonazione-della-tua-installazione-di-windows-11-su-una-chiave-usb-bootable/"><u>Passaggio Senza Problemi: Clonazione Della Tua Installazione Di Windows 11 Su Una Chiave USB Bootable</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/rahasia-sukses-memperbarui-nama-direktori-tidak-valid-di-windows-11-agar-efisien/"><u>Rahasia Sukses: Memperbarui Nama Direktori Tidak Valid Di Windows 11 Agar Efisien</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/safeguard-internet-exploration-on-chrome-the-leading-antivirus-solutions-for-banks-and-shopping/"><u>Safeguard Internet Exploration on Chrome: The Leading Antivirus Solutions for Banks & Shopping</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/top-free-software-options-for-saving-your-data-on-windows-server-2003/"><u>Top Free Software Options for Saving Your Data on Windows Server 2003</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-student-chromebook-picks-comprehensive-reviews-by-tech-gurus/"><u>Top-Ranking Student Chromebook Picks: Comprehensive Reviews by Tech Gurus</u></a></li>
 </ul></div>
 

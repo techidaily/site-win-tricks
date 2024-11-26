@@ -1,7 +1,7 @@
 ---
 title: Verständnis Von 'McAfee Hat Meine Dateien Gelöscht' - Erkennen Sie Die Gründe Und Befolgen Sie Lösungsvorschläge Für Ihr Problem
-date: 2024-11-09T17:16:20.679Z
-updated: 2024-11-17T01:05:09.379Z
+date: 2024-11-22T17:13:47.270Z
+updated: 2024-11-26T16:21:18.979Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/0444eec17d8a448239a97f10d9e4452f293a188f566a19e1bcefd1ff9d258319.jpg
@@ -24,6 +24,10 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
@@ -43,14 +47,11 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -67,19 +68,6 @@ AOMEI Backupper Standard est un logiciel de sauvegarde tout-en-un pour Windows 1
 Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet à la majorité des utilisateurs de comprendre rapidement le logiciel et de l'utiliser facilement. Veuillez le télécharger et l'installer sur votre ordinateur.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
@@ -102,19 +90,24 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -148,22 +141,12 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Autres articles connexes
@@ -197,10 +180,7 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -218,24 +198,15 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-convert-your-avis-to-impactful-gifs-using-filmora-on-windowsmacos/"><u>[New] Convert Your AVIs to Impactful GIFs Using Filmora on Windows/MacOS</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-professional-filmmakers-choices-17-best-lights/"><u>[Updated] In 2024, Professional Filmmakers' Choices #17 Best Lights</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-filmmakers-guide-producing-engaging-youtube-splits-for-2024/"><u>[Updated] The Filmmaker's Guide Producing Engaging YouTube Splits for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/1-can-you-restore-your-iphone-without-losing-data-during-a-factory-reset-comprehensive-guide/"><u>1. Can You Restore Your iPhone Without Losing Data During a Factory Reset? Comprehensive Guide</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/acer-usb6/"><u>Acer USB存储设备恢复删除文件的秘密技巧：6个有效方法指南</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/comment-redemarrer-un-ordinateur-sous-windows-11-sans-que-le-pc-se-demarre-a-partir-du-cd-4-solutions-efficaces/"><u>Comment Redémarrer Un Ordinateur Sous Windows 11 Sans Que Le PC Se Démarre À Partir Du CD : 4 Solutions Efficaces</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/decouvrez-chaque-photo-sur-votre-pc-avec-windows-un-guide-complet-et-simple/"><u>Découvrez Chaque Photo Sur Votre PC Avec Windows 지, Un Guide Complet Et Simple</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/evite-escrituras-no-deseadas-en-el-disco-estrategias-y-recomendaciones-clave-para-una-proteccion-optima/"><u>Evite Escrituras No Deseadas en El Disco: Estrategias Y Recomendaciones Clave Para Una Protección Óptima</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/exploring-protective-measures-understanding-sauvegarde-options/"><u>Exploring Protective Measures: Understanding 'Sauvegarde Options'</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-to-relocate-windows-boot-manager-to-a-different-drive-tutorial/"><u>How to Relocate Windows Boot Manager to a Different Drive - Tutorial</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-audio-recording-101-from-youtube-playback-to-files/"><u>In 2024, Audio Recording 101 From YouTube Playback To Files</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-poco-x5-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Poco X5 Pro? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/scivolosa-installazione-di-windows-11-con-file-iso-italiano-per-sistemi-a-64-bit-download-istantaneo/"><u>Scivolosa Installazione Di Windows 11 Con File ISO Italiano per Sistemi a 64 Bit – Download Istantaneo</u></a></li>
-<li><a href="https://discover-great.techidaily.com/solve-gmail-not-synching-on-outlook-mac-issue-discover-the-best-top-ranked-solutions/"><u>Solve Gmail Not Synching on Outlook Mac Issue: Discover the Best Top-Ranked Solutions</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/the-best-methods-for-transferring-data-from-a-usb-stick-to-a-compact-disc-on-windows-os/"><u>The Best Methods for Transferring Data From a USB Stick to a Compact Disc on Windows OS</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-iphone-6-plus-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or iPhone 6 Plus from iCloud</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/transferieren-sie-ihre-android-fotobibliothek-auf-ein-ipad-losung-123/"><u>Transferieren Sie Ihre Android-Fotobibliothek Auf Ein iPad - Lösung 1,2,3</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-lenovos-unresponsive-touchpad/"><u>Troubleshooting Lenovo's Unresponsive Touchpad</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/apple-podcasts-a-quick-download-method/"><u>Apple Podcasts A Quick Download Method</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-lenovos-innovative-thinkpad-x1-fold-the-quirkiest-and-priciest-gadget-experience/"><u>Exploring Lenovo's Innovative ThinkPad X1 Fold: The Quirkiest & Priciest Gadget Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-talk-to-text-utilizing-speech-recognition-in-microsoft-office-for-2024/"><u>From Talk to Text Utilizing Speech Recognition in Microsoft Office for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/gratuits-hyper-v-server-2019-secours-strategies-doptimisation-pour-une-sauvegarde-reussie/"><u>Gratuits Hyper-V Server 2019 Secours : Stratégies D’Optimisation Pour Une Sauvegarde Réussie</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/guia-rapida-para-habilitar-el-restaurador-de-sistemas-en-windows-10-y-recuperar-tu-computadora-en-un-instante/"><u>Guía Rápida Para Habilitar El Restaurador De Sistemas en Windows 10 Y Recuperar Tu Computadora en Un Instante</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-windows-is-getting-ready-to-start-freeze-on-your-personal-computer/"><u>Overcoming 'Windows Is Getting Ready to Start' Freeze on Your Personal Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-a-broken-corsair-soundperfection-mic/"><u>Step-by-Step Solutions for a Broken Corsair SoundPerfection Mic</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-hidden-gem-a-surprising-revelation-of-a-349-ipad-at-apples-exciting-event-featured/"><u>Unveiling the Hidden Gem: A Surprising Revelation of a $349 iPad at Apple's Exciting Event | Featured</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/why-does-google-send-you-to-bing-understanding-and-resolving-unintended-redirection/"><u>Why Does Google Send You to Bing? Understanding & Resolving Unintended Redirection</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/alaamlya-alkamla-lshrh-afdl-nhg-alnskh-alahtyaty/"><u>العملية الكاملة لشرح أفضل نهج النسخ الاحتياطي</u></a></li>
 </ul></div>
 

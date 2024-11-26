@@ -1,7 +1,7 @@
 ---
 title: "Effortlessly Manage Your Remote Backups: A Guide to Windows Server 2012 and 2016"
-date: 2024-11-10T19:50:44.017Z
-updated: 2024-11-17T02:47:23.732Z
+date: 2024-11-20T16:23:17.714Z
+updated: 2024-11-26T16:51:26.351Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/aaeee5a2f3c8b68771aea3a6cb049a51985742ce0b32853fb4db395a79eb5210.jpg
@@ -24,9 +24,17 @@ Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella 
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Sommario** 
 
@@ -50,10 +58,7 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -76,6 +81,10 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
 Passo 1\. Apri il Task Manager:
@@ -93,13 +102,6 @@ Fai clic con il tasto destro su entrambi Cortana ed Esplora file di Windows e sc
 Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
@@ -197,19 +199,6 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -224,6 +213,10 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -233,10 +226,7 @@ Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affronta
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusione
@@ -252,10 +242,7 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
@@ -276,13 +263,6 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -300,21 +280,22 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-quick-time-cameo-evaluation/"><u>[New] 2024 Approved Quick-Time Cameo Evaluation</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-audio-ambition-realized-cutting-edge-recording-methods-for-minecraft-players-for-2024/"><u>[New] Audio Ambition Realized Cutting-Edge Recording Methods for Minecraft Players for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-ensemble-dynamics-crafting-collaborative-content-for-musicians/"><u>[New] In 2024, Ensemble Dynamics Crafting Collaborative Content for Musicians</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-stay-ahead-of-the-curve-with-these-10-must-use-tags/"><u>[Updated] In 2024, Stay Ahead of the Curve with These 10 Must-Use Tags</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/aacs2024-blu-ray/"><u>AACSデシリアライゼーション手順2024 - Blu-Rayコピーガードを解除するための詳細情報</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/effective-strategies-for-fixing-error-0xc004f211-on-windows-systems/"><u>Effective Strategies for Fixing Error 0xC004F211 on Windows Systems</u></a></li>
-<li><a href="https://solve-help.techidaily.com/ffmpeg-vs-handbrake-showdown-optimal-video-converter-for-your-needs-revealed/"><u>FFmpeg Vs. HandBrake Showdown: Optimal Video Converter for Your Needs Revealed!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-shoot-hdr-photos-with-iphone-for-2024/"><u>How to Shoot HDR Photos with iPhone for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/ifind-by-finis-ultimate-partition-restoration-tool-for-windows-711/"><u>IFind by Finis: Ultimate Partition Restoration Tool for Windows 7/11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Lava Blaze 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/instructions-de-configuration-pour-le-systeme/"><u>Instructions De Configuration Pour Le Systeme</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/secure-methods-to-bypass-password-protection-in-windows-11/"><u>Secure Methods to Bypass Password Protection in Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-commerce-through-api-access-the-power-duo-of-chatgpt-and-whisper-unleashed/"><u>Transforming Commerce Through API Access: The Power Duo of ChatGPT & Whisper Unleashed</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/unterschiede-zwischen-refs-und-ntfs-ein-detaillierter-vergleich-mit-leistungsvorteilen-und-nachteilen/"><u>Unterschiede Zwischen ReFS Und NTFS - Ein Detaillierter Vergleich Mit Leistungsvorteilen Und -Nachteilen</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/was-sind-die-implikationen-fur-den-nachrichtenladevorgang-in-icloud-auf-ihrem-ios-gerat-versionen-15-and-16/"><u>Was Sind Die Implikationen Für Den Nachrichtenladevorgang in iCloud Auf Ihrem iOS Gerät (Versionen 15 & 16)?</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/windows-showdown-which-operating-system-reigns-supreme-for-gamers-windows-11-or-windows-n/"><u>Windows Showdown: Which Operating System Reigns Supreme for Gamers - Windows 11 or Windows N?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unleash-the-past-sharing-snaps-from-your-camera-roll/"><u>[New] 2024 Approved Unleash the Past - Sharing Snaps From Your Camera Roll</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-from-startup-to-stardom-with-youtube-seo-basics/"><u>[Updated] 2024 Approved From Startup to Stardom with YouTube SEO Basics</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-personal-growth-chronicles-for-youtube-audience/"><u>[Updated] In 2024, Personal Growth Chronicles for YouTube Audience</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-orchestrating-images-with-musical-echoes/"><u>[Updated] Orchestrating Images with Musical Echoes</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1728491969250-windows-11-3/"><u>「Windows 11」でダウンロードがうまくいかない！これを知るべき 3つのコツ</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-unlock-virtual-worlds-top-10-pc-games-for-ultimate-vr-experience/"><u>2024 Approved Unlock Virtual Worlds Top 10 PC Games for Ultimate VR Experience</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/5pww5o2u5ash5lu95oyh5y2x77ya5bcg5lplush5ogv5lplusd5a2y6iez572r57uc6lpluse5o6l5byp5a2y5yko6k6plus5ash55qe5q2l6aqk/"><u>数据备份指南：将信息保存至网络连接式存储设备的步骤</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/como-restablecer-su-explorador-de-archivos-de-fotos-gratis-en-windows-11-utilizando-cuatro-estrategias/"><u>Cómo Restablecer Su Explorador De Archivos De Fotos Gratis en Windows 11 Utilizando Cuatro Estrategias</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-guide-efficiently-transforming-dsd-and-dvd-audio-to-optimal-flac-sound-quality/"><u>Expert Guide: Efficiently Transforming DSD and DVD-Audio to Optimal FLAC Sound Quality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-and-techniques-for-dominating-royal-match/"><u>Expert Tips and Techniques for Dominating Royal Match</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/premium-concealed-usb-duplicator-auto-backup-feature-from-usb-drive/"><u>Premium Concealed USB Duplicator – Auto Backup Feature From USB Drive</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/rebuilding-deleted-files-in-windows-11-a-step-by-step-guide-using-the-shift-key/"><u>Rebuilding Deleted Files in Windows 11: A Step-by-Step Guide Using the Shift Key</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/top-solutions-for-the-error-creating-volume-snapshot-issue/"><u>Top Solutions for the 'Error Creating Volume Snapshot' Issue</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/two-effective-methods-for-backing-up-files-on-windows-server-a-comprehensive-guide/"><u>Two Effective Methods for Backing Up Files on Windows Server: A Comprehensive Guide</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/usb-flash-drive-boot-guide-for-windows-11-easy-step-by-step-methods-explained/"><u>USB Flash Drive Boot Guide for Windows 11: Easy Step-by-Step Methods Explained</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/wiederherstellung-verlorener-festplattenpartitionen-unter-windows-11-eine-leitfaden-anleitung-mit-lenovo/"><u>Wiederherstellung Verlorener Festplattenpartitionen Unter Windows 11: Eine Leitfaden-Anleitung Mit Lenovo</u></a></li>
 </ul></div>
 
