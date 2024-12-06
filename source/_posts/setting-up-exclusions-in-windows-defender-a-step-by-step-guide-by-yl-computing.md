@@ -1,7 +1,7 @@
 ---
 title: Setting Up Exclusions in Windows Defender - A Step-by-Step Guide by YL Computing
-date: 2024-11-20T17:25:59.180Z
-updated: 2024-11-26T16:02:12.540Z
+date: 2024-11-29T22:22:20.617Z
+updated: 2024-12-06T05:23:36.133Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,24 +56,21 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-reversing-macos-sierra-update-to-os-x-el-capitan/"><u>[New] 2024 Approved Reversing MacOS Sierra Update to OS X El Capitan</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-vdx-quickcapture-evaluation-complete-reviews/"><u>[New] In 2024, VDX QuickCapture Evaluation Complete Reviews</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/1728501777873-aomei-backupper/"><u>快速磁盘克隆技术 - AOMEI Backupper教程</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-complete-guide-to-cellular-service-providers-explained/"><u>A Complete Guide to Cellular Service Providers Explained</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/backup-vs-clone-understanding-the-key-distinctions/"><u>Backup Vs. Clone: Understanding the Key Distinctions</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/guide-complet-pour-activer-et-gerer-les-sauvegardes-automatiques-avec-windows-11-sur-microsoft-onedrive/"><u>Guide Complet Pour Activer Et Gérer Les Sauvegardes Automatiques Avec Windows 11 Sur Microsoft OneDrive</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/guide-facile-pour-reinitialiser-le-code-dacces-au-controleur-de-gestion-windows/"><u>Guide Facile Pour Réinitialiser Le Code D'Accès Au Contrôleur De Gestion Windows</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-to-retrieve-lost-photographs-from-your-iphone-1314-is-recovery-possible/"><u>How to Retrieve Lost Photographs From Your iPhone 13/14: Is Recovery Possible?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-tecno-spark-go-2023-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Tecno Spark Go (2023) Pattern Lock Screen</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-dual-display-the-netflix-floating-window-guide/"><u>In 2024, Navigating Dual Display The Netflix Floating Window Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-navigating-ig-video-trends-building-your-next-marketing-plan/"><u>In 2024, Navigating IG Video Trends Building Your Next Marketing Plan</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pro-tips-acquiring-clip-art-without-cost/"><u>In 2024, Pro Tips Acquiring Clip-Art Without Cost</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-pitfalls-of-upgrading-to-iphone-ios-18-shared-experiences-and-lessons-learned/"><u>Navigating the Pitfalls of Upgrading to iPhone iOS 18 - Shared Experiences and Lessons Learned</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/night-of-the-living-dead-games-an-epic-selection/"><u>Night of the Living Dead Games An Epic Selection</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/resolving-touch-screen-issues-on-iphone-after-updating-to-ios-15-or-16/"><u>Resolving Touch Screen Issues on iPhone After Updating to iOS 15 or 16</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/smartbad-status/"><u>SMART機能失敗「BAD STATUS」時の即座対処法：専門家から学ぶ最適手段</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/solucion-a-la-eliminacion-automatica-de-archivos-antiguos-en-google-drive/"><u>Solución a La Eliminación Automática De Archivos Antiguos en Google Drive</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-17-websites-offering-free-e-book-downloads/"><u>Top 17 Websites Offering Free E-Book Downloads</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/unveiling-the-impact-of-adware-understanding-and-deleting-intrusive-tracking-cookies/"><u>Unveiling the Impact of Adware: Understanding & Deleting Intrusive Tracking Cookies</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-aviation-longevity-top-10-endurance-drones/"><u>[Updated] Aviation Longevity Top 10 Endurance Drones</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-instant-screener-chromeos-edition/"><u>[Updated] In 2024, Instant Screener ChromeOS Edition</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-next-gen-display-top-5-hdmi-21-infinity-refresh-monitors-ps5/"><u>[Updated] Next-Gen Display Top 5 HDMI 2.1 Infinity Refresh Monitors [PS5]</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/dealing-with-non-startup-issues-on-your-laptop-effective-solutions-by-yl-software-experts/"><u>Dealing with Non-Startup Issues on Your Laptop: Effective Solutions by YL Software Experts</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-the-magic-mouse-utility-software-on-your-windows-pc/"><u>Download and Install the Magic Mouse Utility Software on Your Windows PC</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/easy-guide-customizing-audio-preferences-with-yl-software/"><u>Easy Guide: Customizing Audio Preferences with YL Software</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/find-out-todays-bitcoin-exchange-rate-with-insights-from-yl-computing-and-yl-software-specialists/"><u>Find Out Today’s Bitcoin Exchange Rate with Insights From YL Computing and YL Software Specialists</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-optimal-gaming-experience-with-updated-geforce-rtx-1660-super-graphics-card-drivers-download-now/"><u>Get Optimal Gaming Experience with Updated GeForce RTX 1660 SUPER Graphics Card Drivers – Download Now</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/gpu-initialization-woes-explained-identifying-common-causes-and-solutions-with-yl-software-expertise/"><u>GPU Initialization Woes Explained: Identifying Common Causes and Solutions with YL Software Expertise</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/graphics-card-visibility-issue-in-windows-explained-with-expert-tips-from-yl-software/"><u>Graphics Card Visibility Issue in Windows Explained with Expert Tips From YL Software</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Lava Blaze Curve 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/mobile-mastery-securing-your-snapchat-videos-on-phone/"><u>Mobile Mastery Securing Your Snapchat Videos on Phone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/step-by-step-guide-identifying-and-troubleshooting-pc-hardware-issues/"><u>Step-by-Step Guide: Identifying and Troubleshooting PC Hardware Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-choosing-the-right-streaming-sound-recorder-for-your-device-in-223-windows-mac-android-and-ios-compatible-picks/"><u>Ultimate Guide to Choosing the Right Streaming Sound Recorder for Your Device in 2^23: Windows, Mac, Android & iOS Compatible Picks!</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/unveiling-the-contribution-of-sun-yat-sen-in-sparkling-the-chinese-revolutionary-wave-the-pivotal-role-explained/"><u>Unveiling the Contribution of Sun Yat-Sen in Sparkling the Chinese Revolutionary Wave – The Pivotal Role Explained</u></a></li>
 </ul></div>
 
