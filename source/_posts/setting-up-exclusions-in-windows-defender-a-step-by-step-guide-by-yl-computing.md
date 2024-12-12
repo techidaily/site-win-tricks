@@ -1,7 +1,7 @@
 ---
 title: Setting Up Exclusions in Windows Defender - A Step-by-Step Guide by YL Computing
-date: 2024-11-29T22:22:20.617Z
-updated: 2024-12-06T05:23:36.133Z
+date: 2024-12-07T19:34:57.292Z
+updated: 2024-12-12T00:46:45.948Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,21 +56,14 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-aviation-longevity-top-10-endurance-drones/"><u>[Updated] Aviation Longevity Top 10 Endurance Drones</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-instant-screener-chromeos-edition/"><u>[Updated] In 2024, Instant Screener ChromeOS Edition</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-next-gen-display-top-5-hdmi-21-infinity-refresh-monitors-ps5/"><u>[Updated] Next-Gen Display Top 5 HDMI 2.1 Infinity Refresh Monitors [PS5]</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/dealing-with-non-startup-issues-on-your-laptop-effective-solutions-by-yl-software-experts/"><u>Dealing with Non-Startup Issues on Your Laptop: Effective Solutions by YL Software Experts</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-the-magic-mouse-utility-software-on-your-windows-pc/"><u>Download and Install the Magic Mouse Utility Software on Your Windows PC</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/easy-guide-customizing-audio-preferences-with-yl-software/"><u>Easy Guide: Customizing Audio Preferences with YL Software</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/find-out-todays-bitcoin-exchange-rate-with-insights-from-yl-computing-and-yl-software-specialists/"><u>Find Out Today’s Bitcoin Exchange Rate with Insights From YL Computing and YL Software Specialists</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-optimal-gaming-experience-with-updated-geforce-rtx-1660-super-graphics-card-drivers-download-now/"><u>Get Optimal Gaming Experience with Updated GeForce RTX 1660 SUPER Graphics Card Drivers – Download Now</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/gpu-initialization-woes-explained-identifying-common-causes-and-solutions-with-yl-software-expertise/"><u>GPU Initialization Woes Explained: Identifying Common Causes and Solutions with YL Software Expertise</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/graphics-card-visibility-issue-in-windows-explained-with-expert-tips-from-yl-software/"><u>Graphics Card Visibility Issue in Windows Explained with Expert Tips From YL Software</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Lava Blaze Curve 5G? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/mobile-mastery-securing-your-snapchat-videos-on-phone/"><u>Mobile Mastery Securing Your Snapchat Videos on Phone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/step-by-step-guide-identifying-and-troubleshooting-pc-hardware-issues/"><u>Step-by-Step Guide: Identifying and Troubleshooting PC Hardware Issues</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-choosing-the-right-streaming-sound-recorder-for-your-device-in-223-windows-mac-android-and-ios-compatible-picks/"><u>Ultimate Guide to Choosing the Right Streaming Sound Recorder for Your Device in 2^23: Windows, Mac, Android & iOS Compatible Picks!</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/unveiling-the-contribution-of-sun-yat-sen-in-sparkling-the-chinese-revolutionary-wave-the-pivotal-role-explained/"><u>Unveiling the Contribution of Sun Yat-Sen in Sparkling the Chinese Revolutionary Wave – The Pivotal Role Explained</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-unlocking-virtual-meetings-googles-facetime-tutorial/"><u>2024 Approved Unlocking Virtual Meetings Google's Facetime Tutorial</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-elevate-your-content-youtube-movie-maker-101/"><u>In 2024, Elevate Your Content YouTube Movie Maker 101</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-inspire-your-recruitment-process-with-pioneering-tapes/"><u>In 2024, Inspire Your Recruitment Process with Pioneering Tapes</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/mastering-troubleshooting-for-windows-11-users-expert-advice-from-yl-software/"><u>Mastering Troubleshooting for Windows 11 Users: Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/resolving-graphical-issues-why-isnt-the-graphics-card-displaying-on-my-monitor-expert-guidance-from-compunex-solutions/"><u>Resolving Graphical Issues: Why Isn't the Graphics Card Displaying on My Monitor? - Expert Guidance From Compunex Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revitalize-your-text-editor-experience-7-troubleshooting-tips-for-windows/"><u>Revitalize Your Text Editor Experience: 7 Troubleshooting Tips for Windows</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/understanding-file-and-folder-recovery-the-process-explained-by-yl-software-experts/"><u>Understanding File & Folder Recovery: The Process Explained by YL Software Experts</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/unlimited-song-selection-on-karaoke-cloud-pro-add-20-new-tracks-for-endless-entertainment/"><u>Unlimited Song Selection on Karaoke Cloud Pro – Add 20 New Tracks for Endless Entertainment!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-s-hottest-vlog-editor-apps-top-10-picks-for-ios-and-android/"><u>Updated 2024 Approved S Hottest Vlog Editor Apps Top 10 Picks for iOS and Android</u></a></li>
 </ul></div>
 
