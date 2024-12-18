@@ -1,7 +1,7 @@
 ---
 title: "Safeguarding Against the Geek Squad Phishing Scheme: Tips & Strategies"
-date: 2024-11-29T21:41:27.254Z
-updated: 2024-12-06T06:59:22.553Z
+date: 2024-12-11T16:08:33.363Z
+updated: 2024-12-18T17:49:48.845Z
 tags:
   - product
   - antivirus
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/4b7456a673e9ab4f91fdc46da88e43866c4c8770e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Geek Squad Email Scam?
@@ -31,7 +31,7 @@ The bogus emails bear the Geek Squad logo and claim that the recipient’s Geek 
 ![GeekSquad Email Scam](https://www.malwarefox.com/wp-content/uploads/2022/10/geek-squad-scam.webp "GeekSquad Email Scam")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 When alerted about a substantial transaction, the scammers’ targets become anxious and call the con artists right away to learn more about the transaction or to make a timely cancellation. This is where fraudsters prey on them. Following that, the fraud might take numerous shapes, but the eventual goal of the hackers is to extract as much money as possible from their victims.
@@ -39,7 +39,7 @@ When alerted about a substantial transaction, the scammers’ targets become anx
 [How to Spot Fake Apple ID Phishing Scams](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does Geek Squad Email Scam Work?
@@ -65,7 +65,7 @@ If you share the computer with someone else, block the sender to prevent them fr
 To sum it up, then, ignoring the Geek Squad scam email and blocking the sender is the best way to avoid it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What to do if you became victim of this Scam?
@@ -73,7 +73,7 @@ To sum it up, then, ignoring the Geek Squad scam email and blocking the sender i
 ![](https://www.malwarefox.com/wp-content/uploads/2022/10/scam-victim.webp "scam-victim")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * If you’ve just spoken with the fraudsters, don’t do whatever they tell you to.
@@ -100,15 +100,20 @@ The pointers listed above for detecting a Geek Squad email scam also apply to ot
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-androids-photo-editor-showdown-can-pickup-claim-victory/"><u>[New] In 2024, Android's Photo Editor Showdown Can PickUp Claim Victory?</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/1-step-by-step-guide-terminating-an-active-print-task-with-yl-computings-solutions/"><u>1. Step-by-Step Guide: Terminating an Active Print Task with YL Computing's Solutions</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-how-to-use-chroma-keying-in-video-making/"><u>2024 Approved How to Use Chroma Keying in Video Making</u></a></li>
-<li><a href="https://facebook.techidaily.com/a-guide-to-smart-social-networking-balancing-favorites-and-blocks-on-facebook/"><u>A Guide to Smart Social Networking: Balancing Favorites & Blocks on Facebook</u></a></li>
-<li><a href="https://program-issues.techidaily.com/black-ops-cold-war-fixed-resolving-ui-error-code-27711/"><u>Black Ops Cold War Fixed: Resolving UI Error Code 27711</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/galactic-kitty-visual-delights-high-quality-catastrophe-cosmos-pictures-and-inspiring-photos-from-yl-software/"><u>Galactic Kitty Visual Delights: High-Quality Catastrophe Cosmos Pictures and Inspiring Photos From YL Software</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-can-i-improve-my-graphics-cards-performance-when-its-underperforming-expert-tips-from-yl-computing/"><u>How Can I Improve My Graphics Card's Performance When It's Underperforming? - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-realme-12-pro-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Realme 12 Pro 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/solving-standard-soundcard-troubleshooting-insights-from-yl-software-experts/"><u>Solving Standard SoundCard Troubleshooting - Insights From YL Software Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-apple-watch-ultra-2-my-perfect-tech-companion-at-a-special-labor-day-offer-100-off/"><u>The Apple Watch Ultra 2: My Perfect Tech Companion at a Special Labor Day Offer – $100 Off!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-the-foodies-framebook-stepwise-filming/"><u>[New] In 2024, The Foodie's Framebook Stepwise Filming</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1-setting-up-your-network-settings-via-windows-control-panel-a-step-by-step-guide-by-yl-computing/"><u>1. Setting Up Your Network Settings via Windows Control Panel: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-converging-zoom-and-fb-live-for-professional-broadcasts/"><u>2024 Approved Converging ZOOM and FB Live for Professional Broadcasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unravel-the-best-web-resources-for-perfecting-your-video-subtitles/"><u>2024 Approved Unravel the Best Web Resources for Perfecting Your Video Subtitles</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-honor-play-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-retrieve-lost-files-in-windows-without-losing-data-expert-tips-from-yl-computing/"><u>How To Retrieve Lost Files in Windows Without Losing Data - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/image-conversion-techniques-explained-by-yl-computing-yl-software-solutions/"><u>Image Conversion Techniques Explained by YL Computing - YL Software Solutions</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-bring-your-vision-to-life-adobe-premiere-pro-for-mac-creators/"><u>In 2024, Bring Your Vision to Life Adobe Premiere Pro for Mac Creators</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-7-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 7 When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/rotating-high-definition-light-turquoise-sports-backdrop-for-mobile-devices-perfect-loop-background-from-yl-software-solutions/"><u>Rotating High Definition Light Turquoise Sports Backdrop for Mobile Devices, Perfect Loop Background From YL Software Solutions</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/solving-scanner-connectivity-problems-on-windows-a-step-by-step-guide-yl-computing-solutions/"><u>Solving Scanner Connectivity Problems on Windows: A Step-by-Step Guide - YL Computing Solutions</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/understanding-cryptocurrency-pricing-key-influencing-factors-insights-by-yl-computing/"><u>Understanding Cryptocurrency Pricing: Key Influencing Factors - Insights by YL Computing</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/understanding-the-taiping-uprising-chronology-with-expert-analysis-from-yl-software-solutions/"><u>Understanding the Taiping Uprising Chronology with Expert Analysis From YL Software Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/youtubewindows10-voice-recorder/"><u>YouTube動画をWindows10 Voice Recorderで効果的に録音する手引き</u></a></li>
 </ul></div>
 

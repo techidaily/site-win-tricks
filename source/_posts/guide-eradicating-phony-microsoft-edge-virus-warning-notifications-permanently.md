@@ -1,7 +1,7 @@
 ---
 title: "Guide: Eradicating Phony Microsoft Edge Virus Warning Notifications Permanently"
-date: 2024-11-23T17:16:50.294Z
-updated: 2024-11-26T17:11:33.626Z
+date: 2024-12-14T18:00:50.166Z
+updated: 2024-12-18T16:11:01.108Z
 tags:
   - product
   - antivirus
@@ -54,6 +54,10 @@ It is essential to get rid of the source behind this fake virus alert from Micro
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to remove fake virus alert in Microsoft Edge?
 
 Here are a few ways to remove the fake Microsoft Edge virus alert:
@@ -72,17 +76,21 @@ If the Microsoft Edge virus alert pop-up still appears on your PC, try to find t
 ![Open Task Manager](https://www.malwarefox.com/wp-content/uploads/2020/05/Open-Task-Manger.png)
 2. Watch out for the applications that are consuming the system memory even though you did not install or launch them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Right-click on the suspicious application and open its file location.  
 ![uninstall suspicous files](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-suspicous-files.png)
 4. Delete the file from its root location.
 
 5. Open Control Panel and click on **Uninstall a program** and check for suspicious apps. One by one, select and uninstall them.![uninstall the apps](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-the-apps.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Delete Temporary Files**
 
@@ -95,7 +103,7 @@ Here are the steps to eliminate thre temporary files:
 3. This run command would navigate you to this path: **_C:\\Users\\\[username\]\\AppData\\Local\\Temp,_** that is, the temp folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Select all Files and Folders of this folder and delete them. Don’t hesitate to delete them, as they are not essential for any of your tasks. ![Delete temp files](https://www.malwarefox.com/wp-content/uploads/2020/07/Delete-temp-files.png)
@@ -112,21 +120,17 @@ Clearing the browsing data such as history, cookies, cached data, and others mig
 3. On the left pane of the Settings page, click on **Privacy, search, and services**.![privacy settings edge browser](https://www.malwarefox.com/wp-content/uploads/2021/05/privacy-settings-edge-browser.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Scroll down and under **Clear browsing data,** click on **Choose what to clear** button.![choose what to clear](https://www.malwarefox.com/wp-content/uploads/2021/05/choose-what-to-clear.png)
 
 5. Select Browsing History, Download History, Cache, Cookies, and other data, choose the appropriate Time range, and click on the **Clear now** button.![clear edge data](https://www.malwarefox.com/wp-content/uploads/2021/05/clear-edge-data.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Install an Antimalware and Perform a Scan**
@@ -154,14 +158,14 @@ The virus warning pop-up on the Microsoft Edge might be because of an adware pre
 
 [How to remove Yahoo Search from Chrome?](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6 thoughts on “How to Remove Virus Alert from Microsoft Edge?”
 
 1. ![](https://secure.gravatar.com/avatar/67d610ac3ebf44da02b3a2a484716b45?s=50&d=mm&r=g)  
 philip quinn  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [August 11, 2021 at 2:50 am](https://tools.techidaily.com/malwarefox/products/)  
 Unfortunately, got the dreaded popup this evening. I used “Clear Browsing Data” and got rid of it. Then I used “Delete Temporary Files” just to make sure. Thanks very much for your help. I can now get some sleep.  
@@ -170,7 +174,7 @@ Unfortunately, got the dreaded popup this evening. I used “Clear Browsing Data
 Krystal  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [January 11, 2022 at 9:04 pm](https://tools.techidaily.com/malwarefox/products/)  
@@ -185,25 +189,21 @@ In macOS, I received one of these on my google chrome browser. All you have to d
 4. ![](https://secure.gravatar.com/avatar/0114c46f2404b3774063826691486a89?s=50&d=mm&r=g)  
 Bob  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [March 1, 2022 at 9:17 pm](https://tools.techidaily.com/malwarefox/products/)  
 Thank you. So far my pl4fulbunny is gone.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 5. ![](https://secure.gravatar.com/avatar/52cae7ccd666126cec6e637b0faf5e67?s=50&d=mm&r=g)  
 Julie  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [August 15, 2022 at 6:14 am](https://tools.techidaily.com/malwarefox/products/)  
 Your suggestions seemed to have helped! Restarting in “safe mode” was kinda scary, and didn’t take care of the problem; but as I made my way thru the list, the notifications stopped. Thanks for mentioning “not to panic” too, btw… cause I definitely was :p  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 6. ![](https://secure.gravatar.com/avatar/6ff0d6b88173d47adbdacef369d61688?s=50&d=mm&r=g)  
 Marguerite Brown  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [January 3, 2024 at 6:34 am](https://tools.techidaily.com/malwarefox/products/)  
 WOW…..clearing the browsing data worked. Bingo! I knew it was a scam, but impossible to work comfortably with “Russia now has control of your computer” et al screaming at you. Thanks so much.  
@@ -234,17 +234,17 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-seamless-video-downloads-windowsmacosandroid-2e-2023/"><u>[Updated] Seamless Video Downloads Windows/macOS/Android, 2E 2023</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/windows-11-3/"><u>[Windows 11] ロックされる前の状態でパソコンを回復する方法:3つの有効な手段</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/descubre-las-3-formas-mas-faciles-de-crear-y-ejecutar-un-live-usb-con-windows-11/"><u>Descubre Las 3 Formas Más Faciles De Crear Y Ejecutar Un Live USB Con Windows 11</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/gewahrleistet-sie-die-unversehrtheit-ihrer-informationen-mithilfe-von-raid-and-kostenfreier-raid-backup-software/"><u>Gewährleistet Sie Die Unversehrtheit Ihrer Informationen Mithilfe Von RAID & Kostenfreier RAID Backup Software</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Realme C67 4G? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-realme-narzo-n53-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Realme Narzo N53 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/instructions-for-making-your-hard-disk-or-usb-stick-boot-ready-with-windows-10-and-11/"><u>Instructions for Making Your Hard Disk or USB Stick Boot-Ready with Windows 10 and 11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-epson-wf-2540-printer-driver-for-multiple-windows-os-download-now/"><u>Latest Epson WF 2540 Printer Driver for Multiple Windows OS - Download Now!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/securing-approval-from-trustedinstaller-for-file-alterations/"><u>Securing Approval From TrustedInstaller for File Alterations</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/simplifying-your-home-networking-with-tp-link-deco-p9-in-depth-review/"><u>Simplifying Your Home Networking with TP-Link Deco P9 - In-Depth Review</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-final-cut-pros-finest-10-iconic-movies-for-2024/"><u>Updated Final Cut Pros Finest 10 Iconic Movies for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/wie-man-daten-effektiv-von-einem-computer-auf-den-anderen-ubertragt/"><u>Wie Man Daten Effektiv Von Einem Computer Auf Den Anderen Überträgt</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-live-tv-battle-who-wins-obs-or-twitch-studio-for-2024/"><u>[New] Live TV Battle Who Wins? OBS or Twitch Studio for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1-troubleshooting-guide-how-to-resolve-persistent-freezing-issues-on-windows-boot-expert-tips-from-yl-computing/"><u>1. Troubleshooting Guide: How to Resolve Persistent Freezing Issues on Windows Boot – Expert Tips From YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-oppo-find-n3-flip-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Oppo Find N3 Flip to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/a-comprehensive-list-of-jurisdictions-embracing-crypto-legality-by-yl-computing-and-yl-software-experts/"><u>A Comprehensive List of Jurisdictions Embracing Crypto Legality by YL Computing & YL Software Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/downloadable-driving-game-compatible-with-xbox-360-controllers/"><u>Downloadable Driving Game Compatible with Xbox 360 Controllers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-top-downloader-apps-youtube-videos-on-android-compared/"><u>In 2024, Top Downloader Apps YouTube Videos on Android Compared</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-12-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/key-points-to-consider-when-opting-for-a-youtube-tv-subscription-for-2024/"><u>Key Points to Consider When Opting for a YouTube TV Subscription for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/language-shift-for-your-monitor-expert-advice-by-yl-software-professionals/"><u>Language Shift for Your Monitor: Expert Advice by YL Software Professionals</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-jaycut-2023-the-ultimate-guide-to-free-online-video-editing-software/"><u>New In 2024, Jaycut 2023 The Ultimate Guide to Free Online Video Editing Software</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/streamline-your-computers-boot-time-expert-guide-to-cleaning-up-startup-programs-with-yl-software-solutions/"><u>Streamline Your Computer's Boot Time: Expert Guide to Cleaning Up Startup Programs with YL Software Solutions</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/troubleshooting-system-unsteadiness-a-comprehensive-guide-by-yl-computing/"><u>Troubleshooting System Unsteadiness: A Comprehensive Guide by YL Computing</u></a></li>
 </ul></div>
 

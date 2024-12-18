@@ -1,7 +1,7 @@
 ---
 title: "Download Early Access: DEX 3.4 Version Now Ready on PCDJ Platform"
-date: 2024-12-05T07:05:32.504Z
-updated: 2024-12-11T19:01:22.929Z
+date: 2024-12-17T16:08:14.059Z
+updated: 2024-12-18T16:51:42.284Z
 tags:
   - product
 categories:
@@ -57,7 +57,7 @@ _**NOTE: This DEX 3.4 DJ Software Update Will Overwrite Your Existing DEX 3 Vers
 \*If you have any problems with 3.4, you can re-install DEX 3.3.3 from the DEX 3 support page [HERE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,19 +79,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/06/dex34prerelease-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-11-secrets-to-increasing-your-facebook-video-reach/"><u>[New] 11 Secrets to Increasing Your Facebook Video Reach</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-superior-emulator-lineup-for-playing-retro-ps1-classics/"><u>[New] 2024 Approved Superior Emulator Lineup for Playing Retro PS1 Classics</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comedic-calls-ringtones-best-picks-online-for-2024/"><u>Comedic Calls Ringtones' Best Picks Online for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/configuring-mouse-and-touchpad-preferences-expert-tips-from-yl-computing/"><u>Configuring Mouse and Touchpad Preferences: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/ensuring-peak-functionality-expert-tips-on-scanning-device-maintenance-from-yl-computing/"><u>Ensuring Peak Functionality: Expert Tips on Scanning Device Maintenance From YL Computing</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-s23-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-honor-magic-6-lite-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Honor Magic 6 Lite Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-oppo-a79-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Oppo A79 5G Pattern Lock Screen</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Teleport Your GPS Location On Apple iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/is-your-windows-defender-online-discover-how-with-yl-software-techniques/"><u>Is Your Windows Defender Online? Discover How with YL Software Techniques</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/lifestyle-modifications-these-can-involve-adjusting-diet-and-exercise-routines-managing-stress-levels-and-quitting-smoking-or-alcohol-consumption-if-applica83/"><u>Lifestyle Modifications: These Can Involve Adjusting Diet and Exercise Routines, Managing Stress Levels, and Quitting Smoking or Alcohol Consumption if Applicable.</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/premier-retro-video-editor-tools/"><u>Premier Retro Video Editor Tools</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/resolving-unrecognized-graphics-card-issues-in-windows-a-comprehensive-guide-yl-computing/"><u>Resolving Unrecognized Graphics Card Issues in Windows: A Comprehensive Guide - YL Computing</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/yl-software-understanding-potential-charges-for-their-digital-solutions/"><u>YL Software: Understanding Potential Charges for Their Digital Solutions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-radiant-reality-tiles-photographic-collages-that-sparkle-for-2024/"><u>[New] Radiant Reality Tiles Photographic Collages That Sparkle for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-top-6-choices-prime-microphones-for-dynamic-online-broadcasts/"><u>[Updated] In 2024, Top 6 Choices Prime Microphones for Dynamic Online Broadcasts</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1-effective-steps-to-upgrade-your-audio-devices-driver-a-guide-by-yl-computing/"><u>1. Effective Steps to Upgrade Your Audio Device's Driver: A Guide by YL Computing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/decoding-the-dichotomy-between-tiktok-and-its-alternative-triller-for-2024/"><u>Decoding the Dichotomy Between TikTok and Its Alternative, Triller for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-nokia-c32-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Nokia C32</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/ensuring-compatibility-verifying-your-scanners-driver-version-on-latest-yl-software/"><u>Ensuring Compatibility: Verifying Your Scanner’s Driver Version on Latest YL Software</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/explore-infinite-starbucks-themes-professional-photos-wallpapers-and-graphics-from-yl-software-solutions/"><u>Explore Infinite Starbucks Themes: Professional Photos, Wallpapers, and Graphics From YL Software Solutions</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719154372180-favorite-social-app-cast-your-ballot-now/"><u>Favorite Social App: Cast Your Ballot Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-for-constant-lagging-and-freezing-in-deathloop-on-desktop-computers/"><u>Fixes for Constant Lagging & Freezing in Deathloop on Desktop Computers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-tecno-spark-10c-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Tecno Spark 10C to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/maximize-your-hard-drive-capacity-with-simple-tricks-by-yl-experts/"><u>Maximize Your Hard Drive Capacity with Simple Tricks by YL Experts</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/saving-your-slides-best-file-formats-for-powerpoint-presentations-insights-by-yl-computing/"><u>Saving Your Slides: Best File Formats for PowerPoint Presentations - Insights by YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultra-compact-apple-vision-pro-carrier-half-the-bulk-full-of-style-zdnet-insights/"><u>The Ultra-Compact Apple Vision Pro Carrier: Half the Bulk, Full of Style (ZDNet Insights)</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/understanding-standard-configuration-exploring-default-control-panel-options-with-yl-computing/"><u>Understanding Standard Configuration: Exploring Default Control Panel Options with YL Computing</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/yl-softwares-collection-of-stunning-high-resolution-blue-sky-walls-and-themes/"><u>YL Software's Collection of Stunning High-Resolution Blue Sky Walls & Themes</u></a></li>
 </ul></div>
 

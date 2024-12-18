@@ -1,7 +1,7 @@
 ---
 title: Top 9 Android App Permissions You Should Never Grant
-date: 2024-11-24T16:36:32.592Z
-updated: 2024-11-26T16:49:37.603Z
+date: 2024-12-11T17:17:02.934Z
+updated: 2024-12-18T18:25:51.542Z
 tags:
   - product
   - antivirus
@@ -44,10 +44,6 @@ Protect your identity and remove Spyware from your Device
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What are App Permissions?
 
 Simply put, permissions are what allow applications on the Android platform to access the hardware features or personal information on a device. This could be the camera on a phone or the photos that you have saved on your handsets.
@@ -83,7 +79,7 @@ It gives that application the ability to phish your password through trickery or
 That’s the last thing you want, this privacy and security nightmare.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## App Permissions to avoid on Android
@@ -93,16 +89,12 @@ We take a look at the most common permissions apps asks for on Android below. Ea
 Let’s get to it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Authenticate accounts
 
 ![](https://www.malwarefox.com/wp-content/uploads/2020/02/authenticate-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 This is extremely dangerous permission to give, as it allows an app to authenticate sensitive information on your Android device, like passwords. Giving a rogue app this access is asking for your password to be phished through trickery.
 
@@ -114,11 +106,19 @@ What’s telling us is that the apps that ask for this permission legitimately c
 
 ![](https://www.malwarefox.com/wp-content/uploads/2020/02/log.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You don’t want just any application to read the sensitive log data on your Android phone or tablet. But you would be surprised just how many treacherous apps ask for this permission. It simply enables that app to access the log files in your handset.
 
 There have been cases where these malware-infested apps secretly mailed the log files of the phones they were installed on, back to their developer. These included keystrokes as well, meaning the usernames and passwords of these users were also transferred. While it’s impossible to vouch that these details were not misused, you really don’t want to mess around with apps that mess around with your log data. 
 
 [What is Cached Data on Android Phone](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Read contacts
 
@@ -130,13 +130,13 @@ As it says on the tin, this permission gives an application access to your conta
 
 ![](https://www.malwarefox.com/wp-content/uploads/2020/02/calendar.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now, this permission is something that will be of moderate importance to most users. Calendar information is usually slightly less important than your contact list, even as calendar events often contain contact information. But if you know that an app is legitimately asking for access here, then there is little harm in giving it. 
 
 Save for cases where you absolutely know that an application has got nothing to do with this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Read Browser History and Bookmarks
 
@@ -156,6 +156,10 @@ This one is straightforward. Once granted this permission, an app will get the a
 
 This is another powerful permission that you should not be handing out like candies on a Halloween night. As a matter of pure fact, it should belong exclusively to VoIP apps, those that you use to make voice and video calls with your friends and family. An app that wants this access without having anything to do with incoming or outgoing calls will simply be over-permissioned.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Send SMS
 
 Back in the wild days, when Android was very new, apps really misused this ability. Once installed, they would send premium SMS messages from your handset incurring heavy costs. Thankfully, we have moved beyond these nightmare scenarios.
@@ -165,7 +169,7 @@ Nevertheless, you should still use caution in granting apps access to send SMS o
 [How to Block Unwanted SMS text Messages on Android](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Read Social Stream
@@ -173,10 +177,6 @@ Nevertheless, you should still use caution in granting apps access to send SMS o
 The boom in social media shows no signs of slowing down, and neither are the privacy concerns that these networks entail. For this reason, Google incorporated permission that allows applications the ability to read information gleaned from your social feeds.
 
 This is, again, something that you should be very careful of, and only hand over to apps that you trust. Most people have a vast amount of personal information in their profiles on social networks, and you really don’t want to invite a rogue app to take advantage of this.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -201,13 +201,13 @@ I look forward to your reply.
 3. ![](https://secure.gravatar.com/avatar/f11f4161b0c96d94489229ff513b368b?s=50&d=mm&r=g)  
 Jubal Spencer  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [September 9, 2021 at 2:16 am](https://tools.techidaily.com/malwarefox/products/)  
 I forgot I have an android  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -234,17 +234,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-drive-success-a-comprehensive-list-of-the-best-fb-schedulers/"><u>[New] In 2024, Drive Success A Comprehensive List of the Best FB Schedulers</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-master-the-basics-of-windows-10-effortlessly/"><u>[New] Master the Basics of Windows 10 Effortlessly</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-step-by-step-process-for-making-a-stellar-podcast-launch-video/"><u>[New] Step-By-Step Process for Making a Stellar Podcast Launch Video</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-fix-obs-full-screen-not-working-issue/"><u>[Updated] How To Fix OBS Full Screen Not Working Issue?</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/1728489220189-sd/"><u>無料で簡単にSDメモリーカードのデータ回復 -ステップバイステップガイド</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/comment-arreter-le-lancer-rapide-sur-windows-11-guides-et-techniques-utiles/"><u>Comment Arrêter Le Lancer Rapide Sur Windows 11 - Guides Et Techniques Utiles</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/erfolgreiches-beheben-von-bootproblemen-mit-systemwiederherstellungsmassnahmen-auf-deinem-computer/"><u>Erfolgreiches Beheben Von Bootproblemen Mit Systemwiederherstellungsmaßnahmen Auf Deinem Computer</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-tecno-spark-10-4g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Tecno Spark 10 4G</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-motorola-g54-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Motorola G54 5G Phone | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Honor X50 GT? | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/quick-solutions-resolving-phantom-applications-on-windows-11/"><u>Quick Solutions: Resolving Phantom Applications on Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flipping-frames-innovative-techniques-for-backward-viewing-on-yt/"><u>[New] In 2024, Flipping Frames Innovative Techniques for Backward Viewing on YT</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-transforming-imagery-the-power-of-ps-curves/"><u>[New] Transforming Imagery The Power of PS Curves</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-value-hunting-affordable-vr-gear-from-china/"><u>[New] Value Hunting Affordable VR Gear From China</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-perfecting-live-footage-with-fbx-recorder/"><u>[Updated] In 2024, Perfecting Live Footage with FBX Recorder</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/detecting-and-clearing-internal-dust-accumulation-in-pcs-a-comprehensive-guide-tips-by-yl-computing/"><u>Detecting & Clearing Internal Dust Accumulation in PCs: A Comprehensive Guide - Tips by YL Computing</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/exploring-the-consequences-of-han-empire-collapse-for-chinese-politics-and-society-analysis-with-yl-software-expertise/"><u>Exploring the Consequences of Han Empire Collapse for Chinese Politics and Society – Analysis with YL Software Expertise</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/high-definition-library-themes-premium-wallpaper-and-backdrop-collections-yl-computings-visual-treats/"><u>High-Definition Library Themes: Premium Wallpaper & Backdrop Collections - YL Computing's Visual Treats</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-engage-viewers-with-powerful-channel-building-stories/"><u>In 2024, Engage Viewers with Powerful Channel-Building Stories</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/resolving-printer-spooler-issues-a-step-by-step-guide-techsolutions-by-yl/"><u>Resolving Printer Spooler Issues: A Step-by-Step Guide - TechSolutions by YL</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/step-by-step-guide-updating-your-pc-wallpaper-via-windows-settings-tips-by-yl-computing/"><u>Step-by-Step Guide: Updating Your PC Wallpaper via Windows Settings - Tips by YL Computing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transforming-personal-narratives-best-practices-for-video-praise/"><u>Transforming Personal Narratives Best Practices for Video Praise</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/ultra-clear-star-wars-wallsavers-and-backdrops-powered-by-yl-software-solutions/"><u>Ultra-Clear Star Wars Wallsavers & Backdrops, Powered by YL Software Solutions</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/verify-if-your-pc-runs-windows-defender-automatically-essential-guide-from-yl-software/"><u>Verify if Your PC Runs Windows Defender Automatically - Essential Guide From YL Software</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/yl-software-explains-how-to-refresh-device-drivers-for-optimal-performance/"><u>YL Software Explains How to Refresh Device Drivers for Optimal Performance</u></a></li>
 </ul></div>
 

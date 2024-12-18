@@ -1,7 +1,7 @@
 ---
 title: Setting Up Exclusions in Windows Defender - A Step-by-Step Guide by YL Computing
-date: 2024-12-07T19:34:57.292Z
-updated: 2024-12-12T00:46:45.948Z
+date: 2024-12-16T16:51:17.545Z
+updated: 2024-12-18T16:16:53.415Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,14 +56,21 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-unlocking-virtual-meetings-googles-facetime-tutorial/"><u>2024 Approved Unlocking Virtual Meetings Google's Facetime Tutorial</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-elevate-your-content-youtube-movie-maker-101/"><u>In 2024, Elevate Your Content YouTube Movie Maker 101</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-inspire-your-recruitment-process-with-pioneering-tapes/"><u>In 2024, Inspire Your Recruitment Process with Pioneering Tapes</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/mastering-troubleshooting-for-windows-11-users-expert-advice-from-yl-software/"><u>Mastering Troubleshooting for Windows 11 Users: Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/resolving-graphical-issues-why-isnt-the-graphics-card-displaying-on-my-monitor-expert-guidance-from-compunex-solutions/"><u>Resolving Graphical Issues: Why Isn't the Graphics Card Displaying on My Monitor? - Expert Guidance From Compunex Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revitalize-your-text-editor-experience-7-troubleshooting-tips-for-windows/"><u>Revitalize Your Text Editor Experience: 7 Troubleshooting Tips for Windows</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/understanding-file-and-folder-recovery-the-process-explained-by-yl-software-experts/"><u>Understanding File & Folder Recovery: The Process Explained by YL Software Experts</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/unlimited-song-selection-on-karaoke-cloud-pro-add-20-new-tracks-for-endless-entertainment/"><u>Unlimited Song Selection on Karaoke Cloud Pro – Add 20 New Tracks for Endless Entertainment!</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-s-hottest-vlog-editor-apps-top-10-picks-for-ios-and-android/"><u>Updated 2024 Approved S Hottest Vlog Editor Apps Top 10 Picks for iOS and Android</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-inside-perspectives-unveiling-what-you-dont-know-about-story-watching/"><u>[New] 2024 Approved Inside Perspectives Unveiling What You Don't Know About Story Watching</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/treaming-content-artist/"><u>[New] Streaming Content Artist</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1-easily-switch-your-default-printer-on-windows-a-step-by-step-guide-yl-computing/"><u>1. Easily Switch Your Default Printer on Windows: A Step-by-Step Guide - YL Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-resume-writing-via-chatgpt-techniques/"><u>Cutting-Edge Resume Writing via ChatGPT Techniques</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/decoding-psu-malfunctions-with-expert-insights-from-yl-software/"><u>Decoding PSU Malfunctions with Expert Insights From YL Software</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-swift-cellular-data-discover-the-ultimate-techniques-for-increasing-download-rates/"><u>Get Swift Cellular Data - Discover the Ultimate Techniques for Increasing Download Rates</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-spot-early-signs-of-your-devices-decline-with-help-from-yl-tech-solutions/"><u>How to Spot Early Signs of Your Device's Decline with Help From YL Tech Solutions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/887254-9781780991696-meeting-the-masters/"><u>Meeting the Masters | Free Book</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-honor-x9a-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor X9a Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/step-by-step-guide-customizing-your-pcs-background-in-windows-10-tips-and-tricks-from-yl-computing/"><u>Step-by-Step Guide: Customizing Your PC's Background in Windows 10 - Tips & Tricks From YL Computing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-studio-sessions-best-practices-15-youtube-production-guides-for-musicians-for-2024/"><u>The Studio Sessions Best Practices - 15 YouTube Production Guides for Musicians for 2024</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/top-10-insights-into-shaping-tomorrows-workplace-visionary-perspectives-from-the-abbyy-blog/"><u>Top 10 Insights Into Shaping Tomorrow's Workplace: Visionary Perspectives From the ABBYY Blog</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/top-2-efficient-techniques-to-create-a-bootable-norton-ghost-usb-drive-for-various-windows-versions/"><u>Top 2 Efficient Techniques to Create a Bootable Norton Ghost USB Drive for Various Windows Versions</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/understanding-digital-and-physical-cash-a-comparison-of-cryptocurrency-and-fiat-money-with-yl-software/"><u>Understanding Digital & Physical Cash: A Comparison of Cryptocurrency and Fiat Money with YL Software</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/unraveling-screen-freezing-issues-during-access-to-certain-hardware-components-expert-analysis-by-yl-computing-and-yl-software/"><u>Unraveling Screen Freezing Issues During Access to Certain Hardware Components – Expert Analysis by YL Computing and YL Software</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/unveiling-the-final-act-of-the-three-kingdoms-dynasty-a-deep-dive-by-yl-software-experts/"><u>Unveiling the Final Act of the Three Kingdoms Dynasty: A Deep Dive by YL Software Experts</u></a></li>
 </ul></div>
 
