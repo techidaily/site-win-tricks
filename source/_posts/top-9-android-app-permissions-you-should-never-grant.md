@@ -1,7 +1,7 @@
 ---
 title: Top 9 Android App Permissions You Should Never Grant
-date: 2024-12-11T17:17:02.934Z
-updated: 2024-12-18T18:25:51.542Z
+date: 2024-12-25T22:18:11.196Z
+updated: 2024-12-27T00:12:16.771Z
 tags:
   - product
   - antivirus
@@ -78,10 +78,6 @@ It gives that application the ability to phish your password through trickery or
 
 That’s the last thing you want, this privacy and security nightmare.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## App Permissions to avoid on Android
 
 We take a look at the most common permissions apps asks for on Android below. Each one is detailed with what it does, so you know what it does and how it impacts your privacy and the security of your device. Additionally, it should also give you an idea of what permissions to avoid.
@@ -89,7 +85,7 @@ We take a look at the most common permissions apps asks for on Android below. Ea
 Let’s get to it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Authenticate accounts
@@ -106,19 +102,11 @@ What’s telling us is that the apps that ask for this permission legitimately c
 
 ![](https://www.malwarefox.com/wp-content/uploads/2020/02/log.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You don’t want just any application to read the sensitive log data on your Android phone or tablet. But you would be surprised just how many treacherous apps ask for this permission. It simply enables that app to access the log files in your handset.
 
 There have been cases where these malware-infested apps secretly mailed the log files of the phones they were installed on, back to their developer. These included keystrokes as well, meaning the usernames and passwords of these users were also transferred. While it’s impossible to vouch that these details were not misused, you really don’t want to mess around with apps that mess around with your log data. 
 
 [What is Cached Data on Android Phone](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Read contacts
 
@@ -130,12 +118,16 @@ As it says on the tin, this permission gives an application access to your conta
 
 ![](https://www.malwarefox.com/wp-content/uploads/2020/02/calendar.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, this permission is something that will be of moderate importance to most users. Calendar information is usually slightly less important than your contact list, even as calendar events often contain contact information. But if you know that an app is legitimately asking for access here, then there is little harm in giving it. 
 
 Save for cases where you absolutely know that an application has got nothing to do with this.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Read Browser History and Bookmarks
@@ -148,16 +140,24 @@ This permission allows an app to read and write system settings. No doubt this i
 
 Those of you who are using rooted phones should be extra careful when giving this permission. In most cases, you want to look the other way when an app wants in with this, for this is akin to giving the keys of your house to a burglar.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Process Outgoing Calls
 
 ![](https://www.malwarefox.com/wp-content/uploads/2020/02/call.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This one is straightforward. Once granted this permission, an app will get the ability to monitor the details of outgoing calls. And you can bet the farmhouse that it will examine everything — from the phone numbers to the personal details of your contacts.
 
 This is another powerful permission that you should not be handing out like candies on a Halloween night. As a matter of pure fact, it should belong exclusively to VoIP apps, those that you use to make voice and video calls with your friends and family. An app that wants this access without having anything to do with incoming or outgoing calls will simply be over-permissioned.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Send SMS
@@ -167,10 +167,6 @@ Back in the wild days, when Android was very new, apps really misused this abili
 Nevertheless, you should still use caution in granting apps access to send SMS or MMS. While the number of companies that can tack on charges to individual SMS is low nowadays, you would still receive the bill for using services like these. Unless you are absolutely sure that your chosen app requires access to your SMS, this permission should not be permitted.
 
 [How to Block Unwanted SMS text Messages on Android](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Read Social Stream
 
@@ -187,6 +183,10 @@ App permissions may be one of the best things to ever happen to the Android plat
 1. ![](https://secure.gravatar.com/avatar/594d2b32dd23344d963d854a4d5ea8f0?s=50&d=mm&r=g)  
 Tonya  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [June 3, 2020 at 1:57 am](https://tools.techidaily.com/malwarefox/products/)  
 How do I stop all of the the blocks,put on anything that has to do with me/or my device,and Chrome/Chromebook. This has been going on since February!How do I stop being controlled remotely? Can I find out who or what is taking over my stuff etc..?Please help and soon  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
@@ -201,13 +201,13 @@ I look forward to your reply.
 3. ![](https://secure.gravatar.com/avatar/f11f4161b0c96d94489229ff513b368b?s=50&d=mm&r=g)  
 Jubal Spencer  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [September 9, 2021 at 2:16 am](https://tools.techidaily.com/malwarefox/products/)  
 I forgot I have an android  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -234,20 +234,18 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flipping-frames-innovative-techniques-for-backward-viewing-on-yt/"><u>[New] In 2024, Flipping Frames Innovative Techniques for Backward Viewing on YT</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-transforming-imagery-the-power-of-ps-curves/"><u>[New] Transforming Imagery The Power of PS Curves</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-value-hunting-affordable-vr-gear-from-china/"><u>[New] Value Hunting Affordable VR Gear From China</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-perfecting-live-footage-with-fbx-recorder/"><u>[Updated] In 2024, Perfecting Live Footage with FBX Recorder</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/detecting-and-clearing-internal-dust-accumulation-in-pcs-a-comprehensive-guide-tips-by-yl-computing/"><u>Detecting & Clearing Internal Dust Accumulation in PCs: A Comprehensive Guide - Tips by YL Computing</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/exploring-the-consequences-of-han-empire-collapse-for-chinese-politics-and-society-analysis-with-yl-software-expertise/"><u>Exploring the Consequences of Han Empire Collapse for Chinese Politics and Society – Analysis with YL Software Expertise</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/high-definition-library-themes-premium-wallpaper-and-backdrop-collections-yl-computings-visual-treats/"><u>High-Definition Library Themes: Premium Wallpaper & Backdrop Collections - YL Computing's Visual Treats</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-engage-viewers-with-powerful-channel-building-stories/"><u>In 2024, Engage Viewers with Powerful Channel-Building Stories</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/resolving-printer-spooler-issues-a-step-by-step-guide-techsolutions-by-yl/"><u>Resolving Printer Spooler Issues: A Step-by-Step Guide - TechSolutions by YL</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/step-by-step-guide-updating-your-pc-wallpaper-via-windows-settings-tips-by-yl-computing/"><u>Step-by-Step Guide: Updating Your PC Wallpaper via Windows Settings - Tips by YL Computing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/transforming-personal-narratives-best-practices-for-video-praise/"><u>Transforming Personal Narratives Best Practices for Video Praise</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/ultra-clear-star-wars-wallsavers-and-backdrops-powered-by-yl-software-solutions/"><u>Ultra-Clear Star Wars Wallsavers & Backdrops, Powered by YL Software Solutions</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/verify-if-your-pc-runs-windows-defender-automatically-essential-guide-from-yl-software/"><u>Verify if Your PC Runs Windows Defender Automatically - Essential Guide From YL Software</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/yl-software-explains-how-to-refresh-device-drivers-for-optimal-performance/"><u>YL Software Explains How to Refresh Device Drivers for Optimal Performance</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-efficient-video-sharing-on-twitter-from-smartphones-for-2024/"><u>[New] Efficient Video Sharing on Twitter From Smartphones for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-smart-snip-skills-advanced-tips-for-iphone-photo-cropping/"><u>[New] In 2024, Smart Snip Skills Advanced Tips for iPhone Photo Cropping</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-a-to-z-guide-to-recording-games-using-obs/"><u>[Updated] 2024 Approved The A-to-Z Guide to Recording Games Using OBS</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1-free-toshiba-nti-backup-now-replacement-a-comprehensive-guide/"><u>1. Free Toshiba NTI Backup Now Replacement: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-the-ultimate-selection-of-transition-apps/"><u>2024 Approved Explore the Ultimate Selection of Transition Apps</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/comment-arreter-le-lancer-rapide-sur-windows-11-guides-et-techniques-utiles/"><u>Comment Arrêter Le Lancer Rapide Sur Windows 11 - Guides Et Techniques Utiles</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/genuine-testimonials-and-evaluations-of-malwarefox-anti-malware-suite-by-paid-users/"><u>Genuine Testimonials and Evaluations of MalwareFox Anti-Malware Suite by Paid Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-potential-engineering-specialized-chatgpt-models/"><u>GPT's Potential: Engineering Specialized ChatGPT Models</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-discover-the-top-15-best-supports-for-gopro-hd-video/"><u>In 2024, Discover the Top 15 Best Supports for GoPro HD Video</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/photo-editing-essentials-cut-out-unwanted-borders-smoothly-for-2024/"><u>Photo Editing Essentials Cut Out Unwanted Borders Smoothly for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/verwenden-sie-diese-methode-um-ihre-nicht-formatierte-raw-speicherkarte-zu-retten-anleitung-in-6-teilen/"><u>Verwenden Sie Diese Methode, Um Ihre Nicht Formatierte RAW-Speicherkarte Zu Retten - Anleitung in 6 Teilen</u></a></li>
+<li><a href="https://blog-min.techidaily.com/webm/"><u>WebM圧縮ガイド:最小限の品質損失でファイルサイズを伸ばしてみせましょう！</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1728485490085-yahoo-mail/"><u>Yahoo! Mail における消去前のメッセージ領域の保持期限：詳細解析</u></a></li>
 </ul></div>
 

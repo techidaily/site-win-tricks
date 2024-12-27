@@ -1,7 +1,7 @@
 ---
 title: "Safeguarding Against the Geek Squad Phishing Scheme: Tips & Strategies"
-date: 2024-12-11T16:08:33.363Z
-updated: 2024-12-18T17:49:48.845Z
+date: 2024-12-23T04:48:49.926Z
+updated: 2024-12-27T01:17:37.797Z
 tags:
   - product
   - antivirus
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/4b7456a673e9ab4f91fdc46da88e43866c4c8770e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is Geek Squad Email Scam?
 
 We analysed the email and discovered that it is disguised as a message from Geek Squad, a Best Buy subsidiary (a consumer electronics corporation). The objective of this email is to deceive users into dialling the number mentioned (contacting scammers). It must be simply ignored. This email has nothing to do with Geek Squad.
@@ -31,7 +27,7 @@ The bogus emails bear the Geek Squad logo and claim that the recipient’s Geek 
 ![GeekSquad Email Scam](https://www.malwarefox.com/wp-content/uploads/2022/10/geek-squad-scam.webp "GeekSquad Email Scam")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 When alerted about a substantial transaction, the scammers’ targets become anxious and call the con artists right away to learn more about the transaction or to make a timely cancellation. This is where fraudsters prey on them. Following that, the fraud might take numerous shapes, but the eventual goal of the hackers is to extract as much money as possible from their victims.
@@ -39,7 +35,7 @@ When alerted about a substantial transaction, the scammers’ targets become anx
 [How to Spot Fake Apple ID Phishing Scams](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does Geek Squad Email Scam Work?
@@ -54,6 +50,10 @@ Once their targets give them access, the con artists have full control over how 
 
 [What is Spear Phishing and How is it Different?](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to avoid Geeksquad Email Scam?
 
 If you’ve gotten an email purportedly from Geek Squad and suspect it’s a scam, you’ve already done half the work.
@@ -65,7 +65,7 @@ If you share the computer with someone else, block the sender to prevent them fr
 To sum it up, then, ignoring the Geek Squad scam email and blocking the sender is the best way to avoid it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What to do if you became victim of this Scam?
@@ -73,7 +73,7 @@ To sum it up, then, ignoring the Geek Squad scam email and blocking the sender i
 ![](https://www.malwarefox.com/wp-content/uploads/2022/10/scam-victim.webp "scam-victim")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * If you’ve just spoken with the fraudsters, don’t do whatever they tell you to.
@@ -100,20 +100,17 @@ The pointers listed above for detecting a Geek Squad email scam also apply to ot
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-the-foodies-framebook-stepwise-filming/"><u>[New] In 2024, The Foodie's Framebook Stepwise Filming</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/1-setting-up-your-network-settings-via-windows-control-panel-a-step-by-step-guide-by-yl-computing/"><u>1. Setting Up Your Network Settings via Windows Control Panel: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-converging-zoom-and-fb-live-for-professional-broadcasts/"><u>2024 Approved Converging ZOOM and FB Live for Professional Broadcasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unravel-the-best-web-resources-for-perfecting-your-video-subtitles/"><u>2024 Approved Unravel the Best Web Resources for Perfecting Your Video Subtitles</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-honor-play-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-to-retrieve-lost-files-in-windows-without-losing-data-expert-tips-from-yl-computing/"><u>How To Retrieve Lost Files in Windows Without Losing Data - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/image-conversion-techniques-explained-by-yl-computing-yl-software-solutions/"><u>Image Conversion Techniques Explained by YL Computing - YL Software Solutions</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-bring-your-vision-to-life-adobe-premiere-pro-for-mac-creators/"><u>In 2024, Bring Your Vision to Life Adobe Premiere Pro for Mac Creators</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-7-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 7 When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/rotating-high-definition-light-turquoise-sports-backdrop-for-mobile-devices-perfect-loop-background-from-yl-software-solutions/"><u>Rotating High Definition Light Turquoise Sports Backdrop for Mobile Devices, Perfect Loop Background From YL Software Solutions</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/solving-scanner-connectivity-problems-on-windows-a-step-by-step-guide-yl-computing-solutions/"><u>Solving Scanner Connectivity Problems on Windows: A Step-by-Step Guide - YL Computing Solutions</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/understanding-cryptocurrency-pricing-key-influencing-factors-insights-by-yl-computing/"><u>Understanding Cryptocurrency Pricing: Key Influencing Factors - Insights by YL Computing</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/understanding-the-taiping-uprising-chronology-with-expert-analysis-from-yl-software-solutions/"><u>Understanding the Taiping Uprising Chronology with Expert Analysis From YL Software Solutions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/youtubewindows10-voice-recorder/"><u>YouTube動画をWindows10 Voice Recorderで効果的に録音する手引き</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-streamline-success-a-review-of-top-name-generators/"><u>[New] Streamline Success A Review of Top Name Generators</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-mastering-timelapse-using-gopro-hero5-black/"><u>[Updated] Mastering Timelapse Using GoPro Hero5 Black</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ax201-reconnect-to-wi-fi-6-after-fixing-errors/"><u>AX201: Reconnect to Wi-Fi 6 After Fixing Errors</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/catch-every-nfl-game-this-season-with-just-five-top-streaming-platforms/"><u>Catch Every NFL Game This Season with Just Five Top Streaming Platforms</u></a></li>
+<li><a href="https://win-online.techidaily.com/descargue-el-software-libre-y-gratuito-perfecto-para-la-copia-de-seguridad-de-samsung-ssd-860-actualmente-en-offerta/"><u>Descargue El Software Libre Y Gratuito Perfecto Para La Copia De Seguridad De Samsung SSD 860 Actualmente en Offerta</u></a></li>
+<li><a href="https://fox-access.techidaily.com/illustrators-dream-top-8-ipados-drawers/"><u>Illustrator's Dream Top 8 iPadOS Drawers</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/les-meilleurs-outils-de-duplication-de-donnees-raid-en-france-solutions-rapides-et-fiables/"><u>Les Meilleurs Outils De Duplication De Données RAID en France: Solutions Rapides Et Fiables</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/losungen-dafur-wenn-windows-die-sd-karte-nicht-formatieren-kann-3-effektive-methoden/"><u>Lösungen Dafür, Wenn Windows Die SD-Karte Nicht Formatieren Kann - 3 Effektive Methoden</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/losungswege-fur-eine-verlorene-efi-partition-entdeckt-hier-die-top-4-methoden/"><u>Lösungswege Für Eine Verlorene EFI-Partition - Entdeckt Hier Die Top 4 Methoden!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/snapchats-my-ai-6-insightful-benefits-that-go-far-past-being-a-simple-novelty/"><u>Snapchat's My AI: 6 Insightful Benefits That Go Far Past Being a Simple Novelty</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/troubleshoot-acers-erecovery-software-5-effortless-solutions/"><u>Troubleshoot Acer's eRecovery Software: 5 Effortless Solutions</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/ultimate-step-by-step-manual-expert-strategies-for-seagate-drive-restoration/"><u>Ultimate Step-by-Step Manual: Expert Strategies for Seagate Drive Restoration</u></a></li>
 </ul></div>
 
