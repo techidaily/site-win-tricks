@@ -1,7 +1,7 @@
 ---
 title: Setting Up Exclusions in Windows Defender - A Step-by-Step Guide by YL Computing
-date: 2025-01-03T18:59:16.764Z
-updated: 2025-01-05T16:48:17.316Z
+date: 2025-01-11T00:20:15.920Z
+updated: 2025-01-11T21:50:06.908Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,15 +56,15 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-best-in-class-business-data-cradle/"><u>[New] 2024 Approved Best in Class Business Data Cradle</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/erfolgreiches-wiederherstellen-von-forensischen-speichermedien-masterclass-bei-myrecover/"><u>Erfolgreiches Wiederherstellen Von Forensischen Speichermedien - Masterclass Bei MyRecover</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/expert-guide-discover-the-leading-partition-repair-applications-available-now/"><u>Expert Guide: Discover the Leading Partition Repair Applications Available Now</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/find-your-next-favorite-sound-top-7-free-mobile-apps-for-music-lovers/"><u>Find Your Next Favorite Sound: Top 7 Free Mobile Apps for Music Lovers!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-beginner-to-pro-6-adobe-premiere-tips-to-improve-your-video-editing-for-2024/"><u>From Beginner to Pro 6 Adobe Premiere Tips to Improve Your Video Editing for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/master-your-sonos-sound-with-the-latest-s2-app-update-hidden-drawbacks-you-need-to-know/"><u>Master Your Sonos Sound with the Latest S2 App Update – Hidden Drawbacks You Need to Know!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/mastering-window-driver-revisions-tips-and-tricks-for-seamless-installation/"><u>Mastering Window Driver Revisions: Tips and Tricks for Seamless Installation</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/rsync-mastery-on-windows-10-comprehensive-guide-and-best-alternatives/"><u>Rsync Mastery on Windows 10: Comprehensive Guide & Best Alternatives</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/simple-steps-update-device-drivers-in-windows-7-8-and-10/"><u>Simple Steps: Update Device Drivers in Windows 7, 8 & 10</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/wiederherstellen-von-datas-und-protokollen-auf-dem-windows-server-2012-r2/"><u>Wiederherstellen Von Datas Und Protokollen Auf Dem Windows Server 2012 R2</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/irect-streamline-the-most-efficient-flv-to-youtube-tools-ranked/"><u>[New] Direct Streamline The Most Efficient Flv-to-YouTube Tools Ranked</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mac-screen-grabber-including-microphone-recording/"><u>[Updated] Mac Screen Grabber Including Microphone Recording</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/extracting-fb-video-files-from-pcmac/"><u>Extracting FB Video Files From PC/Mac</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-honor-x50iplus-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Honor X50i+</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/laten-bestanden-verschijnen-in-google-maps-7-gewonnen-methoden-om-het-te-vervangen/"><u>Laten Bestanden Verschijnen in Google Maps: 7 Gewonnen Methoden Om Het Te Vervangen!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-installation-errors-for-microsoft-flight-simulator-2020-solutions-to-stop-stuck-updates/"><u>Overcome Installation Errors for Microsoft Flight Simulator 2020 - Solutions to Stop Stuck Updates</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/professionelle-losungen-zum-schutz-ihres-windows-servers-entdecken-sie-aomei-backupper-server-als-fuhrende-wahl/"><u>Professionelle Lösungen Zum Schutz Ihres Windows Servers: Entdecken Sie AOMEI Backupper Server Als Führende Wahl</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/top-rated-partition-rescue-tools-for-windows-11-users/"><u>Top Rated Partition Rescue Tools for Windows 11 Users</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-apple-iphone-8-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your Apple iPhone 8 in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/von-ihrem-computer-auf-eine-flash-drive-herunter/"><u>Von Ihrem Computer Auf Eine Flash-Drive Herunter!</u></a></li>
 </ul></div>
 

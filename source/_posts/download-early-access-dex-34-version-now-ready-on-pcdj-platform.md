@@ -1,7 +1,7 @@
 ---
 title: "Download Early Access: DEX 3.4 Version Now Ready on PCDJ Platform"
-date: 2025-01-01T16:25:17.100Z
-updated: 2025-01-05T18:40:19.205Z
+date: 2025-01-05T17:20:25.572Z
+updated: 2025-01-12T07:58:34.598Z
 tags:
   - product
 categories:
@@ -57,7 +57,7 @@ _**NOTE: This DEX 3.4 DJ Software Update Will Overwrite Your Existing DEX 3 Vers
 \*If you have any problems with 3.4, you can re-install DEX 3.3.3 from the DEX 3 support page [HERE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,22 +79,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/06/dex34prerelease-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/rafting-closure-secrets-of-spectacative-video-sign-offs/"><u>[New] Crafting Closure Secrets of Spectacative Video Sign-Offs</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-definitive-window-on-game-recording-in-windows-11/"><u>[Updated] In 2024, The Definitive Window on Game Recording in Windows 11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-the-ultimate-iphone-guide-for-shooting-hdr-photos/"><u>2024 Approved The Ultimate iPhone Guide for Shooting HDR Photos</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/1728501777873-aomei-backupper/"><u>快速磁盘克隆技术 - AOMEI Backupper教程</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/backup-vs-clone-understanding-the-key-distinctions/"><u>Backup Vs. Clone: Understanding the Key Distinctions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/boost-your-twitch-presence-with-these-critical-5-features/"><u>Boost Your Twitch Presence with These Critical 5 Features</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/guide-complet-pour-activer-et-gerer-les-sauvegardes-automatiques-avec-windows-11-sur-microsoft-onedrive/"><u>Guide Complet Pour Activer Et Gérer Les Sauvegardes Automatiques Avec Windows 11 Sur Microsoft OneDrive</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/guide-facile-pour-reinitialiser-le-code-dacces-au-controleur-de-gestion-windows/"><u>Guide Facile Pour Réinitialiser Le Code D'Accès Au Contrôleur De Gestion Windows</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-universal-vmix-adapter/"><u>In 2024, Universal VMix Adapter</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-for-storing-custom-sound-levels-effectively/"><u>Methods for Storing Custom Sound Levels Effectively</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/resolving-touch-screen-issues-on-iphone-after-updating-to-ios-15-or-16/"><u>Resolving Touch Screen Issues on iPhone After Updating to iOS 15 or 16</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/smartbad-status/"><u>SMART機能失敗「BAD STATUS」時の即座対処法：専門家から学ぶ最適手段</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/solucion-a-la-eliminacion-automatica-de-archivos-antiguos-en-google-drive/"><u>Solución a La Eliminación Automática De Archivos Antiguos en Google Drive</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transform-your-smartphone-into-a-film-studio-how-iphones-new-final-cut-app-changes-professional-video-shooting-wired-magazine/"><u>Transform Your Smartphone Into a Film Studio: How iPhone's New Final Cut App Changes Professional Video Shooting | Wired Magazine</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/unveiling-the-features-of-the-latest-ring-battery-doorbells-the-ultimate-review-guide/"><u>Unveiling the Features of the Latest Ring Battery Doorbells - The Ultimate Review Guide</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/unveiling-the-impact-of-adware-understanding-and-deleting-intrusive-tracking-cookies/"><u>Unveiling the Impact of Adware: Understanding & Deleting Intrusive Tracking Cookies</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-purifypicture-premium-bg-eraser-and-editor/"><u>[New] In 2024, PurifyPicture Premium BG Eraser & Editor</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-subtitled-uninterrupted-access-to-9-festive-holiday-movies-free/"><u>[Updated] Subtitled, Uninterrupted Access to 9 Festive Holiday Movies - Free</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1728475612036-gmail/"><u>迅速學會自動備份Gmail: 易用逐步指南</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/can-i-get-repair-or-replacement-for-defective-gpu-from-original-laptop-makers-warranty-insights-by-yl-tech/"><u>Can I Get Repair or Replacement for Defective GPU From Original Laptop Maker's Warranty – Insights by YL Tech</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/dealing-with-the-notorious-blue-screen-error-expert-tips-from-yl-computing/"><u>Dealing with the Notorious Blue Screen Error: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-12-mini-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 12 mini Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ffmpeg-audioscape-maintaining-original-audio-formats/"><u>In 2024, FFmpeg Audioscape Maintaining Original Audio Formats</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-se-2020-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock From iPhone SE (2020) You Should Try Out</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/master-your-pcs-visual-and-performance-preferences-a-tutorial-on-control-panel-settings-by-yl-computing/"><u>Master Your PC's Visual & Performance Preferences: A Tutorial on Control Panel Settings by YL Computing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-unrivaled-power-of-the-netgear-nighthawk-c7000-an-expert-review-on-its-impressive-router-capabilities/"><u>The Unrivaled Power of the Netgear Nighthawk C7000: An Expert Review on Its Impressive Router Capabilities</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/troubleshooting-windows-service-pack-issues-a-guide-by-yl-computing/"><u>Troubleshooting Windows Service Pack Issues: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/ultimate-set-of-digimon-season-three-visual-assets-for-pcs-by-yl-imaging-solutions/"><u>Ultimate Set of Digimon 'Season Three' Visual Assets for PCs by YL Imaging Solutions</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-free-virtual-face-maker-websites/"><u>Updated 2024 Approved Free Virtual Face Maker Websites</u></a></li>
 </ul></div>
 
