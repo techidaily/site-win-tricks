@@ -1,7 +1,7 @@
 ---
 title: Setting Up Exclusions in Windows Defender - A Step-by-Step Guide by YL Computing
-date: 2025-01-11T00:20:15.920Z
-updated: 2025-01-11T21:50:06.908Z
+date: 2025-01-10T17:23:22.711Z
+updated: 2025-01-17T17:30:59.539Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,15 +56,15 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/irect-streamline-the-most-efficient-flv-to-youtube-tools-ranked/"><u>[New] Direct Streamline The Most Efficient Flv-to-YouTube Tools Ranked</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-mac-screen-grabber-including-microphone-recording/"><u>[Updated] Mac Screen Grabber Including Microphone Recording</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/extracting-fb-video-files-from-pcmac/"><u>Extracting FB Video Files From PC/Mac</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-honor-x50iplus-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Honor X50i+</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/laten-bestanden-verschijnen-in-google-maps-7-gewonnen-methoden-om-het-te-vervangen/"><u>Laten Bestanden Verschijnen in Google Maps: 7 Gewonnen Methoden Om Het Te Vervangen!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcome-installation-errors-for-microsoft-flight-simulator-2020-solutions-to-stop-stuck-updates/"><u>Overcome Installation Errors for Microsoft Flight Simulator 2020 - Solutions to Stop Stuck Updates</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/professionelle-losungen-zum-schutz-ihres-windows-servers-entdecken-sie-aomei-backupper-server-als-fuhrende-wahl/"><u>Professionelle Lösungen Zum Schutz Ihres Windows Servers: Entdecken Sie AOMEI Backupper Server Als Führende Wahl</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/top-rated-partition-rescue-tools-for-windows-11-users/"><u>Top Rated Partition Rescue Tools for Windows 11 Users</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/unlock-your-apple-iphone-8-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your Apple iPhone 8 in Minutes with ICCID Code Everything You Need to Know</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/von-ihrem-computer-auf-eine-flash-drive-herunter/"><u>Von Ihrem Computer Auf Eine Flash-Drive Herunter!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-capture-your-linkinscape-content-top-6-tools-for-it/"><u>[New] How to Capture Your Linkinscape Content Top 6 Tools for It</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-maximizing-engagement-10-tips-for-stellar-yt-shorts-content/"><u>[Updated] In 2024, Maximizing Engagement 10 Tips for Stellar YT Shorts Content</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-making-every-frame-count-in-instagram-videos-for-2024/"><u>[Updated] Making Every Frame Count in Instagram Videos for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/comment-retrouver-et-recouvrer-vos-fichiers-detruits-sous-windows-11-une-guerette-pratique/"><u>Comment Retrouver Et Recouvrer Vos Fichiers Détruits Sous Windows 11 : Une Guérette Pratique</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-the-ultimate-guide-to-effective-film-production-using-movie-maker-windows-8/"><u>In 2024, The Ultimate Guide to Effective Film Production Using Movie Maker (Windows 8)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Methods to Change GPS Location On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/ultimate-guide-repairing-damaged-files-on-windows-versions-7-8-10-and-11/"><u>Ultimate Guide: Repairing Damaged Files on Windows Versions 7, 8, 10 & 11</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/understanding-drive-by-attacks-a-comprehensive-guide-by-malwarefox/"><u>Understanding Drive-By Attacks: A Comprehensive Guide by MalwareFox</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/windows-11dropbox/"><u>Windows 11中如何修复与Dropbox同步问题的技巧和指南</u></a></li>
 </ul></div>
 

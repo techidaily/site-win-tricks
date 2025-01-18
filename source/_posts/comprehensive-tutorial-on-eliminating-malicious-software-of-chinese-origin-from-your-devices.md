@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Tutorial on Eliminating Malicious Software of Chinese Origin From Your Devices
-date: 2024-12-11T16:54:30.825Z
-updated: 2024-12-18T16:27:20.695Z
+date: 2025-01-12T18:00:16.970Z
+updated: 2025-01-17T23:44:46.039Z
 tags:
   - product
   - antivirus
@@ -51,7 +51,7 @@ This dangerous file-encoding malware locks the targeted files, including videos,
 After successfully encrypting your files, China Ransomware drops a ransom note titled “**_ÁªÏµÎÒ,ÇëÎðÉ¾³ý1582698030694.txt_**”. It instructs you to contact the attackers via the email address listed in the note. The hackers demand a ransom payment to obtain the decryption key and unlock the encrypted files. Although it is not specified in the text file, the ransom could be between $200 to $1500 and must be paid in Bitcoins or another kind of digital money.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should You Pay The Ransom?
@@ -59,6 +59,10 @@ After successfully encrypting your files, China Ransomware drops a ransom note t
 Paying the ransom is not recommended as there is no guarantee that you will get your files back. Additionally, by paying the ransom, you are supporting the continued development of this malware.
 
 The best course of action is to remove the malware from your computer and then attempt to recover your data from a backup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How does Chinese Malware Spread?
 
@@ -69,6 +73,10 @@ Malicious websites are another common way that this malware is spread. These web
 ## How to Remove Chinese Malware?
 
 Removing Chinese malware can be a challenge, but it is possible. We recommend that you follow the steps below to remove this malware from your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Uninstall Suspicious Applications**
 
@@ -84,9 +92,17 @@ Windows 10Windows 11
 ![Open Task Manager](https://www.malwarefox.com/wp-content/uploads/2020/05/Open-Task-Manger.png)
 2. Watch out for the applications that are consuming the system memory even though you did not install or launch them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Right-click on the suspicious application and open its file location.  
 ![uninstall suspicous files](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-suspicous-files.png)
 4. Delete the file from its root location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Open Control Panel and click on **Uninstall a program** and check for suspicious apps. One by one, select and uninstall them.![uninstall the apps](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-the-apps.png)
 
@@ -98,26 +114,14 @@ Windows 10Windows 11
 3. Right-click on such applications and open their file location.![uninstall suspicous files](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-suspicous-files.png)
 4. Delete all files from the targeted folder. Some files won’t be deleted as the application is still active.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Open **Control Panel** and click on **Uninstall a program**.![uninstall-a-program](https://www.malwarefox.com/wp-content/uploads/2021/09/uninstall-a-program.png)
 6. Check for suspicious apps. One by one, select and uninstall them.![uninstall the apps](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-the-apps.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Reset Web Browser Settings**
 
@@ -135,11 +139,15 @@ Here are the steps to reset the Google Chrome browser:
 2. On the Settings page, click on the **Advanced** at the left pane.![adanced-chrome-settings](https://www.malwarefox.com/wp-content/uploads/2021/09/adanced-chrome-settings.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Under Advanced settings, click on **Reset and clean up**.![reset-and-clean-up](https://www.malwarefox.com/wp-content/uploads/2021/09/reset-and-clean-up.png)
 4. Next, click on the **Reset Settings** button to finish resetting the Chrome Browser.![reset-settings](https://www.malwarefox.com/wp-content/uploads/2021/09/reset-settings.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [How to Control a Chrome Extension’s Permissions](https://tools.techidaily.com/malwarefox/products/)
 
@@ -154,10 +162,6 @@ Follow these steps to reset the Mozilla Firefox:
 
 4. On the warning pop-up, click on **Refresh Firefox**.![click-on-refresh-firefox](https://www.malwarefox.com/wp-content/uploads/2021/09/click-on-refresh-firefox.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### **Reset Microsoft Edge Browser**
 
 On Microsoft Edge, follow these instructions to reset it:
@@ -166,7 +170,7 @@ On Microsoft Edge, follow these instructions to reset it:
 2. Under the settings page, click on **Reset settings** on the left pane.![reset-settings-edge](https://www.malwarefox.com/wp-content/uploads/2021/09/reset-settings-edge.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click on **Restore settings to their default value**.![reset-edge](https://www.malwarefox.com/wp-content/uploads/2021/09/reset-edge.png)
@@ -194,21 +198,17 @@ The first step in removing this malware is to scan your computer with an anti-ma
 
 If you have received any emails with attachments from unknown senders, delete them immediately. These attachments may contain Chinese malware.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Do Not Visit Websites That You Do Not Trust
 
 Be careful when browsing the internet. Do not visit websites that look suspicious or that you do not trust. Malicious websites can infect your computer with this malware.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Back-Up Your Important Files
 
 It is important to have a backup of your important files in case they become encrypted by this malware. We recommend using an external hard drive or a cloud-based backup service such as Google Drive or Dropbox.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Keep Your Anti-Malware Program Up-to-Date
 
@@ -267,18 +267,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-avoidance-of-windows-10-photos-application-hang-ups/"><u>[New] Avoidance of Windows 10 Photos Application Hang-Ups</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-new-developments-in-facebook-2023-edition-for-2024/"><u>[New] New Developments in Facebook - 2023 Edition for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-for-increasing-youtube-video-size/"><u>2024 Approved Techniques for Increasing YouTube Video Size</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/advanced-chatgpt-tips-keeping-your-dialogues-in-order-with-specialized-folder-techniques/"><u>Advanced ChatGPT Tips: Keeping Your Dialogues in Order with Specialized Folder Techniques</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/building-animated-storyboards-in-movie-maker/"><u>Building Animated Storyboards in Movie Maker</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-perfect-your-online-storytelling-top-101-tips-for-facebook-biographies/"><u>[Updated] In 2024, Perfect Your Online Storytelling Top 101 Tips for Facebook Biographies</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/8-trending-videos-on-facebook-for-2024/"><u>8 Trending Videos on Facebook for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/altering-system-preferences-switching-your-default-windows-os-language-guidance-by-yl-computing/"><u>Altering System Preferences: Switching Your Default Windows OS Language - Guidance by YL Computing</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/diy-guide-on-replacing-damaged-pc-power-units-by-professionals-at-yl-software-what-you-need-to-know-first/"><u>DIY Guide on Replacing Damaged PC Power Units by Professionals at YL Software – What You Need to Know First</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/download-girls-generation-icon-pack-yl-graphics-and-software-solutions/"><u>Download Girls' Generation Icon Pack - YL Graphics & Software Solutions</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/ensuring-seamless-performance-how-to-verify-hardware-works-with-windows-expert-advice-from-yl-software/"><u>Ensuring Seamless Performance: How to Verify Hardware Works with Windows – Expert Advice From YL Software</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ergonomic-moko-compact-bluetooth-keyboard-ultimate-portability-and-universal-connectivity/"><u>Ergonomic MoKo Compact Bluetooth Keyboard: Ultimate Portability & Universal Connectivity</u></a></li>
 <li><a href="https://win-tricks.techidaily.com/hd-masterpieces-of-beauty-premium-static-images-for-your-screen-crafted-by-yl-technologies/"><u>HD Masterpieces of Beauty: Premium Static Images for Your Screen - Crafted by YL Technologies</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-to-fix-a-non-functional-audio-card-expert-tips-from-yl-computing/"><u>How to Fix a Non-Functional Audio Card: Expert Tips From YL Computing</u></a></li>
 <li><a href="https://win-tricks.techidaily.com/impact-of-driver-updates-on-graphics-card-efficiency-insights-from-yl-computing/"><u>Impact of Driver Updates on Graphics Card Efficiency: Insights From YL Computing</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-infinix-note-30-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Infinix Note 30 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokémon Go Cooldown Chart On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-evolution-of-action-cameras-from-gopro-hero4-to-hero5/"><u>In 2024, Evolution of Action Cameras From GoPro (Hero4 to Hero5)</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/interactive-showcase-master-your-space-with-a-dell-display-elite-anc-earpiece-and-supersharp-web-cam/"><u>Interactive Showcase: Master Your Space with a Dell Display, Elite ANC Earpiece, and SuperSharp Web Cam</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-vocal-alteration-in-free-fire-complimentary-tips-for-2024/"><u>Mastering Vocal Alteration in Free Fire Complimentary Tips for 2024</u></a></li>
 <li><a href="https://win-tricks.techidaily.com/navigating-the-risks-of-digital-assets-expert-analysis-on-cryptocurrency-hazards-by-yl-computing-yl-software/"><u>Navigating the Risks of Digital Assets: Expert Analysis on Cryptocurrency Hazards by YL Computing | YL Software</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/solutions-for-resolving-the-blue-screen-error-on-windows-tips-and-tricks-from-yl-computing/"><u>Solutions for Resolving the Blue Screen Error on Windows - Tips & Tricks From YL Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/overcome-body-stream-failures-chatgpts-fix-guide/"><u>Overcome Body Stream Failures: ChatGPT's Fix Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/secrets-unlocked-advanced-techniques-to-sculpt-your-igtv-content-size-for-2024/"><u>Secrets Unlocked Advanced Techniques to Sculpt Your IGTV Content Size for 2024</u></a></li>
 </ul></div>
 
