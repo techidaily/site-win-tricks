@@ -1,7 +1,7 @@
 ---
 title: Top 9 Android App Permissions You Should Never Grant
-date: 2025-01-13T21:49:07.931Z
-updated: 2025-01-17T19:21:15.745Z
+date: 2025-01-21T19:05:05.192Z
+updated: 2025-01-24T08:21:38.079Z
 tags:
   - product
   - antivirus
@@ -66,6 +66,10 @@ Fact is, the more unnecessary permissions an app requires, the more it might end
 
 It’s the very nature of the beast.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Setting the Permissions
 
 Whenever you install an app, Android will ask you all of the permissions it needs to function. It will also ask for your confirmation when you start that app for the first time. It is important to read them carefully before allowing specific permission.
@@ -78,6 +82,10 @@ It gives that application the ability to phish your password through trickery or
 
 That’s the last thing you want, this privacy and security nightmare.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## App Permissions to avoid on Android
 
 We take a look at the most common permissions apps asks for on Android below. Each one is detailed with what it does, so you know what it does and how it impacts your privacy and the security of your device. Additionally, it should also give you an idea of what permissions to avoid.
@@ -88,27 +96,15 @@ Let’s get to it.
 
 ![](https://www.malwarefox.com/wp-content/uploads/2020/02/authenticate-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This is extremely dangerous permission to give, as it allows an app to authenticate sensitive information on your Android device, like passwords. Giving a rogue app this access is asking for your password to be phished through trickery.
 
 What’s telling us is that the apps that ask for this permission legitimately come from big developers like Facebook, Twitter, and Google itself. Granting them this permission is fine, but if a small, suspicious app asks you for this ability, then you will have to be very careful. As the potential for harm is great here.
 
 [Session Hijacking Controls your Account without Password: How to](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Read Sensitive log data
 
 ![](https://www.malwarefox.com/wp-content/uploads/2020/02/log.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You don’t want just any application to read the sensitive log data on your Android phone or tablet. But you would be surprised just how many treacherous apps ask for this permission. It simply enables that app to access the log files in your handset.
 
@@ -120,14 +116,22 @@ There have been cases where these malware-infested apps secretly mailed the log 
 
 ![](https://www.malwarefox.com/wp-content/uploads/2020/02/contacts.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 As it says on the tin, this permission gives an application access to your contact, letting it read all the details of these entries. This is the first thing that malware apps will ask for. If you allow them, they will take advantage of these details in a variety of ways, including sending malicious files to your contacts via spoofed emails.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Read or Write Calendar data
 
 ![](https://www.malwarefox.com/wp-content/uploads/2020/02/calendar.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now, this permission is something that will be of moderate importance to most users. Calendar information is usually slightly less important than your contact list, even as calendar events often contain contact information. But if you know that an app is legitimately asking for access here, then there is little harm in giving it. 
@@ -145,7 +149,7 @@ This permission allows an app to read and write system settings. No doubt this i
 Those of you who are using rooted phones should be extra careful when giving this permission. In most cases, you want to look the other way when an app wants in with this, for this is akin to giving the keys of your house to a burglar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Process Outgoing Calls
@@ -155,6 +159,10 @@ Those of you who are using rooted phones should be extra careful when giving thi
 This one is straightforward. Once granted this permission, an app will get the ability to monitor the details of outgoing calls. And you can bet the farmhouse that it will examine everything — from the phone numbers to the personal details of your contacts.
 
 This is another powerful permission that you should not be handing out like candies on a Halloween night. As a matter of pure fact, it should belong exclusively to VoIP apps, those that you use to make voice and video calls with your friends and family. An app that wants this access without having anything to do with incoming or outgoing calls will simply be over-permissioned.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Send SMS
 
@@ -179,19 +187,11 @@ App permissions may be one of the best things to ever happen to the Android plat
 1. ![](https://secure.gravatar.com/avatar/594d2b32dd23344d963d854a4d5ea8f0?s=50&d=mm&r=g)  
 Tonya  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [June 3, 2020 at 1:57 am](https://tools.techidaily.com/malwarefox/products/)  
 How do I stop all of the the blocks,put on anything that has to do with me/or my device,and Chrome/Chromebook. This has been going on since February!How do I stop being controlled remotely? Can I find out who or what is taking over my stuff etc..?Please help and soon  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 2. ![](https://secure.gravatar.com/avatar/f11f4161b0c96d94489229ff513b368b?s=50&d=mm&r=g)  
 Jubal Spencer  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [September 9, 2021 at 2:15 am](https://tools.techidaily.com/malwarefox/products/)  
 I have 6 apps that have an secondary app “Clone” of the same app. 12 apps total. These apps I am concerned about have a file icon in the avatar. they have permission to my contacts, storage, phone, call logs, calendar so on and so forth. Each “cloned” app has the same permissions as the other app. Dual apps Duel permission.  
@@ -206,7 +206,7 @@ I forgot I have an android
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -234,14 +234,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-tricks.techidaily.com/windows-11-3/"><u>[Windows 11] ロックされる前の状態でパソコンを回復する方法:3つの有効な手段</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-listening-out-loud-deciphering-the-differences-between-podcasts-and-youtube/"><u>2024 Approved Listening Out Loud Deciphering the Differences Between Podcasts & YouTube</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/gewahrleistet-sie-die-unversehrtheit-ihrer-informationen-mithilfe-von-raid-and-kostenfreier-raid-backup-software/"><u>Gewährleistet Sie Die Unversehrtheit Ihrer Informationen Mithilfe Von RAID & Kostenfreier RAID Backup Software</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/instructions-for-making-your-hard-disk-or-usb-stick-boot-ready-with-windows-10-and-11/"><u>Instructions for Making Your Hard Disk or USB Stick Boot-Ready with Windows 10 and 11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quickly-speed-up-your-slow-mobile-connection-a-step-by-step-guide/"><u>Quickly Speed Up Your Slow Mobile Connection - A Step-by-Step Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-blueprint-for-building-a-bountiful-steam-wallet/"><u>The Blueprint for Building a Bountiful Steam Wallet</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/wie-man-daten-effektiv-von-einem-computer-auf-den-anderen-ubertragt/"><u>Wie Man Daten Effektiv Von Einem Computer Auf Den Anderen Überträgt</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-navigating-the-pinning-landscape-in-snapchat/"><u>[New] In 2024, Navigating the Pinning Landscape in Snapchat</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-strategic-insights-to-amplify-your-spotify-ad-reach/"><u>[Updated] Strategic Insights to Amplify Your Spotify Ad Reach</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/11-insider-tips-for-outstanding-hue-alignment-for-2024/"><u>11 Insider Tips for Outstanding Hue Alignment for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-effective-steps-to-dismiss-videos-in-youtube-watchlater/"><u>2024 Approved Effective Steps to Dismiss Videos in YouTube Watchlater</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-6-amazing-free-substitutes-for-adobe-photoshop/"><u>Discover 6 Amazing Free Substitutes for Adobe Photoshop</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/effectieve-strategieen-van-hoe-photorec-om-beschadigde-gegevens-te-herstellen-op-een-windows-pc/"><u>Effectieve Strategieën Van Hoe PhotoRec Om Beschadigde Gegevens Te Herstellen Op Een Windows PC</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/fast-solutions-no-cost-methods-to-authorize-your-apple-music-account/"><u>Fast Solutions: No Cost Methods to Authorize Your Apple Music Account</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-kinemaster-elevating-your-game-play-experience-on-android-devices/"><u>In 2024, KineMaster Elevating Your Game Play Experience on Android Devices</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/optimal-java-runtime-enablement-jre-selection-window/"><u>Optimal Java Runtime Enablement (JRE) Selection Window</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/simple-guide-how-to-quickly-reset-your-pc-on-windows-781011-with-3-simple-steps/"><u>Simple Guide: How to Quickly Reset Your PC on Windows 7/8/10/11 with 3 Simple Steps</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/solutions-rapides-comment-reparer-et-acceder-a-votre-fichier-endommage-en-ligne/"><u>Solutions Rapides : Comment Réparer Et Accéder À Votre Fichier Endommagé en Ligne</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-missing-os-errors-on-your-computer-easy-fixes-and-best-practices/"><u>Troubleshooting Missing OS Errors on Your Computer - Easy Fixes and Best Practices</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/verfahren-zur-integration-von-netzwerkspeichersymbolen-in-google-drive/"><u>Verfahren Zur Integration Von Netzwerkspeichersymbolen in Google Drive</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/version-gratuite-de-logiciel-de-sauvegarde-pour-reseaux-netgear-readynas-avec-aomei-backupper/"><u>Version Gratuite De Logiciel De Sauvegarde Pour Réseaux NETGEAR ReadyNAS Avec AOMEI Backupper</u></a></li>
 </ul></div>
 
