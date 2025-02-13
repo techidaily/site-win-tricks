@@ -1,7 +1,7 @@
 ---
 title: Top 9 Android App Permissions You Should Never Grant
-date: 2025-01-27T17:59:21.806Z
-updated: 2025-01-31T19:19:45.546Z
+date: 2025-02-10T16:37:02.652Z
+updated: 2025-02-13T04:23:00.879Z
 tags:
   - product
   - antivirus
@@ -78,15 +78,15 @@ It gives that application the ability to phish your password through trickery or
 
 That’s the last thing you want, this privacy and security nightmare.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## App Permissions to avoid on Android
 
 We take a look at the most common permissions apps asks for on Android below. Each one is detailed with what it does, so you know what it does and how it impacts your privacy and the security of your device. Additionally, it should also give you an idea of what permissions to avoid.
 
 Let’s get to it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Authenticate accounts
 
@@ -99,12 +99,16 @@ What’s telling us is that the apps that ask for this permission legitimately c
 [Session Hijacking Controls your Account without Password: How to](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Read Sensitive log data
 
 ![](https://www.malwarefox.com/wp-content/uploads/2020/02/log.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You don’t want just any application to read the sensitive log data on your Android phone or tablet. But you would be surprised just how many treacherous apps ask for this permission. It simply enables that app to access the log files in your handset.
 
@@ -112,41 +116,45 @@ There have been cases where these malware-infested apps secretly mailed the log 
 
 [What is Cached Data on Android Phone](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Read contacts
 
 ![](https://www.malwarefox.com/wp-content/uploads/2020/02/contacts.png)
 
 As it says on the tin, this permission gives an application access to your contact, letting it read all the details of these entries. This is the first thing that malware apps will ask for. If you allow them, they will take advantage of these details in a variety of ways, including sending malicious files to your contacts via spoofed emails.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Read or Write Calendar data
 
 ![](https://www.malwarefox.com/wp-content/uploads/2020/02/calendar.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now, this permission is something that will be of moderate importance to most users. Calendar information is usually slightly less important than your contact list, even as calendar events often contain contact information. But if you know that an app is legitimately asking for access here, then there is little harm in giving it. 
 
 Save for cases where you absolutely know that an application has got nothing to do with this.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Read Browser History and Bookmarks
 
 This one explains itself. Browsing habits can be tracked using this permission. While there are legitimate uses of this permission like social apps, or applications that sync or backup your data, still take caution when enabling it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Write Secure Settings
 
 This permission allows an app to read and write system settings. No doubt this is something that Google heavily polices, as very few apps are approved that asks for this access. But that’s not to say that rogue software doesn’t exist that misuses this ability.
 
 Those of you who are using rooted phones should be extra careful when giving this permission. In most cases, you want to look the other way when an app wants in with this, for this is akin to giving the keys of your house to a burglar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Process Outgoing Calls
 
@@ -155,10 +163,6 @@ Those of you who are using rooted phones should be extra careful when giving thi
 This one is straightforward. Once granted this permission, an app will get the ability to monitor the details of outgoing calls. And you can bet the farmhouse that it will examine everything — from the phone numbers to the personal details of your contacts.
 
 This is another powerful permission that you should not be handing out like candies on a Halloween night. As a matter of pure fact, it should belong exclusively to VoIP apps, those that you use to make voice and video calls with your friends and family. An app that wants this access without having anything to do with incoming or outgoing calls will simply be over-permissioned.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Send SMS
 
@@ -174,13 +178,13 @@ The boom in social media shows no signs of slowing down, and neither are the pri
 
 This is, again, something that you should be very careful of, and only hand over to apps that you trust. Most people have a vast amount of personal information in their profiles on social networks, and you really don’t want to invite a rogue app to take advantage of this.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 App permissions may be one of the best things to ever happen to the Android platform. They are great in theory. But it still pays to know exactly what terms and conditions you are agreeing to, and what the applications are doing with your private data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 thoughts on “9 App Permissions to Avoid on Android”
 
@@ -192,10 +196,6 @@ How do I stop all of the the blocks,put on anything that has to do with me/or my
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 2. ![](https://secure.gravatar.com/avatar/f11f4161b0c96d94489229ff513b368b?s=50&d=mm&r=g)  
 Jubal Spencer  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [September 9, 2021 at 2:15 am](https://tools.techidaily.com/malwarefox/products/)  
 I have 6 apps that have an secondary app “Clone” of the same app. 12 apps total. These apps I am concerned about have a file icon in the avatar. they have permission to my contacts, storage, phone, call logs, calendar so on and so forth. Each “cloned” app has the same permissions as the other app. Dual apps Duel permission.  
@@ -234,16 +234,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-unlock-your-potential-best-video-editing-hacks/"><u>[Updated] Unlock Your Potential Best Video Editing Hacks</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-pro-tools-for-non-pro-youtubers/"><u>2024 Approved Pro Tools for Non-Pro YouTubers</u></a></li>
-<li><a href="https://fox-where.techidaily.com/est-ce-que-le-protocole-de-securisation-en-7-phases-est-sans-risque-sachez-tout-ici/"><u>Est-Ce Que Le Protocole De Sécurisation en 7 Phases Est Sans Risque ? Sachez Tout Ici</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/identifying-and-removing-malware-and-viruses-that-drag-down-your-pcs-performance-insights-from-yl-software-experts/"><u>Identifying and Removing Malware & Viruses That Drag Down Your PC's Performance - Insights From YL Software Experts</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/identifying-computer-hardware-issues-expert-tips-from-yl-software-engineers/"><u>Identifying Computer Hardware Issues: Expert Tips From YL Software Engineers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/iphone-se-2022-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone SE (2022) Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976747692-latest-drivers-available-update-your-nvidia-quadro-rtx-4000-today/"><u>Latest Drivers Available: Update Your NVIDIA Quadro RTX 4000 Today</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/step-by-step-guide-creating-new-folders-in-windows-os-tips-from-yl-computings-expert-solutions/"><u>Step-by-Step Guide: Creating New Folders in Windows OS - Tips From YL Computing's Expert Solutions</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/step-by-step-guide-setting-up-new-printers-and-peripherals-with-yl-computings-solutions/"><u>Step-by-Step Guide: Setting Up New Printers & Peripherals with YL Computing's Solutions</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/yl-software-expert-advice-enhance-pc-speed-with-these-proven-tips/"><u>YL Software Expert Advice: Enhance PC Speed with These Proven Tips</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-adding-dynamic-blurs-to-ai-designed-graphics/"><u>[New] 2024 Approved Adding Dynamic Blurs to AI-Designed Graphics</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-journey-just-beginning-how-to-unlock-ifunny-memes/"><u>[Updated] Journey Just Beginning How to Unlock iFunny Memes</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1728504365639-iphone/"><u>丢失了iPhone微信对话历史，如何重新获取？详解回复</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1728485077873-windows-111087/"><u>対処方法: Windows 11、10、8、および7でのバックアップ手順に失敗した場合</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/alerte-solution-de-sauvegarde-et-synchronisation-indisponible-desormais/"><u>Alerte : Solution De Sauvegarde Et Synchronisation Indisponible Désormais</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/auditory-enhancement-strategies-for-video-creators-for-2024/"><u>Auditory Enhancement Strategies for Video Creators for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/dell-pc-clone-os-installation-without-rebooting/"><u>Dell PC Clone OS Installation without Rebooting</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/edit-like-a-pro-explore-the-best-10-photo-enhancement-applications-for-desktops-and-laptops/"><u>Edit Like a Pro: Explore The Best 10 Photo Enhancement Applications for Desktops & Laptops</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/ein-systemwiederherstellungs-cd-fur-windows-eusere-erstellen-komplette-anleitung-ausfuhren/"><u>Ein Systemwiederherstellungs-CD Für Windows Eusere Erstellen - Komplette Anleitung Ausführen</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/gratuito-download-de-melhor-software-bitcopy-para-windows-versoes-11-10-8-e/"><u>Gratuito Download De Melhor Software BitCopy Para Windows: Versões 11, 10, 8 E</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-bargain-for-windowmac-users-top-8-free-3d-players/"><u>In 2024, Best Bargain for Window/Mac Users Top 8 FREE 3D Players</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-prime-mp4-conversion-for-seamless-facebook-sharing/"><u>In 2024, Prime MP4 Conversion for Seamless Facebook Sharing</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-g24-power-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from G24 Power</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/schnelle-datenspeicherung-mit-windows-10-effiziente-managementtechniken-zum-erfolgreichen-exportieren/"><u>Schnelle Datenspeicherung Mit Windows 10: Effiziente Managementtechniken Zum Erfolgreichen Exportieren</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/transfert-de-boite-mail-exportation-dun-courrier-office-365-a-pst-avec-facilite/"><u>Transfert De Boîte Mail - Exportation D'un Courrier Office 365 À PST Avec Facilité</u></a></li>
 </ul></div>
 
