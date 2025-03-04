@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial for Adding Tracks Into LYRX Karaoke (Windows Version)
-date: 2025-02-10T08:02:03.269Z
-updated: 2025-02-13T09:00:24.052Z
+date: 2025-03-01T19:26:43.238Z
+updated: 2025-03-04T05:08:43.951Z
 tags:
   - product
 categories:
@@ -18,10 +18,6 @@ We also demonstrate how to update the browser with new songs as they are added t
 LYRX is the new and feisty **karaoke program** on the market, disrupting the status quo and the tired, same ‘ol same ‘ol **karaoke players** that have been commonplace the last two decades. Birthed of [DEX 3](https://tools.techidaily.com/pcdj/products/), our flagship “Mix Everything” DJ software, LYRX is modern, snappy, and performance oriented — and has native support for all video formats. Learn more at [LYRXKaraoke.com](http://www.lyrxkaraoke.com).
 
 _Have questions about **importing music into LYRX**? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -42,24 +38,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/01/importingmusic-tutorial.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-slomo-visual-delight-thorough-assessment-release/"><u>[New] 2024 Approved SloMo Visual Delight Thorough Assessment Release</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-watching-outdated-facebook-chronicles-mobilelaptop/"><u>[New] 2024 Approved Watching Outdated Facebook Chronicles (Mobile/Laptop)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-navigating-permissions-recording-on-whatsapp-platforms/"><u>[New] Navigating Permissions Recording on WhatsApp Platforms</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-tips-for-recording-and-saving-google-voice-interactions-for-2024/"><u>[New] Tips for Recording and Saving Google Voice Interactions for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-a-step-by-step-plan-efficient-vimeo-video-logging/"><u>[Updated] 2024 Approved A Step-by-Step Plan Efficient Vimeo Video Logging</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-perfecting-iphone-capture-and-record-at-once/"><u>[Updated] Perfecting iPhone Capture & Record at Once</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/detecting-and-clearing-internal-dust-accumulation-in-pcs-a-comprehensive-guide-tips-by-yl-computing/"><u>Detecting & Clearing Internal Dust Accumulation in PCs: A Comprehensive Guide - Tips by YL Computing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-xiaomi-mix-fold-3-phone-by-drfone-android/"><u>How to Reset a Locked Xiaomi Mix Fold 3 Phone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo X100? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-iphone-13-pro-maxipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on iPhone 13 Pro Max/iPad/iPod</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/resolving-printer-queue-issues-expert-tips-from-yl-computings-latest-guide/"><u>Resolving Printer Queue Issues: Expert Tips From YL Computing's Latest Guide</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/resolving-printer-spooler-issues-a-step-by-step-guide-techsolutions-by-yl/"><u>Resolving Printer Spooler Issues: A Step-by-Step Guide - TechSolutions by YL</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/step-by-step-guide-to-modify-windows-user-access-with-control-panel-tools-courtesy-of-yl-computing/"><u>Step-by-Step Guide to Modify Windows User Access with Control Panel Tools, Courtesy of YL Computing</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/step-by-step-guide-updating-your-pc-wallpaper-via-windows-settings-tips-by-yl-computing/"><u>Step-by-Step Guide: Updating Your PC Wallpaper via Windows Settings - Tips by YL Computing</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-for-integrating-subsmoviesclub-extension-with-kodi-on-nexusmatrix-systems/"><u>Step-by-Step Tutorial for Integrating Subsmovies.club Extension with Kodi on Nexus/Matrix Systems</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/troubleshooting-relentless-rodent-reactions-with-yl-software-solutions/"><u>Troubleshooting Relentless Rodent Reactions with YL Software Solutions</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/ultra-clear-star-wars-wallsavers-and-backdrops-powered-by-yl-software-solutions/"><u>Ultra-Clear Star Wars Wallsavers & Backdrops, Powered by YL Software Solutions</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/verify-if-your-pc-runs-windows-defender-automatically-essential-guide-from-yl-software/"><u>Verify if Your PC Runs Windows Defender Automatically - Essential Guide From YL Software</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/yl-software-explains-how-to-refresh-device-drivers-for-optimal-performance/"><u>YL Software Explains How to Refresh Device Drivers for Optimal Performance</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-expert-guide-implementing-time-loops-in-obs-for-2024/"><u>[New] Expert Guide Implementing Time Loops in OBS for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-perfect-end-youtube-outro-essentials-and-top-creators/"><u>[New] In 2024, The Perfect End YouTube Outro Essentials & Top Creators</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-scrutinizing-wirecast-plus-similar-tools/"><u>[New] Scrutinizing WireCast + Similar Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-srt-conversion-compendium-for-media-professionals/"><u>2024 Approved SRT Conversion Compendium for Media Professionals</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/easily-generate-your-flipbooks-table-of-contents-with-flipbuildercom-start-now/"><u>Easily Generate Your Flipbook's Table of Contents with FlipBuilder.com - Start Now!</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/easy-steps-adding-a-customizable-flipbook-to-your-wordpress-with-flipbuilder-technology/"><u>Easy Steps: Adding a Customizable FlipBook to Your WordPress with FlipBuilder Technology</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/fast-and-easy-conversion-from-pdf-to-epub-for-bulk-documents-try-now-at-no-cost-on-flipbuilder/"><u>Fast & Easy Conversion From PDF to ePub for Bulk Documents - Try Now at No Cost on FlipBuilder</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-can-i-personalize-flipbuttons-help-feature-on-my-website/"><u>How Can I Personalize FlipButton's Help Feature on My Website?</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-activate-magnification-features-in-flipbooks-on-flipbuildercom/"><u>How to Activate Magnification Features in Flipbooks on FlipBuilder.com</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-enable-multilingual-support-for-your-ebooks-with-flipbuilder-a-comprehensive-guide/"><u>How To Enable Multilingual Support For Your eBooks With FlipBuilder: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-preserve-your-preferences-for-future-flipbook-creations-on-flipbuildercom/"><u>How to Preserve Your Preferences for Future FlipBook Creations on FlipBuilder.com</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-set-up-a-download-link-for-your-e-book-on-flipbuilder-a-comprehensive-guide/"><u>How to Set Up a Download Link for Your E-Book on FlipBuilder: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-switch-flash-content-from-english-to-your-native-tongue-on-flipbuildercom/"><u>How to Switch Flash Content From English to Your Native Tongue on FlipBuilder.com</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-the-art-of-moving-files-top-7-strategies-for-iphone-to-pc-transfer/"><u>Mastering the Art of Moving Files: Top 7 Strategies for iPhone-to-PC Transfer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-eliminating-frequent-disruptions-in-beat-saber-gameplay/"><u>Solution Found: Eliminating Frequent Disruptions in Beat Saber Gameplay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-correcting-power-state-failure-issues-in-your-driver-software/"><u>Step-by-Step Solutions for Correcting Power State Failure Issues in Your Driver Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/triumph-over-troubles-fixed-hp-1020-in-win-os/"><u>Triumph Over Troubles: Fixed HP 1020 in Win OS</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/understanding-bitcoins-inner-workings-and-core-concepts-with-detailed-analysis-from-yl-software-experts/"><u>Understanding Bitcoin's Inner Workings & Core Concepts with Detailed Analysis From YL Software Experts</u></a></li>
 </ul></div>
 
